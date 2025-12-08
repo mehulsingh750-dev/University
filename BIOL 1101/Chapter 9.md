@@ -64,3 +64,4 @@
 		- Purple (dominant) = PP + Pp = 1/4 + 1/2 = 3/4
 		- White (recessive) = pp = 1/4
 		- **3:1** ratio
+		- Hello
