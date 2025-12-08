@@ -20,4 +20,5 @@
 			- Most common allele (+ symbol)
 			- Usually dominant
 	- Genetic Recombination
-		- Alleles that are linked on the *same* chromosme can exc
+		- Alleles that are linked on the *same* chromosome can exchange segments between homologous chromosomes
+		- This occures while homologus chromomes pair during 
