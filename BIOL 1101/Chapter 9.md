@@ -66,4 +66,4 @@
 		- **3:1** ratio
 - Testcross
 	- Crossing an unknown genotype with a homozygous recessive individual (pp)
-	- This reveals if it 
+	- This reveals if it is homozygous or heterozygous 
