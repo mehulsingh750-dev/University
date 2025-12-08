@@ -98,3 +98,6 @@
 			- Trisomy 21/Down syndrome
 			- 3 copies of chromosome 21
 			- As women's age increases, nondisjunction increases
+	- Polyploids
+		- Common in plants
+			- So
