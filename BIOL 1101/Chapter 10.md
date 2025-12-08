@@ -50,4 +50,5 @@
 	- Males only have 1 X chromosome as mentioned
 		- 1 copy of recessive X allele results in expression of trait
 	- Females have 2 X chromosomes
-		- 
+		- Heterozygote recessive: allele is hidden while dominant is expressed
+		- Homozygote recessive: trait is expressed
