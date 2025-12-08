@@ -30,4 +30,5 @@
 			- This means there is a higher chance of *crossover* between these genes
 		- To find the recombinant frequency:
 			- (Recombinants/Total) x 100
-	- 
+	- Linkage Maps
+		- Recombination frequencies are used to determine **gene order** o
