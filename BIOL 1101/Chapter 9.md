@@ -123,7 +123,9 @@
 		- Effects of each allele are equally detectable in heterozygotes 
 		- Both fully expressed in heterozygotes
 		- Human M, MN and N blood types
-			- 
+			- MM = M glycoprotein present; blood type M
+			- NN= N glycoprotein present; blood type N
+			- MN= both glycoproteins present; blood type MN
 	- *Multiple Alleles*
 		- More than two alleles of a gene are present in a population
 	- *Epistasis*
