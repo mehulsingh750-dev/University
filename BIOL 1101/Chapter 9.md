@@ -71,4 +71,5 @@
 	- All **dominant** offspring means the parent was homozygous dominant (same with recessive but vice versa)
 	- Mix of dominant and recessive means the parent was heterozygous 
 -  Dihybrid Cross
-	- 
+	- Pea shape: R = round and r = wrinkled
+	- Pea colour: Y= yellow and y= green
