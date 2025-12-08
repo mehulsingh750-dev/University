@@ -34,4 +34,5 @@
 		- Recombination frequencies are used to determine **gene order** on chromosome
 		- 1 map unit (centimorgan) = 1% recombination (recall that greater the distance means greater the recombination)
 	- Can genes on the same chromosome ever assort independently?
-		- 
+		- Widely separated linked genes often recombine
+			- *Seem* to assort indepedently, but can be detected by t
