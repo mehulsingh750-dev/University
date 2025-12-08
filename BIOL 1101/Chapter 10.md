@@ -91,4 +91,4 @@
 		- *Aneuploid*
 			- extra or missing #
 		- *Polyploids*
-			- Extra set of chromosomes
+			- Extra set of chromosomes due to spindle failure during cell division
