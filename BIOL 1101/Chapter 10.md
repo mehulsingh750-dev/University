@@ -82,3 +82,5 @@
 			- Codes for tyrosine kinase
 			- Cells grow uncontrollably 
 			- Gleevec (imatinib) inhibits kinase
+	- Nondisjunction
+		- Failure of homologous pair seperation during 
