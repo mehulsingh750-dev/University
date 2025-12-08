@@ -124,4 +124,7 @@
 			- Females
 				- Heterozygous carriers do no show symptoms
 				- Homozygous, show symptoms
-	- Genetic Counselling 
+	- Genetic Counselling Techniques
+		- Pedigrees help identify parental genotypes
+		- Prenatal Diagnosis
+			- Tests cells
