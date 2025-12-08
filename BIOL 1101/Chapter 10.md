@@ -40,3 +40,5 @@
 	- Sex chromosomes determine sex
 	- XX= Female
 	- XY= Male
+	- **Autosomes** refer to all other non-sex chromosomes (22)
+	- Y chromsome contains SRY gene
