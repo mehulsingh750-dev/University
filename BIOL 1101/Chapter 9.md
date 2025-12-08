@@ -1,0 +1,66 @@
+-   **Blending Theory of Inheritance
+	- Hereditary traits blend evenly in offspring through mixing of parents blood
+	- This does *not* explain why:
+		- Extremes do no gradually disappear
+		- Offspring sometimes have traits that differ from both parent
+	- This was proven FALSE
+- Gregor Mendel
+	- Founder of Genetics
+	- He was the first to use the scientific method to study *genes*
+	- He had **FOUR** major hypotheses"
+		- Principle of Paired Factors 
+			- Individuals inherit two gene copies for each trait, one from each parent
+			- Diploids have two copies of each gene
+		- Principle of Dominance
+			- If two different alleles are present, the dominant one is expressed while the recessive isn't
+			- Recessive alleles only expressed when both alleles are reccessive
+		- Law of Segregation
+			- During Gamete formation, the alleles for each gene separate, so each gamete receives only one allele per trait
+			- Gamete fusion restores allele pairs in offspring
+		- Law of independent assortment
+			- The segregation of alleles for one gene does not affect the segregation of alleles for another gene, leading to diverse offspring combinations
+		- His experiments supported the last two laws
+- Pea Plant Experiments
+	- Why the garden pea?
+		- It was easy to grow
+		- Clearly defined contrasting traits 
+		- Controlled mating
+	- True-breeding
+		- Self fertilized plants (anthers produced pollen with sperm nuclei)
+		- Same trait in each generation
+	- Cross-Pollination
+		- Between different parent plants
+		- Different traits in each generation
+	-  Flower colour cross
+		- P Gen
+			- Purple Flowers crossed with white flowers
+		- F1 Gen
+			- All purple
+		- F2 Gen
+			- 3 purple, 1 white (No blending)
+			- 3:1 ratio
+- Terminology
+	- Homozygous: Same alleles (PP or pp)
+	- Heterozygous: Two different alleles (Pp)
+	- Genotype: Genetic makeup from parents
+	- Phenotype: Outward appearance (purple/white flowers)
+- Product Rule in Probability
+	- Probability of two events occurring in succession
+	- Ex. Coin flip
+		- Heads = 1/2
+		- Tails = 1/2
+		- Two heads = 1/2 x 1/2 = 1/4
+		- Two tails = 1/2 x 1/2 = 1/4
+	- Mendel could predict
+		- Classes of offspring
+		- Proportions of those offspring 
+	- He used the combined probabilities of each event happening (sum rule)
+- Probability in Mendel's Crosses
+	- Genotype
+		- PP zygote = 1/2 x 1/2 = 1/4
+		- pp zygote = 1/2 x 1/2 = 1/4
+		- Pp zygote = 1/4 + 1/4 = 1/2 (sum rule as Pp happens twice)
+	- Phenotype
+		- Purple (dominant) = PP + Pp = 1/4 + 1/2 = 3/4
+		- White (recessive) = pp = 1/4
+		- **3:1** ratio

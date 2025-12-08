@@ -1,0 +1,44 @@
+- Chapter 11
+	- Ecosystem services provided by fresh water fisheries
+		- Regulation - food web dynamics
+		- Support - Maintenance of biodiversity
+		- Provisioning - Food provision
+		- Cultural and Scientific - Heritage and identity
+	- Limnetic zone - sunlight penetrates
+	- Profundal zone - sunlight does not penetrate 
+	- Channelization - making dams, floodwalls, and embankments
+	- Dams
+		- Pros
+			- Inexpensive, clean energy
+			- No green house gases
+			- Release irrigation water and drinking water
+		- Cons
+			- Habitat Alteration
+			- Fisheries decline
+			- Risk of failure
+	- Types of pollution
+		- Point source - From a factory, direct
+		- Non-point source - cumulative (farm, cities, neighbourhoods)
+		- Nutrient pollution - Eutrophication, too much phosphorus creates algae
+		- Toxic chemicals
+		- Thermal Pollution - Waters ability to hold dissolved oxygen decreases as temp rises
+- Chapter 12
+	- Marine resources: Humans use and Impact
+			- We extract minerals and resources (methane hydrate)
+			- Marine pollution threatens resources and marine life (old batteries, car frames)
+			- Pollutants can contaminant sea food (mercury)
+- Chapter 13
+	- Criteria air containments
+		- Sulphur dioxide
+		- Nitrogen Dioxide
+		- Particulate matter - solid/liquid particles small enough to be suspended in the atmosphere
+		- Volatile Organic compounds - vehicle engines
+		- Carbon Monoxide - incomplete combustion of fuel
+		- Ammonia - colourless gas from fertilizers
+		- Tropospheric Ozone - O3 accumulates at ground level
+	- Government levels responsibilities
+		- Federal - International agreements
+		- Provincial/territorial - own regions
+		- Municipal - Montreal and great Vancouver
+- Chapter 14
+	- 

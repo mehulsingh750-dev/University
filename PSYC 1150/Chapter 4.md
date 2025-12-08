@@ -1,0 +1,189 @@
+4.1
+- **Sensation** is the detection of physical energy by our sense organs
+- **Perception** is the brains interpretation of these sensory inputs, assembling them into something meaningful
+- What we see is an *illusion* as the way we perceive stimulus doesn't match reality
+- *Naive Realism* refers to the belief that our perception of the world perfectly matches its actual reality
+- Karl Friston described the brain as a prediction engine that makes inferences or its best guess about the world around us
+- The human brain chooses what sensory info it uses and relies on expectations and prior experiences to fill in the gaps
+- Transduction:
+	- The process by which the nervous system converts and external stimulus into electrical signals within neurons
+	- Specific sense receptors transduce a specific stimulus 
+- For all senses, activation is greatest when we first detect a stimulus
+	- After that, our response declines in strength through a process called **sensory adaptation** 
+- Psychophysics (Gustav Fechner)
+	- Study of how we perceive sensory stimuli based on their physical characteristics 
+- Absolute Threshold
+	- The absolute lowest level of a stimulus that we can detect
+- Just Noticeable Difference (JND)
+	- Smallest change in the intensity of a stimuli that we can detect
+	- **Weber's law** states there is a constant proportional relationship between the JND and the original stimulus intensity (linear)
+- Signal Detection Theory (David Green and John Swets)
+	- How we detect stimuli under uncertain conditions 
+	- They were also interested in *response biases*, the tendency to make one type of guess over another when we don't know if a weak signal is present or absent under noisy conditions
+- Johannes Muller deposited *specific nerve energies*
+	- It is the idea that even though there are many different stimulus energies, the sensation we experience is determined by the nature of the sense receptor, not the stimulus.
+	- It doesn't matter whether light or touch activated the sense receptor, our brain responds the same way in either case
+	- **Phosphenes** are vivid sensations of light that are caused by pressure on your eyes receptors cells 
+- *McGurk Effect* is that we integrate visual and auditory info when processing spoken language and our brains automatically calculate the most probable sound given the information from the 2 sources.
+- *Rubber Hand Illusion* shows how our sense of touch and sight interact to create a fake perceptual experience.
+- **Synesthesia** (Sir Francis Galton)
+	- condition where people experience cross-modal sensations, like hearing sounds when they see colour
+	- Examples:
+		- Mirror Touch: One person experiences the same sensation another person experiences, such as touch
+		- Lexical Gustatory: Words associated with tastes or texture
+		- Chromesthesia: Sounds trigger experience of colour
+		- Personification: Numbers or letters take on person like qualities
+		- Number form: Numbers are imagined as mental maps
+		- Spatial Sequence: Dates or numbers are perceived as closer or farther in space
+- Role of Attention
+	- **Selective attention** 
+		- Allows us to select one thing to focus on and block everything else out
+	- **Filter theory of attention** (Donald Broadbent's)
+		- Views attention as a bottle neck through which info can pass
+		- Tested using *dichotic listening*, where people hear two different messages through each ear. When asked to ignore one of them, they could not what it was at all,
+		- Annie Treisman replicated this using *shadowing*, asking them to repeat the messages they heard. People would sometimes recall info they were supposed to ignore
+	- Inattentional Blindness
+		- The idea that we are poor at detecting stimuli in plain sight when focused on something else
+- The Binding Problem
+	- When different regions of the brain process, for example, an apple we are not sure how the brain binds these different pieces of information together
+4.2
+- Light
+	- Visible spectrum of light exists between 400 and 700 nm for humans
+	- When light reaches an object part is reflected and part is absorbed
+	- White objects reflect all light while black objects absorb it
+	- Psychologists call the colour of light *hue* 
+	- We are attuned to red, green and blue 
+		- **Additive Colour Mixing**, the mixing of these colours, can produce any visible colour
+		- **Subtractive Colour Mixing** is the same but with paint or ink, which produces a darker colour
+- Eye
+	- Structure
+		- **Sclera** is the white part of the eye
+		- **Iris** is the coloured part of eye
+		- **Pupil** is the circular hole which the light enters the eye
+			- Closing of the pupil is a reflex response to light/object coming towards us (pupillary reflex)
+			- When our pupils dilate, it means we are trying to process complex information  
+		- **Cornea** is the curved, transparent layer covering the iris and the pupil
+			- Its shape bends light so we can focus the image at the back of the eye
+		- **Lens** also bends light and changes its curvature, fine tuning the visual image 
+		- *Accommodation* is the process of the lens changing shape to focus light on the back of the eyes
+	- Shape
+		- *Myopia* (near sightedness) results when images are focused in front of the rear of our eye 
+		- *Hyperopia* results when we cant see objects near to us well
+		- The loss of flexibility in the lens due to aging is called *presbyopia* 
+	- Retina
+		- A thin membrane at the back of the eye
+		- **Fovea** is the central part of the retina and is responsible for acuity (sharpness of vision)
+		- Two types of receptor cells
+			- Rods: 
+				- Long and narrow, help us see basic shapes and forms 
+				- Used for dark adaptation
+			- Cones:
+				- Less plentiful
+				- Give us colour vision and are sensitive to detail
+		- Optic Nerve
+			- Contains the axons of ganglion cells
+			- Travels from the retina to the rest of the brain
+			- Reaches **optic chiasm** which splits axons
+- Visual Perception
+	- **Feature detection** is the ability to use certain minimal patterns to identify objects 
+	- **Trichromatic Theory**
+		- Proposes that we base our colour vision on three primary colours: Blue, green and red
+		- These three cones are sensitive to different types of wavelengths of light
+		- *Colour Blindness* is most often due to one of these cones missing 
+	- Opponent Process Theory
+		- The afterimage of staring at a green colour for too long is red, something trichromatic theory cannot account for.
+		- Afterimages arise from the visual cortex's processing of information from our rods and cones.
+		- Opponent process theory states that we actually perceive colours in 3 different pairs: Red or green, blue or yellow, and black or white
+		- This would mean afterimage of blue object would be yellow and vice versa
+- Visual Agnosia
+	- Deficit in perceiving objects
+	- Subject can tell us shape and colour of object, but cant recognize or name it
+4.3
+- Sound
+	- Sound is a vibration, a kind of mechanical energy travelling through a medium.
+	- Sounds have *pitch*
+		- Corresponds to the frequency of the wave: Higher frequency = higher pitch
+	- Loudness
+		- Amplitude of a sound wave corresponds to loudness
+	- Timbre
+		- Quality or complexity of the sound
+- Structure and Function of Ear
+	- Sense receptors for hearing transduce sound into neural activity
+	- Ear has 3 parts:
+		- **Outer ear**, consisting of *pinna* (cartilage flap)
+		- **Middle ear**, containing the *ossicles*, 3 small bones that vibrate at the frequency of the sound wave
+		- **Inner ear**, containing the *cochlea* which converts vibration into neural activity 
+- Auditory Perception
+	- Auditory nerve enters brain --> makes contact with brain stem --> sends to auditory complex
+	- Place theory
+		- Hair cells located at the base of the basilar membrane are most excited by high pitched tones, whereas hair cells at the top are excited by low pitched tones.
+		- These cells send info to specific places in the auditory complex, matching the tone with a specific pitch
+	- Frequency Theory
+		- The rate at which neurons fire action potentials reproduces the pitch
+4.4
+- Smell is also known as *olfaction* and taste as *gustation*
+- Odours
+	- Airborne chemicals that interact with receptors in the lining of our nasal passages 
+	- We are capable of detecting between 2000 to 4000 different odours 
+- Flavours
+	- We can only detect a few tastes 
+	- We are sensitive to: 
+		- Sweet
+		- Sour
+		- Salty
+		- Bitter
+		- Umami (meaty/savoury)
+- **Taste Buds** on our tongues are used to detect taste
+	- Bumps on the tongue called *papillae* contain numerous taste buds
+- Olfactory and Gustatory Perception
+	- After odours interact with sense receptors in the nasal passages, info enters brain reaching the olfactory cortex and limbic system
+	- The same thing happens with taste, as it enters the gustatory cortex, somatosensory complex (food has texture) and parts of the limbic system
+4.5
+- **Somatosensory** is the system we use for touch and pain
+	- Our body position sense is called *proprioception* 
+	- Our sense of equilibrium or balance is vestibular sense
+	- Somatosensory system responds to stimuli applied to the skin
+		- Light touch or deep pressure
+		- Hot or cold temperature
+		- Chemical or mechanical injury 
+	- We sense these using **mechanoreceptors**, specialized nerve endings located on the ends of the sensory nerves in the skin.
+	- How we perceive touch/pain
+		- Info travels in our somatic nerves before entering the spinal cord
+		- Touch info travels faster than pain info
+		- After activating spinal reflexes, it goes through the brain stem and thalamus to reach the somatosensory cortex
+	- *Gate Control Model*  stated that pain under extreme conditions is blocked by the consciousness
+	- *Phantom Pain* is when a subject experiences pain or discomfort in a missing limb
+- **Proprioception**
+	- Also called kinesthetic sense, helps us keep track of where we are and how to move efficiently
+	- We use *proprioceptors* to sense muscle stretch and force
+		- The two types are stretch receptors and force receptors 
+- **Vestibular Sense** 
+	- Sense of equilibrium that allows us to sense and maintain our balance 
+	- Inner ear contains three *semicircular canals* which are filled with fluid that help maintain balance 
+4.6
+- **Parallel Processing** 
+	- The concept that we can attend to many sense modalities simultaneously 
+	- *Bottom Up Processing* is when we construct a whole stimulus from its parts
+	- *Top Down Processing* is when we start with out own beliefs, and then impose them on the raw stimuli
+- **Perceptual Hypotheses**
+	- When we receive sensory info, we make educated guesses as to what it is to save energy
+	- We form a *perceptual set* when our expectations of something influence our perception of it
+		- This is a prime example of top down processing
+	- *Perceptual Constancy* is how we view the same stimuli the same way despite conditions varying
+- **Gestalt Principles**
+	- Rules governing how we perceive objects as wholes within their overall context
+		- 1. Proximity - Objects physically close tend to be perceived as unified wholes
+		- 2. Similarity -Similar objects compose a whole
+		- 3. Continuity - We still perceive objects as wholes even if other objects block parts
+		- 4. Closure - When visual info is missing, brain fills in the gaps
+		- Symmetry - Symmetrically arranged objects tend to be seen as whole
+		- Figure-ground - We pay attention to what is in the foreground
+- Perceiving Depth
+	- *Depth Perception* is the ability to see spatial relations in 3 dimensions
+	- 2 cues are used to gauge depth:
+		- Monocular depth cues (1 eye)
+		- Binocular depth cues (two eyes)
+- Subliminal Information Processing
+	- The concept of perceiving information while not being fully conscious of it.
+- Subliminal Persuasion
+	- This uses the same logic except that we are influenced without being conscious of it.

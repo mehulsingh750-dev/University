@@ -1,0 +1,124 @@
+11.1
+- Discrete Emotions Theory
+	- Humans tend to experience a small number of distinct emotions, but they can also combine in complex ways
+	- Supporters of this theory claim that emotions serve an evolutionary function to help us survive and each emotion is linked to a "motor program"
+	- They also argue that our emotional reactions to situations come before our thoughts because the cortex evolved later than the limbic system, which controls emotion
+	- Darwin suggested that humans and non-humans shared the same evolutionary heritage as the snare of a dog and human for example were very similar
+- Culture
+	- Ekman found that 7 primary emotions were consistent across all cultures:
+		- Happiness
+		- Sadness
+		- Surprise
+		- Anger
+		- Disgust
+		- Fear
+		- Contempt 
+	- Display Rules
+		- Societal guidelines for how and when to express emotions 
+		- Ex. Boys aren't supposed to cry
+- Secondary Emotions
+	- We have a wide array of *second emotions* 
+	- These are mixtures of our primary emotions
+	- For example, hatred is a mix of anger and disgust
+- Emotions and Physiology
+	- Fear, disgust and anger show different patterns of brain activation
+	- Fear is related to the amygdala, disgust to the insula and anger to the frontal cortex
+- Cognitive Theories of Emotion
+	- Emotions are product of thinking, which goes against the discrete emotion theory
+	- What we feel in response to any situation is determined by how we interpret it 
+- James-Lange Theory of Emotion
+	- Emotions result from our interpretations of our bodily reactions to stimuli
+	- We are afraid *because* we run away from the bear, not vice versa
+- Somatic Marker Theory
+	- We unconsciously use our gut reactions like heart rate or sweating as a signal of what to do next
+- Canon-bard Theory of Emotion
+	- An emotion provoking event leads to both an emotion and bodily reactions
+	- The *Thalamus* triggers both emotion and bodily reactions
+- Two Factor Theory of Emotion
+	- Two psychological events are needed to produce and emotion
+		- 1. After encountering an emotion provoking event, we become alert
+		- 2. Once this happens, we seek to explain the source of this arousal and once we do we experience and emotion
+- Automatic Generation of Emotion
+	- We instantly generate emotions even if we cant perceive it entirely
+	- When flashed a positive and negative image, we will still perceive those emotions despite not being able to recall what they were
+- Facial Feedback Hypothesis
+	- You are more likely to feel emotions that correspond to your facial features
+11.2
+- *Emblems* are gestures that convey a meaning recognized by all members of a culture such as a hand wave
+- **Proxemics**
+	- The study of personal space
+	- According to Hall, there are 4 levels of personal space
+		- 1. Public distance (3 metres)
+		- 2. Social Distance (1.25 metres)
+		- 3. Personal Distance (0.5 metres)
+		- Intimate Distance (0 metres)
+- We use *Non-verbal detectors* such as body language and facial expressions to tell if someone is lying to us.
+- Polygraph test
+	- Measures heartrate, blood pressure and skin conductivity to determine if someone is lying
+	- Rests upon the assumption of the *Pinocchio Response*
+		- A perfect physiological and behavioural indicator of lying 
+	- Uses 3 questions:
+		- Relevant questions: "Did you do it" questions, direct to the crime
+		- Irrelevant questions: "What is your name" questions, not direct to the crime
+		- Control Questions: "Have you ever stole a pack of gum before", Questions to make the subject lie
+- Guilty Knowledge Test
+	- Relies on premise that criminal knows something about the crime scene that we don't
+	- Ex. Show list of items, once of them being present at the crime scene, evaluate responses
+- Integrity Tests
+	- 1. History of stealing
+	- 2. Attitude towards stealing
+	- 3. Perceptions of others honesty
+11.3
+- Positive Psychology
+	- Focuses on helping people find ways to enhance positive emotions and build on healthy communication
+	- Peterson and Seligman outlined curiosity, love and gratitude to be associated with long term life satisfaction
+- *Defensive pessimism*
+	- The strategy of anticipating failure and then compensating for this expectation for mentally over preparing for negative outcomes.
+- *Broaden and Build theory* 
+	- Happiness predisposes us to think more openly, allowing us to see the 'big picture'
+- Misconceptions about what makes us happy
+	- 1. The prime factor of happiness is what happens to us
+	- 2. Money makes us happy
+	- 3. Happiness declines in old age
+		- Positivity effect: Individuals tend to remember more positive than negative info with age
+	- 4. People on the West Coast are happiest (beaches, sunlight, etc)
+- *Affective Forecasting*
+	- We are very bad at predicting our own and others happiness
+	- We overestimate the long term impact of events on our moods
+	- We display a **Durability Bias**
+		- We believe that good AND bad moods will last longer than they really are
+- Brickman and Campbell coined **Hedonic Treadmill**
+	- The tendency for our moods to adapt to external circumstances 
+11.4
+-  Drive Reduction Theory
+	- Drives like hunger, thirst and sexual frustration motivate us minimize aversive states
+	- Proposes that we always want to achieve a state of *homeostasis* (equilibrium)
+- Yerkes-Dodson Law
+	- There's an upside U shape between the correlation of arousal and mood/performance
+	- As our arousal level increases, so does our performance until it reaches its peak and starts trending downwards
+- Incentive Theories
+	- We are motivated by positive goals
+- Hierarchy of Needs
+	- Maslow stated that we need to satisfy our primary needs such as safety and security before we progress to secondary needs like pleasure.
+- Glucostatic Theory
+	- When our blood glucose level drops, hunger creates a drive to restore proper levels of glucose
+- *Leptin* signals the hypothalamus and brain stem to reduce our appetite 
+- Set point
+	- A range of body fat and muscle mass we tend to maintain
+- Internal-External Theory
+	- People with obesity are motivated to eat more by external cues, like portion sizes and taste rather than internal cues like a feeling of fullness 
+- Bulimia Nervosa
+	- Pattern of binging, eating large amounts of food, then purging, effectively starving oneself
+- Anorexia Nervosa
+	- Societal pressures to be thin
+	- 'fear of fatness'
+	- Begins in adolescence 
+- Sexual Motivation
+	- Excitement phase
+		- Experience sexual pleasure such as erection in males and vaginal swelling and lubrication (Cramers words not mine)
+	- Plateau Phase
+		- Sexual tension builds, leading to orgasm
+	- Orgasm/climax Phase
+		- Involuntary rhythmic contractions in the muscles of the genitals of males and females, leading to ejaculation 
+	- Resolution Phase
+		- Sense of wellbeing and relaxation

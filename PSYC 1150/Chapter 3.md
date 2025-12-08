@@ -1,0 +1,304 @@
+
+    3.1
+-  Phrenology:
+	- Popular theory in the 1800’s, one of the first attempts to map mind onto the brain.
+	- It assumed that enlargements on the skull corresponded to brain enlargements which linked to different psychological abilities.
+	- Principal founder of phrenology was Viennese physician Franz Joseph Gall
+	- Based his hypotheses between a link of brain area and personality traits
+	- Almost entirely on anecdotal (persons account) observation which are subject to a lot of error.
+	- Phrenology was falsifiable (can it be disproved), but it also helped disprove it.
+	- Researchers found that patients with damage to specific brain areas didn’t have the psychological issues phrenologists predicted.
+	- Also, size of the skull doesn’t equate to size of the brain so the bumps didn’t measure the brain.
+- Brain Damage:
+	- After phrenology disappeared, neuroscientists filled the void by creating lesions in animals head to locate brain areas using coordinates
+	- In human patients, neuropsychologists used standardized measures of reasoning, attention and verbal and spatial ability to determine brain function.
+	- In minority groups during testing, using norms that don’t reflect their back ground.
+	- This made it easier for them to differentiate from different behaviors such as perceived discrimination, financial resources, and access to proper education.
+	- This overall created a bias among the minority group members
+- Electrical stimulation:
+	- Scientists found early on that there was a correlation between the activation of specific brain regions and psychological capacities in brain damage patients.
+	- Motor Cortex stimulated -> produced specific movements in brain surgery patient
+	- This led to hypothesis that electrical activity is used by brain cells to send info
+	- To test, scientists needed to send AND record electrical activity from the brain
+	- EEG (electroencephalography) was developed
+		- Measures electrical activity in the brain
+		- Awake/sleep, dreaming/not dreaming, etc.
+		- Electrodes, small wires, were placed on the scalps surface 
+		- It is non-invasive, meaning it doesn’t penetrate bodily tissue
+		- Can detect change in electrical activity in a matter of milliseconds
+		- Disadvantages include:
+		- Only show average electrical activity when it reaches scalp, not specific to each brain region about what’s happening 
+		- Better at telling us when rather than where
+- Other brain imaging techniques:
+	- MRI (Magnetic resonance imaging)
+		- Non invasive procedure that reveals high resolution images of of soft tissue such as the brain
+		- Shows image of the brain and what’s active specifically 
+		- Green is something remembered, red is something heard, and yellow is both
+		- Shows the release of energy from water in biological tissues following exposure to a magnetic field.
+		- Detect soft tissues, such as brain tumours 
+	- FMRI ( functional MRI)
+		- Measures the change in functional brain-imaging research
+		- When brain is at rest, areas of the brain were still active: DMN (default mode network)
+	- PET (Positron Emission Tomography)
+		- Shows regions with lower activity (blue/black) as opposed to higher regions which are coloured red and yellow.
+		- Unlike CT and MRI, it shows activity in response to stimuli 
+		- Glucose goes in brain cells when active —> scanner picks them up because their radioactive
+	- MEG (Magnetoencephalography)
+		- Measures presence of magnetic fields on the surface of cerebral cortex
+	- CT Scans (Computed Tomography)
+		- Three dimensional reconstruction of multiple x rays taken of the body 
+		- More detail that x ray
+    
+
+- Manipulating the brain:
+	- DBS (Deep Brain Stimulation)
+		- Neurosurgical procedure that implants battery powered electrodes into the brain to provide electrical stimulation to specific areas 
+		- William Penfield found when different parts of the brain were simulated, it gave different responses. Such as movements or recalled memories.
+		- Brain stimulation -> influence brain function
+		- DBS helps treat neurological and psychiatric conditions
+    
+	- TMS (Transcranial magnetic stimulation)
+		- Applies strong and quick magnetic fields to the surface of the skull to create electric fields that can disrupt brain function
+		- Can either enhance or interrupt, for example interrupting the temporal lobe which controls speech, the subject will temporarily become unable to talk
+		- Only technique which is *causation* not *correlation* out of the non invasive methods
+		- Shows a distinct promise in curing depression (Repetitive TMS)
+- Localization of brain function
+	- Researchers are often too quick at assigning specific tasks for regions of the brain.
+	- This should be avoided as many brain regions tend to work in harmony with each other 
+	- "God spot" refers to a region of the brain which is active when subjects think about god. This proved to be falsely used by the media as many other parts of the brain are also active when subjects think about god.
+- Brain Usage
+	- Misconception that we only use 10% of our brains
+	- William James wrote that humans only fill a small percentage of their brain potential, people misconstrued it to mean that we only use a small percentage of our brains.
+	- Difficulties in identifying the use of specific brain regions helped bolster this myth
+	- Karl Lashley helped to disprove this notion by removing certain parts of a mouses brain and put them in the same maze
+	- Results showed that no area was more important than the other.
+
+	3.2
+- Neurons
+	- Nerve cells specialized for communicating with each other
+	- Brain contains 86 million neurons
+	- Neurons in our brain hold approx. 160 trillion connections making it easier for us to recognize tone of voice and faces
+	- When researchers tried to build AI to detect faces, they failed many times until they mimicked the method babies used - reinforcement learning 
+	- The Cell Body
+		- Also known as the *soma*
+		- Central region of the neuron
+		- Manufactures new cell components
+		- Contains the nucleus where proteins are stored and generated
+	- Dendrites
+		- Used for receiving information from other neurons
+		- They then send the information gathered to the cell body
+	- Axons and Axon Terminals 
+		- Axons are specialized for sending messages to other neurons
+		- Spheres called *synaptic vesicles* go along the length of the axon until they reach the *axon terminal*.
+		- Once its there, it receives an electric signal to go down the length of the axon which releases *neurotransmitters*, chemical messengers used by neurons to communicate with each other
+	- Synapses
+		- Info is exchanged at the synapse in a cell
+		- *Synaptic Cleft* is where the neurotransmitters were released from the axon terminal
+		- Neurotransmitters released from axon --> dendrites pick them up
+- Glial Cells
+	- 1:1 ratio with neurons 
+	- Used to be thought of as just a protective scaffolding for neurons held by synapses
+	- Researchers now discovered that they play a massive role in psychological function
+	- Most abundant Glial cells are *astrocytes*, shaped like stars
+		- Single astrocyte interacts with 300,000-1,000,000 neurons
+		- They are heavily involved with thought, memory and the immune system
+		- Astrocytes basically bolster neurons by helping them communicate better, increase blood flow to the brain and help develop embryos 
+		- Astrocytes are most abundant in the *blood-brain barrier* which is a protective shield for blood vessels and insulates the brain 
+		- This is important since neurons cannot be replaced
+		- They also clear away debris
+	- *Oligodendrocyte* is another type of glial cell
+		- These cells promote new connections with nerve cells and release healing chemicals
+		- They also produce the **myelin sheath** which wraps around axons and helps insulate them and speed up transmission 
+- Resting and Action Potentials
+	- Scientists know neurons respond to neurotransmitters by electrical activity as they measured the *potential difference* inside and outside a nerve cell using *electrodes*
+	- No neurotransmitters acting on the neuron --> **Resting Potential** (-60 mV)
+	- Electrical charge reaches high enough level relative to outside called *threshold of excitation* --> **Action Potential** (electrical impulse)
+		- + particles quickly move in and out of axon, releasing electricity
+		- When it reaches axon terminal, neurotransmitters are released into the synapse
+	- The Absolute Refractory Period
+		- Comes after action potential
+		- Brief period where another action potential cannot occur
+- Neurotransmitters
+	- Bind onto *receptor sites* after released into the synapse
+	- Neurotransmission can stop due to **reuptake** of the neurotransmitters back into the axon terminals 
+	- Glutamate and GABA
+		- Most common in CNS
+		- Glutamate **Excites** neurons and enhances memory and learning
+		- GABA **Inhibits** neurons and supresses brain areas linked to worrying, also plays role in memory and learning
+	- Acetylcholine
+		- Plays role in arousal, selective attention, memory and sleep
+		- Medication like Benadryl block it, helping you sleep
+		- Alzheimer's disease destroys neurons containing acetylcholine
+	- Monoamines
+		- Norepinephrine, dopamine and serotonin
+		- Dopamine plays role in motivation and rewarding experiences
+		- Norepinephrine and serotonin activate/deactivate parts of the brain linked to consciousness, arousal, movements and our response to stimuli
+	- Anandamide
+		- Binds to THC, which is found in weed
+		- Plays role in eating and motivation
+	- Neuropeptides
+		- Short strings of amino acids
+		- Endorphins are a type of neuropeptide that help with pain reduction
+		- Brain produces opioids, such as morphine to alleviate pain from a person for survival efforts
+	- Drugs that interact with neurotransmitters are called *psychoactive*
+		- **Agonists** increase/mimic the effects of a neurotransmitter
+		- **Antagonists** block/decrease the effect of a neurotransmitter
+- Neural Plasticity
+	- Plasticity is the ability of a nervous systems ability to change over time
+	- Babies brains are most flexible
+	- Development of the network of neurons:
+		- Growth of dendrites and axons
+		- Synaptogenesis, formation of new synapses 
+		- Pruning, death of some neurons and retraction of axons to remove useless connections
+		- Myelination, myelin sheath insulates axons 
+	- *Potentiation* is the ability for our brains to form new synapses and strengthen existing synaptic connections
+	- Brain and Spinal Cord only have limited regeneration following serious injury or illness
+		- Genetically modifying Glial cells to create new neurons is one way to help this
+	- Adult Neurogenesis
+		- Creation of new neurons in the brain
+		- This concept could potentially help induce the adult nervous system to heal itself
+	- Stem Cells
+		- Cells that don't have an assigned function, meaning they can specialize to whatever we want
+		- Help fight diseases related to neural degeneration and provide gene therapy
+	3.3
+- Central Nervous System (CNS)
+	- Sensory Info comes in, decisions to do come out of
+	- Consists of Brain and Spinal Cord
+		- They are protected by meninges, 3 thin layers of membranes
+		- Cerebral ventricles, fluid filled pockets, also provide support
+		- Cerebrospinal Fluid runs through these ventricles and gives nutrients to our spinal cord and brain while absorbing shock
+	- Organization:
+		- Cortex
+			- Frontal Lobe: 
+				- Coordinates other brain areas (*executive functioning*), motor planning, language and decision making. 
+				- **Central Sulcus** separates frontal lobe from rest of cortex. 
+				- Each part of *Motor Cortex* controls a specific body part 
+				- *Pre-frontal Cortex* controls planning and language 
+				- Broca's Area, named after Paul Broca, is important for language production
+			- Parietal Lobe: 
+				- Touch Info, integrates senses
+				- Helps track location of objects, shapes and orientation of spaces
+				- Damage to parietal lobe results in hard time of making sense of surroundings
+				- *Unilateral neglect* refers to patients ignoring one half of their bodies
+			- Temporal Lobe: 
+				- Auditory info, language, long term memory
+				- Separated by *lateral fissure* from rest of cortex
+				- *Auditory cortex* is at the top of the temporal lobe
+				- **Wernicke's area**, next to auditory complex, is for understanding speech
+				- *Fusiform Face area* is at the bottom, for recognizing different faces and seeing patterns in features
+			- Occipital Lobe: 
+				- Visual info
+				- Visual Cortex located at the back of our brain
+			- Cerebral Cortex is split into two hemispheres connected by the *corpus callosum*
+				- **Lateralization** refers to the fact that each hemisphere serves a different cognitive function despite being connected
+				- **Roger Sperry**
+				- Left: 
+					- Complex language skills, speech comprehension, speaking, reading, writing, etc.
+					- facial expressions, motion detection
+				- Right:
+					- Simple language skills, simple speech and writing, tone of voice
+					- Perceptual grouping and face perception
+		- Basal Ganglia: 
+			- movement, motor planning, skill and habit learning
+			- Damage to it causes Parkinson's disease, Tourette's and CTE due to loss of neurons that supply the neurotransmitter dopamine
+		- Limbic System:
+			- Thalamus: Sensory info to cortex, many nuclei
+			- Hypothalamus: Hormone release and autonomic nervous system
+			- Amygdala: Regulates emotional learning and memory; fear and aggression
+			- Hippocampus: Long term memory and spatial navigation 
+			- Closely tied to autonomic nervous system which regulates our internal organs
+		- Cerebellum: 
+			- Controls balance and coordinates precise movement 
+		- Brain Stem:
+			- Midbrain: Tracks visual stimuli and sound reflexes
+			- Pons: Info between cortex and cerebellum, triggers dreams
+			- Medulla: Breathing, sneezing, coughing, heartbeat
+		- Spinal Cord: Info between brain and rest of body
+		- Reticular Activating System (RAS): 
+			- Connects with forebrain and cerebral cortex
+- Peripheral Nervous System (PNS)
+	- Composed of nerves outside of CNS
+	- Divided into:
+	- Somatic Nerve System:
+		- Controls voluntary behaviour
+		- Interacts with external environment
+		- Carries messages from the **CNS** to the muscles in the body
+	- Autonomic Nerve System:
+		- Controls non-voluntary behaviour
+		- Interacts with internal environment, mainly **Limbic System**
+		- Helps control internal organs
+		- Sympathetic:
+			- Active during emotional arousal, *fight or flight mechanism*
+		- Parasympathetic"
+			- Active during rest and digestion, no threats
+- Cortical Hierarchies
+	- When external info such as sight, hearing or touch is present, it goes into:
+			- **Thalamus** -->**Primary Sensory Cortex** (for specific sense) --> **Association Cortex** --> **Basal Ganglia** (calculates course of action) --> **Motor Cortex**
+			- Smell is sent directly to limbic system
+	3.4
+- The Endocrine System:
+	- Network of glands that release hormones into the bloodstream
+- Pituitary Gland:
+	- Controlled by the hypothalamus 
+	- Releases many hormones related to regulating physical growth, blood pressure, and water in kidneys
+	- Oxytocin is a hormone that has become popular recently
+		- It is responsible for stretching the cervix and vagina during birth and love in general
+		- "Cuddle hormone"
+		- It also influences how much we trust others and our social behaviour
+- Adrenal Glands and adrenaline:
+	- Located above the kidneys
+	- Emergency centers of the body as they produce **adrenaline** and **cortisol** 
+	- **Adrenaline** boosts energy production in muscle cells
+	- Nerves of the sympathetic nervous system signal to adrenal glands to release adrenaline
+	- Adrenaline triggers:
+		- Contraction of heart muscle and construction of blood vessels
+		- Opening bronchioles (tiny airways)
+		- Breakdown of fat-->fatty acids for fuel
+		- Breakdown of glycogen-->glucose
+		- Opening the pupils of our eyes
+	- **Cortisol** increases in result to physical/psychological stress, like adrenaline
+	- Higher Cortisol --> Higher Social Anxiety
+- Sexual Reproductive Glands and Hormones:
+	- Sexual reproductive glands in males are testes and in females they are ovaries\
+	- **Testosterone** is the male sex hormone
+	- **Estrogen** is the female sex hormone
+	- Each sex produces the other hormone but in much less quantity (1/20th)
+	3.5
+- Biological Material of Heredity
+	- Mendel discovered that plants and animals posses **Chromosomes** 
+		- They are threads inside the cells nucleus that carry genes (genetic material)
+		- Humans have 46 chromosomes, meaning 23 pairs with one being sex linked
+	- Genes are composed of DNA which have the ability to self replicate 
+- Genotype vs Phenotype
+	- **Genotype** refers to the set of genes our parents gave us
+		- Some genes are *dominant*, meaning they mask other genes
+		- Some genes are *recessive*, meaning they expressed when there are no dominant genes
+	- **Phenotype** refers to our set of observable traits 
+- Behavioural Adaptation
+	- Darwin hypothesized that populations of organism change over time as they are adapting to their surroundings
+	- Organisms with successful adaptations have higher levels of **fitness** compared to others
+	- Some adaptations are behavioural
+		- Scientists believe that aggressive behaviour is and adaptation as it helps fight of rivals and gain more resources.
+- Human Brain Evolution
+	- Brain regions which are most complicated, such as the cortex, have evolved the most
+	- We are *homo sapiens*, who have only been around for  1 percent of the total time period of the human race
+	- A few million years ago, the human brain grew from 400 grams to 1300 grams due to a change in the human genome
+- Behavioural Genetics
+	- **Heritability** is the extent to which genes contribute to differences in a trait among individuals
+	- Misconception 1:
+		- Heritability applies to a single individual rather than to differences among them
+	- Misconception 2:
+		- Heritability tells us whether a trait can be changed 
+	- Misconception 3:
+		- Heritability is a fixed number
+- Behavioural Genetics Designs
+	- Scientists estimate heritability using 3 behavioral genetic designs:
+		- Family studies
+			- Researchers examine how much a characteristic runs through a family 
+		- Twin studies
+			- Differences between identical and fraternal twins
+		- Adoption studies 
+			- How much children adopted into new homes resemble their biological parents psychologically
+			- *Selective placement* is the concept that adoption agencies usually place children into homes similar to their biological parents leading to misinterpretation
+	- Epigenetics is the study of how an environment effects gene expression 
+	
