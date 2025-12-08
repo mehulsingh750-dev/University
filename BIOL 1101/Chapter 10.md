@@ -47,4 +47,7 @@
 	- Human Y chromosome
 		- Smaller
 		- Y chromosome contains SRY gene, for male development
-	- 
+	- Males only have 1 X chromosome as mentioned
+		- 1 copy of recessive X allele results in expression of trait
+	- Females have 2 X chromosomes
+		- 
