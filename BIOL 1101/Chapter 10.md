@@ -52,4 +52,7 @@
 	- Females have 2 X chromosomes
 		- Heterozygote recessive: allele is hidden while dominant is expressed
 		- Homozygote recessive: trait is expressed
-	- Human sex 
+	- Human Sex-linked Genes
+		- X linked recessive traits are more common in males
+			- Red-green colour blindness
+			- Hemophilia: Defe
