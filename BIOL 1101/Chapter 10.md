@@ -103,17 +103,17 @@
 			- Source of speciation in plant evolution
 		- Uncommon in animals
 			- Usually has deadly effects during embryonic development
-- Modes of Inheritance
-	- Autosomal Recessive inheritance
-		- Males/females carry a recessive allele on an *autosome*
-			- Ex. Cystic fibrosis, albinism, sickle cell
-		- Heterozygote
-			- Carrier, no symtoms
-		- Homozygote recessive
-			- Shows symptoms
-	- Autosomal Dominant Inheritance
-		- Dominant gene is carried out on an autosome
-		- Homozygote dominant OR heterozygote
+	- Modes of Inheritance
+		- Autosomal Recessive inheritance
+			- Males/females carry a recessive allele on an *autosome*
+				- Ex. Cystic fibrosis, albinism, sickle cell
+			- Heterozygote
+				- Carrier, no symtoms
+			- Homozygote recessive
+				- Shows symptoms
+		- Autosomal Dominant Inheritance
+			- Dominant gene is carried out on an autosome
+			- Homozygote dominant OR heterozygote
 			- Shows symptoms 
 		- Homozygote recessive
 			- Normal, no symptoms
@@ -124,3 +124,4 @@
 		- Females
 			- Heterozygous carriers do no show symptoms
 			- Homozygous, show symptoms
+- g
