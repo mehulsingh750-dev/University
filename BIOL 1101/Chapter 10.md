@@ -31,4 +31,5 @@
 		- To find the recombinant frequency:
 			- (Recombinants/Total) x 100
 	- Linkage Maps
-		- Recombination frequencies are used to determine **gene order** o
+		- Recombination frequencies are used to determine **gene order** on chromosome
+		- 
