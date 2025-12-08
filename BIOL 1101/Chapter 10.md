@@ -83,4 +83,5 @@
 			- Cells grow uncontrollably 
 			- Gleevec (imatinib) inhibits kinase
 	- Nondisjunction
-		- Failure of homologous pair seperation during 
+		- Failure of homologous pair separation and chromatid separation during meiosis I or II
+		- 
