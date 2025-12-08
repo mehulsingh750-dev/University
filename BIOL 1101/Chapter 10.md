@@ -79,4 +79,6 @@
 		- CML = cancer of white blood cells
 		- ABL gene
 			- Translocated next to BCR gene
-			- Codes for tyrosine k
+			- Codes for tyrosine kinase
+			- Cells grow uncontrollably 
+			- Gleevec (imatinib) inhibits kinase
