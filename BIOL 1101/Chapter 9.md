@@ -152,4 +152,6 @@
 		- Often modified by environment such as nutrition and physical activity
 	- *Pleiotropy* 
 		- Two or more characters are affected by a single gene
-		- Sickle cell
+		- Sickle cell disease
+			- Recessive allele affects **BOTH** hemoglobin structure and function
+			- Leads to blood vessel, tissue and organ damage
