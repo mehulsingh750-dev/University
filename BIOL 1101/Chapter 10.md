@@ -133,4 +133,5 @@
 - Nontraditional Patterns of inheritance
 	- *Cytoplasmic inheritance*
 		- Follows pattern of inheritance of mitochondria or chloroplasts
-	- *genom*
+	- *Genomic imprinting*
+		- Allele inherited from one of the parents is expressed while the other allele is silent
