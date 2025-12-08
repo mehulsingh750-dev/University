@@ -65,4 +65,5 @@
 			- Random inactivation of either X chromosome by condensation
 			- Attached to the side of the *nuclear envelope*
 			- It is copied during mitosis but always remains condensed
-			- 
+			- Leads to random patches of cells with **active/inactive** X chromosomes
+- Chromosmal 
