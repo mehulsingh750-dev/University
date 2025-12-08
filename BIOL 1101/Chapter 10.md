@@ -100,4 +100,6 @@
 			- As women's age increases, nondisjunction increases
 	- Polyploids
 		- Common in plants
-			- So
+			- Source of speciation in plant evolution
+		- Uncommon in animals
+			- 
