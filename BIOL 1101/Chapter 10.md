@@ -9,4 +9,7 @@
 		- Genes carried out on the same chromosome are linked during transmission
 		- Basically, they are inherited like single genes in a 2 for 1 package
 	- Way to break the linkage?
-		- 
+		- **Yes**, by crossing over
+	- Drosphila melanogaster
+		- Fruit Fly
+			- M
