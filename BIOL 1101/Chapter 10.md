@@ -18,4 +18,6 @@
 	- Gene Symbolism
 		- Normal Alleles (wild type)
 			- Most common allele (+ symbol)
-			- Dominant
+			- Usually dominant
+	- Genetic Recombination
+		- 
