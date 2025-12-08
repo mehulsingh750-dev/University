@@ -69,5 +69,8 @@
 - Chromosomal Alterations
 	- *Deletion*
 		- Broken segment **lost** from chromosome
-	- Duplication
-		- Broken segment **inserted** into hom
+	- *Duplication*
+		- Broken segment **inserted** into homologous chromosome
+	- *Translocation*
+		- Broken segment **reversed** to non-homologous 
+	- *Inversi*
