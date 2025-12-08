@@ -138,3 +138,4 @@
 	- *Genomic imprinting*
 		- Allele inherited from one of the parents is expressed while the other allele is silent
 		- **Imprinted allele** is silenced due to methylation of region ajacent to gene responsible for trait
+		- Loss of imprinting could lead to disorders
