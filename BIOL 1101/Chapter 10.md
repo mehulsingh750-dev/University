@@ -37,4 +37,6 @@
 		- Widely separated linked genes often recombine
 			- *Seem* to assort independently, but can be detected by testing linkage to genes between them.
 - Sex linked Genes
-	- 
+	- Sex chromosomes determine sex
+	- XX= Female
+	- XY= Male
