@@ -59,4 +59,4 @@
 	- Pedigree Charts
 		- Shows inheritance, genotype and phenotype
 	- Dosage compensation
-		- 
+		- Female mammal deactivates one of the X chromsomes, making the the dosage of X linked genes the same as males
