@@ -62,4 +62,5 @@
 		- Female mammal deactivates one of the X chromosomes, making the the dosage of X linked genes the same as males
 		- This occurs during embryonic development with:
 		- **Barr Body's**
-			- Random inactivation of either X chromosm
+			- Random inactivation of either X chromosome by condensation
+			- Attath
