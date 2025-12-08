@@ -3,7 +3,10 @@
 		- Sequences of nucleotides in DNA
 		- Arranged linearly in chromosomes
 	- For Mendel's 7 characters, they all assorted independently but this is **NOT** the case for all genes 
-	- Some genes are inherited together because they are on the same chromosme
+	- Some genes are inherited together because they are on the same chromosome
 		- Means they are *linked*
 	- Linked Genes
-		- Genes carried out on the same chromosome are linked during trans
+		- Genes carried out on the same chromosome are linked during transmission
+		- Basically, they are inherited like single genes in a 2 for 1 package
+	- Way to break the linkage?
+		- 
