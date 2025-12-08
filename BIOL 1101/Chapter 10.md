@@ -115,4 +115,4 @@
 		- Dominant gene is carried out on an autosome
 		- Homozygote dominant OR heterozygote
 			- Shows symptoms 
-			-
+		- 
