@@ -89,4 +89,4 @@
 				- 3/16 = wrinkled yellow
 				- 3/16 = round green
 				- 1/16 = wrinkled green
-				- 9:3:3:1 RATIO
+				- **9:3:3:1 RATIO** 
