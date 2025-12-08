@@ -12,4 +12,4 @@
 		- **Yes**, by crossing over
 	- Drosphila melanogaster
 		- Fruit Fly
-			- M
+			- Model organism for animal genetics, just like Mendel's peas
