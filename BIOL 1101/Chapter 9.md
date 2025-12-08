@@ -110,4 +110,7 @@
 		- Effects of each allele are equally detectable in heterozygotes 
 	- *Multiple Alleles*
 		- More than two alleles of a gene are present in a population
-	- 
+	- *Epistasis*
+		- Genes interact, activity of one gene affects the activity of another gene
+	- *Polygenic Inheritance*
+		- A
