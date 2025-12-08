@@ -115,4 +115,7 @@
 		- Dominant gene is carried out on an autosome
 		- Homozygote dominant OR heterozygote
 			- Shows symptoms 
+		- Homozygote recessive
+			- Normal, no symptoms
+	- X-Linked Recessive inheritance
 		- 
