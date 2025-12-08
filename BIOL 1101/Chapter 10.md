@@ -52,4 +52,4 @@
 	- Females have 2 X chromosomes
 		- Heterozygote recessive: allele is hidden while dominant is expressed
 		- Homozygote recessive: trait is expressed
-- 
+	- Human sex 
