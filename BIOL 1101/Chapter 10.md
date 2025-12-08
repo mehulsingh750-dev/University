@@ -74,4 +74,6 @@
 	- *Translocation*
 		- Broken segment **moved** to non-homologous 
 	- *Inversion*
-		- Broken segment **reversed** to non-homologous chromosome 
+		- Broken segment **reversed** in orientation
+	- Reciprocal Translocation
+		- 
