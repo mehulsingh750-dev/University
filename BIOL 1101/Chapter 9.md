@@ -135,7 +135,9 @@
 			- IB = B antigen (dominant)
 			- i = nor A or B (recessive)
 			- IAIA or IAi = Type A
-			- IBIB or IBi = Type 
+			- IBIB or IBi = Type B
+			- ii = Type O
+			- IAIB = Type AB blood
 	- *Epistasis*
 		- Genes interact, activity of one gene affects the activity of another gene
 	- *Polygenic Inheritance*
