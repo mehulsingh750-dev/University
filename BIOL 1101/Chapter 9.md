@@ -64,4 +64,6 @@
 		- Purple (dominant) = PP + Pp = 1/4 + 1/2 = 3/4
 		- White (recessive) = pp = 1/4
 		- **3:1** ratio
-	- Testcross
+- Testcross
+	- Crossing an unknown genotype with a homozygous recessive individual (pp)
+	- This reveals if it 
