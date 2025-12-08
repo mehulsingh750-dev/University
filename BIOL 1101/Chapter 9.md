@@ -92,4 +92,6 @@
 				- **9:3:3:1 RATIO** 
 - Chromosome Theory of Inheritance
 	- Walter Sutton
-		- Parallels between genes abd
+		- Parallels between genes and chromosomes in meiosis and fertilization 
+	- 1. Chromosomes occur in pairs in diploid organisms
+	- 2. 
