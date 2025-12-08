@@ -55,4 +55,6 @@
 	- Human Sex-linked Genes
 		- X linked recessive traits are more common in males
 			- Red-green colour blindness
-			- Hemophilia: Defe
+			- Hemophilia: Defective blood clotting protein
+	- Pedigree Charts
+		- Shows inheritance, genotype and phenotype
