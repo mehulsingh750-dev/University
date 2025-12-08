@@ -63,4 +63,6 @@
 		- This occurs during embryonic development with:
 		- **Barr Body's**
 			- Random inactivation of either X chromosome by condensation
-			- Attath
+			- Attached to the side of the *nuclear envelope*
+			- It is copied during mitosis but always remains condensed
+			- 
