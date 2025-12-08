@@ -77,4 +77,6 @@
 		- Broken segment **reversed** in orientation
 	- Reciprocal Translocation (Chronic Myelogenous Leukemia {CML})
 		- CML = cancer of white blood cells
-		- 
+		- ABL gene
+			- Translocated next to BCR gene
+			- Codes for tyrosine k
