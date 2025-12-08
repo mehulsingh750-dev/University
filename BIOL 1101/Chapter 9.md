@@ -91,3 +91,5 @@
 				- 1/16 = wrinkled green
 				- **9:3:3:1 RATIO** 
 - Chromosome Theory of Inheritance
+	- Walter Sutton
+		- 
