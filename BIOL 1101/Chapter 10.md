@@ -20,4 +20,4 @@
 			- Most common allele (+ symbol)
 			- Usually dominant
 	- Genetic Recombination
-		- 
+		- Alleles that are linked on the *same* chromosme can exc
