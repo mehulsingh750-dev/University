@@ -97,4 +97,6 @@
 	- 2. Chromosomes of each pair are separated and delivered singly to gametes, as are alleles of a gene.
 	- Random assortment of chromosomes, they do not affect each other
 	- Each chromosome of each pair is derived from each parent
-- Ho
+-  Homologous Chromosomes:
+	- Locus
+		- 
