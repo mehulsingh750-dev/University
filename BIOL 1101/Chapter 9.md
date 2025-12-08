@@ -73,3 +73,6 @@
 -  Dihybrid Cross
 	- Pea shape: R = round and r = wrinkled
 	- Pea colour: Y= yellow and y= green
+	- P Gen
+		- RR YY x rr yy
+		- Each produces R
