@@ -82,6 +82,11 @@
 	- Heterozygous cross
 		- F1
 			-  Rr Yy x Rr Yy
-			- 4 gametes produced: RY, Ry, rY, ry
+			- 4 gametes produced by parents: RY, Ry, rY, ry
 		- F2
-			- 
+			- 4 phenotypes:
+				- 9/16 = round yellow
+				- 3/16 = wrinkled yellow
+				- 3/16 = round green
+				- 1/16 = wrinkled green
+				- 9:3:3:1 RATIO
