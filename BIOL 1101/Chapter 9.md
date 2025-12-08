@@ -129,6 +129,7 @@
 		- Same ratio as incomplete dominance, 1:2:1
 	- *Multiple Alleles*
 		- More than two alleles of a gene are present in a population
+		- Diploid individuals still only carry two alleles
 	- *Epistasis*
 		- Genes interact, activity of one gene affects the activity of another gene
 	- *Polygenic Inheritance*
