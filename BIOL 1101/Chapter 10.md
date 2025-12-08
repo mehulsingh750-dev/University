@@ -75,5 +75,5 @@
 		- Broken segment **moved** to non-homologous 
 	- *Inversion*
 		- Broken segment **reversed** in orientation
-	- Reciprocal Translocation
+	- Reciprocal Translocation (Chronic Myelogenous Leukemia)
 		- 
