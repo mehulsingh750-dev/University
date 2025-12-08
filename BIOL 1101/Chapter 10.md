@@ -120,6 +120,7 @@
 	- X-Linked Recessive inheritance
 		- Recessive allele carried on X chromosome
 		- Males
-			- Recessive allele on X chromosome, show syn
+			- Recessive allele on X chromosome, show symptoms
 		- Females
 			- Heterozygous carriers do no show symptoms
+			- Homozygous, show symptoms
