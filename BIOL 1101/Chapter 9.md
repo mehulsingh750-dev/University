@@ -83,4 +83,5 @@
 		- F1
 			-  Rr Yy x Rr Yy
 			- 4 gametes produced: RY, Ry, rY, ry
-		- 
+		- F2
+			- 
