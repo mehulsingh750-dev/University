@@ -127,4 +127,6 @@
 	- Genetic Counselling Techniques
 		- Pedigrees help identify parental genotypes
 		- Prenatal Diagnosis
-			- Tests cells
+			- Tests cells from embryo, amniotic fluid and placenta
+		- Postnatal Diagnosis
+			- Biochemical and molecular tests
