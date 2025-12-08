@@ -41,4 +41,8 @@
 	- XX= Female
 	- XY= Male
 	- **Autosomes** refer to all other non-sex chromosomes (22)
+	- Human X chromosome
+		- Large (2,350 genes)
+		- Many X linked genes are reccessive traits
 	- Y chromosome contains SRY gene, for male development
+	- 
