@@ -13,7 +13,7 @@
 			- Diploids have two copies of each gene
 		- Principle of Dominance
 			- If two different alleles are present, the dominant one is expressed while the recessive isn't
-			- Recessive alleles only expressed when both alleles are reccessive
+			- Recessive alleles only expressed when both alleles are recessive
 		- Law of Segregation
 			- During Gamete formation, the alleles for each gene separate, so each gamete receives only one allele per trait
 			- Gamete fusion restores allele pairs in offspring
@@ -64,4 +64,4 @@
 		- Purple (dominant) = PP + Pp = 1/4 + 1/2 = 3/4
 		- White (recessive) = pp = 1/4
 		- **3:1** ratio
-		- Hello
+		- 
