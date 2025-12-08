@@ -32,6 +32,6 @@
 			- (Recombinants/Total) x 100
 	- Linkage Maps
 		- Recombination frequencies are used to determine **gene order** on chromosome
-		- 1 map unit (centrimorgan) = 1% recombination (recall that greater the distance means greater the recombination)
+		- 1 map unit (centimorgan) = 1% recombination (recall that greater the distance means greater the recombination)
 	- Can genes on the same chromosome ever assort independently?
 		- 
