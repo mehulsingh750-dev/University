@@ -2,4 +2,4 @@
 	- Genes 
 		- Sequences of nucleotides in DNA
 		- Arranged linearly in chromosomes
-	
+	- For Mendel's 7 characters, they all assorted independently
