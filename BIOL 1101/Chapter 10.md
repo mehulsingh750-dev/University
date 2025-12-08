@@ -118,4 +118,8 @@
 		- Homozygote recessive
 			- Normal, no symptoms
 	- X-Linked Recessive inheritance
-		- 
+		- Recessive allele carried on X chromosome
+		- Males
+			- Recessive allele on X chromosome 
+		- Females
+			- Heterzygous
