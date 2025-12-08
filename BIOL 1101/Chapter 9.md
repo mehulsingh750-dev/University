@@ -103,4 +103,7 @@
 		- Alleles on different homologous chromosomes have the same loci (think of it as the same address on the identical chromosome)
 - Human Traits
 	- Albinism, webbed fingers and short-limbed dwarfism all follow mendelian principles 
-- Later modifications and additions to Mendels Hypotheses
+- Later modifications and additions to Mendel's Hypotheses
+	- *Incomplete dominance*
+		- Dominant alleles do not fully mask recessive alleles, leading to a mix of traits
+	- *Codominance*
