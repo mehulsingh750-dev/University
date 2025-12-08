@@ -23,4 +23,4 @@
 		- Alleles that are linked on the *same* chromosome can exchange segments between homologous chromosomes
 		- This occurs while homologous chromosomes pair during prophase 1 of meiosis 
 	- Evidence for Gene Linkage
-		- 
+		- Using a testcross (Chapter 9)
