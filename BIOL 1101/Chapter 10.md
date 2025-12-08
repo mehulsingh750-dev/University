@@ -21,4 +21,5 @@
 			- Usually dominant
 	- Genetic Recombination
 		- Alleles that are linked on the *same* chromosome can exchange segments between homologous chromosomes
-		- This occures while homologus chromomes pair during 
+		- This occurs while homologous chromosomes pair during prophase 1 of meiosis 
+		- 
