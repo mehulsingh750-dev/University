@@ -107,7 +107,10 @@
 	- *Incomplete dominance*
 		- Dominant alleles do not fully mask recessive alleles, leading to a mix of traits
 		- This leads to a heterozygote having an intermediate phenotype, different from both dominant and recessive homozygous
-		- Ex. AA= Red, aa=Blue, Aa= Purple
+		- P Gen (A= Red, a = white)
+			- AA x aa
+		- F1 Gen
+			- All offspring are Aa
 		- 1:2:1 RATIO
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
