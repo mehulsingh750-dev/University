@@ -59,4 +59,7 @@
 	- Pedigree Charts
 		- Shows inheritance, genotype and phenotype
 	- Dosage compensation
-		- Female mammal deactivates one of the X chromsomes, making the the dosage of X linked genes the same as males
+		- Female mammal deactivates one of the X chromosomes, making the the dosage of X linked genes the same as males
+		- This occurs during embryonic development with:
+		- **Barr Body's**
+			- Random inactivation of either X chromosm
