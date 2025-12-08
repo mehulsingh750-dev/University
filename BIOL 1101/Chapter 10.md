@@ -111,4 +111,8 @@
 			- Carrier, no symtoms
 		- Homozygote recessive
 			- Shows symptoms
-	- Auto
+	- Autosomal Dominant Inheritance
+		- Dominant gene is carried out on an autosome
+		- Homozygote dominant OR heterozygote
+			- Shows symptoms 
+			-
