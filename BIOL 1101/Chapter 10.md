@@ -16,4 +16,6 @@
 			- Model organism for animal genetics, just like Mendel's peas
 			- Used to test *linkage* and *recombination*
 	- Gene Symbolism
-		- Normal Alleles
+		- Normal Alleles (wild type)
+			- Most common allele (+ symbol)
+			- Dominant
