@@ -1,1 +1,3 @@
 - Genetic linkage
+	- Genes are sequences of nucleotides in DNA
+	- 
