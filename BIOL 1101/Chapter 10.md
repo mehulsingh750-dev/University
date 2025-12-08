@@ -66,4 +66,8 @@
 			- Attached to the side of the *nuclear envelope*
 			- It is copied during mitosis but always remains condensed
 			- Leads to random patches of cells with **active/inactive** X chromosomes
-- Chromosmal 
+- Chromosomal Alterations
+	- *Deletion*
+		- Broken segment **lost** from chromosome
+	- Duplication
+		- Broken segment **inserted** into hom
