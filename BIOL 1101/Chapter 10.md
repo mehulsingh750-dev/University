@@ -10,6 +10,9 @@
 		- Basically, they are inherited like single genes in a 2 for 1 package
 	- Way to break the linkage?
 		- **Yes**, by crossing over
+		- The closer 2 genes are means they are more linked since there is a lower
 	- Drosphila melanogaster
 		- Fruit Fly
 			- Model organism for animal genetics, just like Mendel's peas
+			- Used to test *linkage* and *recombination*
+			- 
