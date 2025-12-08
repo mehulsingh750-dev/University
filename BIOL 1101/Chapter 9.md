@@ -19,6 +19,7 @@
 			- Gamete fusion restores allele pairs in offspring
 		- Law of independent assortment
 			- The segregation of alleles for one gene does not affect the segregation of alleles for another gene, leading to diverse offspring combinations
+			- This occurs during independent assortment in meiosis 1
 		- His experiments supported the last two laws
 - Pea Plant Experiments
 	- Why the garden pea?
