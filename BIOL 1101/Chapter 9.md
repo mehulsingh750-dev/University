@@ -102,4 +102,5 @@
 		- Site on a chromosome where a gene is located
 		- Alleles on different homologous chromosomes have the same loci (think of it as the same address on the identical chromosome)
 - Human Traits
-	- Albinism, webbed fingers
+	- Albinism, webbed fingers and short-limbed dwarfism all follow mendelian principles 
+- Later modifications and additions to Mendels Hypotheses
