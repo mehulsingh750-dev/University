@@ -146,5 +146,6 @@
 		- 9:4:3 RATIO
 	- *Polygenic Inheritance*
 		- A character (such as eye colour) is controlled by the common effects of several genes
+		- All genes at different loci
 	- *Pleiotropy* 
 		- Two or more characters are affected by a single gene
