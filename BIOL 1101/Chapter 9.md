@@ -121,7 +121,9 @@
 			- Tay- Sachs disease
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
-		- 
+		- Both fully expressed in heterozygotes
+		- Human M, MN and N blood types
+			- 
 	- *Multiple Alleles*
 		- More than two alleles of a gene are present in a population
 	- *Epistasis*
