@@ -141,6 +141,7 @@
 	- *Epistasis*
 		- Genes interact, activity of one gene affects the activity of another gene
 		- This can lead to the inhibiting or masking of effects from one or more alleles of a gene at a different locus
+		- Some expected phenotypes from the offspring may not appear do to epistasis
 	- *Polygenic Inheritance*
 		- A character (such as eye colour) is controlled by the common effects of several genes
 	- *Pleiotropy* 
