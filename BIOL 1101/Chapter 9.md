@@ -113,4 +113,5 @@
 	- *Epistasis*
 		- Genes interact, activity of one gene affects the activity of another gene
 	- *Polygenic Inheritance*
-		- A
+		- A character (such as eye colour) is controlled by the common effects of several genes
+		- 
