@@ -115,7 +115,10 @@
 		- F2 Gen
 			- 1/4 red, 1/4 white, 1/2 pink
 		- 1:2:1 RATIO
-		- In human tr
+		- In human traits
+			- Sickle cell disease
+			- Familial hypercholesterolemia
+			- Tay- Sachs disease
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
 	- *Multiple Alleles*
