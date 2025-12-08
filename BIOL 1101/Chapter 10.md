@@ -1,3 +1,5 @@
 - Genetic linkage
-	- Genes are sequences of nucleotides in DNA
-	- 
+	- Genes 
+		- Sequences of nucleotides in DNA
+		- Arranged linearly in chromosomes
+	
