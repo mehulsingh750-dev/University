@@ -147,6 +147,8 @@
 	- *Polygenic Inheritance*
 		- A character (such as eye colour) is controlled by the common effects of several genes
 		- All genes at different loci control the same character
-		- This produces a continuous distribution ()
+		- This produces a continuous distribution (spectrum)
+		- Bell-Shaped curve
+		- Often modified by environment such as nutrition and physical activity
 	- *Pleiotropy* 
 		- Two or more characters are affected by a single gene
