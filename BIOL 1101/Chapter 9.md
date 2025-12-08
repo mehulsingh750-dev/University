@@ -140,6 +140,7 @@
 			- IAIB = Type AB blood
 	- *Epistasis*
 		- Genes interact, activity of one gene affects the activity of another gene
+		- This can lead to the inhibiting or 
 	- *Polygenic Inheritance*
 		- A character (such as eye colour) is controlled by the common effects of several genes
 	- *Pleiotropy* 
