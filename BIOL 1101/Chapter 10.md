@@ -75,5 +75,6 @@
 		- Broken segment **moved** to non-homologous 
 	- *Inversion*
 		- Broken segment **reversed** in orientation
-	- Reciprocal Translocation (Chronic Myelogenous Leukemia)
+	- Reciprocal Translocation (Chronic Myelogenous Leukemia {CML})
+		- CML = cancer of white blood cells
 		- 
