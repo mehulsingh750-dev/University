@@ -132,8 +132,9 @@
 			- Biochemical and molecular tests
 - Nontraditional Patterns of inheritance
 	- *Cytoplasmic inheritance*
-		- Follows pattern of inheritance of mitochondria or chlorplasts
-		- Genes carried on DNA in mitochondria or chlroplasts
-		- Follows *maternal* line
+		- Follows pattern of inheritance of mitochondria or chloroplasts
+		- Genes carried on DNA in mitochondria or chloroplasts
+		- Follows *maternal* line, mendelian inheritance is not followed
 	- *Genomic imprinting*
 		- Allele inherited from one of the parents is expressed while the other allele is silent
+		- 
