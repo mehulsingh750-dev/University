@@ -80,4 +80,7 @@
 		- All offspring Rr Yy genotype
 		- Round and yellow phenotype
 	- Heterozygous cross
+		- F1
+			-  Rr Yy x Rr Yy
+			- 4 gametes produced: RY, Ry, rY, ry
 		- 
