@@ -114,14 +114,14 @@
 		- Autosomal Dominant Inheritance
 			- Dominant gene is carried out on an autosome
 			- Homozygote dominant OR heterozygote
-			- Shows symptoms 
-		- Homozygote recessive
-			- Normal, no symptoms
-	- X-Linked Recessive inheritance
-		- Recessive allele carried on X chromosome
-		- Males
-			- Recessive allele on X chromosome, show symptoms
-		- Females
-			- Heterozygous carriers do no show symptoms
-			- Homozygous, show symptoms
-- g
+				- Shows symptoms 
+			- Homozygote recessive
+				- Normal, no symptoms
+		- X-Linked Recessive inheritance
+			- Recessive allele carried on X chromosome
+			- Males
+				- Recessive allele on X chromosome, show symptoms
+			- Females
+				- Heterozygous carriers do no show symptoms
+				- Homozygous, show symptoms
+	- Genetic Counselling 
