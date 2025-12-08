@@ -107,3 +107,7 @@
 	- *Incomplete dominance*
 		- Dominant alleles do not fully mask recessive alleles, leading to a mix of traits
 	- *Codominance*
+		- Effects of each allele are equally detectable in heterozygotes 
+	- *Multiple Alleles*
+		- More than two alleles of a gene are present in a population
+	- 
