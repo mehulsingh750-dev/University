@@ -106,7 +106,8 @@
 - Later modifications and additions to Mendel's Hypotheses
 	- *Incomplete dominance*
 		- Dominant alleles do not fully mask recessive alleles, leading to a mix of traits
-		- This leads to a heterozygote having an in
+		- This leads to a heterozygote having an intermediate phenotype, different from both dominant and recessive homozygous
+		- Ex. AA= Red, aa=Blue, Aa= Pr
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
 	- *Multiple Alleles*
