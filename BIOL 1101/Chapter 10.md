@@ -130,3 +130,7 @@
 			- Tests cells from embryo, amniotic fluid and placenta
 		- Postnatal Diagnosis
 			- Biochemical and molecular tests
+- Nontraditional Patterns of inheritance
+	- *Cytoplasmic inheritance*
+		- Follows pattern of inheritance of mitochondria or chloroplasts
+	- *genom*
