@@ -43,6 +43,8 @@
 	- **Autosomes** refer to all other non-sex chromosomes (22)
 	- Human X chromosome
 		- Large (2,350 genes)
-		- Many X linked genes are reccessive traits
-	- Y chromosome contains SRY gene, for male development
+		- Many X linked genes are recessive traits
+	- Human Y chromosome
+		- Smaller
+		- Y chromosome contains SRY gene, for male development
 	- 
