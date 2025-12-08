@@ -133,7 +133,9 @@
 		- Major example of this is Blood types in humans
 			- IA = A antigen (dominant)
 			- IB = B antigen (dominant)
-			- i 
+			- i = nor A or B (recessive)
+			- IAIA or IAi = Type A
+			- IBIB or IBi = Type 
 	- *Epistasis*
 		- Genes interact, activity of one gene affects the activity of another gene
 	- *Polygenic Inheritance*
