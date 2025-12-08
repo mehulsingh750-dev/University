@@ -39,7 +39,7 @@
 - Sex linked Genes
 	- Sex chromosomes determine sex
 	- XX= Female
-	- XY= Male
+	- XY= Male --> Recessive x linked alleles only expressed in males
 	- **Autosomes** refer to all other non-sex chromosomes (22)
 	- Human X chromosome
 		- Large (2,350 genes)
