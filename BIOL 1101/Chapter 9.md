@@ -106,6 +106,7 @@
 - Later modifications and additions to Mendel's Hypotheses
 	- *Incomplete dominance*
 		- Dominant alleles do not fully mask recessive alleles, leading to a mix of traits
+		- This leads to a heterozygote having an in
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
 	- *Multiple Alleles*
