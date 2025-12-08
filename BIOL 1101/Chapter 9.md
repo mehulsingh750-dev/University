@@ -100,4 +100,4 @@
 -  Homologous Chromosomes:
 	- Locus
 		- Site on a chromosome where a gene is located
-		- Alleles on different homologous chromosomes have the same
+		- Alleles on different homologous chromosomes have the same loci (think of it as the same address on the )
