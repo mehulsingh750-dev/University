@@ -92,4 +92,4 @@
 				- **9:3:3:1 RATIO** 
 - Chromosome Theory of Inheritance
 	- Walter Sutton
-		- 
+		- Parallels between genes abd
