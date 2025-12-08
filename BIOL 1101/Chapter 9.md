@@ -67,5 +67,5 @@
 - Testcross
 	- Crossing an unknown genotype with a homozygous recessive individual (pp)
 	- This reveals if it is homozygous or heterozygous 
-	- All **dominant** offspring means the parent was homozygous dominant
+	- All **dominant** offspring means the parent was homozygous dominant (same with recessive but vice versa)
 	- Mix of dominant and recessive means the parent was heterozygous 
