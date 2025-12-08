@@ -111,7 +111,11 @@
 			- AA x aa
 		- F1 Gen
 			- All offspring are Aa
+			- Pink flowers
+		- F2 Gen
+			- 1/4 red, 1/4 white, 1/2 pink
 		- 1:2:1 RATIO
+		- In human tr
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
 	- *Multiple Alleles*
