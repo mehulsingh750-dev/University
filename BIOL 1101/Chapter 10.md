@@ -32,4 +32,4 @@
 			- (Recombinants/Total) x 100
 	- Linkage Maps
 		- Recombination frequencies are used to determine **gene order** on chromosome
-		- 
+		- 1 map unit = 1% recombination (recall that greater the distance means greater the recombination)
