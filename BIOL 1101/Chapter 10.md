@@ -102,4 +102,7 @@
 		- Common in plants
 			- Source of speciation in plant evolution
 		- Uncommon in animals
-			- 
+			- Usually has deadly effects during embryonic development
+- Modes of Inheritance
+	- Autosomal Recessive inheritance
+		- 
