@@ -105,4 +105,5 @@
 			- Usually has deadly effects during embryonic development
 - Modes of Inheritance
 	- Autosomal Recessive inheritance
-		- 
+		- Males/females carry a recessive allele on an *autosome*
+		- Ex. Cystic fibrosis, albinism, sick
