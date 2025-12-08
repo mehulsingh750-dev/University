@@ -58,3 +58,5 @@
 			- Hemophilia: Defective blood clotting protein
 	- Pedigree Charts
 		- Shows inheritance, genotype and phenotype
+	- Dosage compensation
+		- 
