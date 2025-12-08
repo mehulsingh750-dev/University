@@ -84,4 +84,6 @@
 			- Gleevec (imatinib) inhibits kinase
 	- Nondisjunction
 		- Failure of homologous pair separation and chromatid separation during meiosis I or II
-		- 
+		- This leads to the production of abnormal gametes
+	- Changes in Chromosome number
+		- *E
