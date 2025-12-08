@@ -72,5 +72,6 @@
 	- *Duplication*
 		- Broken segment **inserted** into homologous chromosome
 	- *Translocation*
-		- Broken segment **reversed** to non-homologous 
-	- *Inversi*
+		- Broken segment **moved** to non-homologous 
+	- *Inversion*
+		- Broken segment **reversed** to non-homologous chromosome 
