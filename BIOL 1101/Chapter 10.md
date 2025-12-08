@@ -35,4 +35,4 @@
 		- 1 map unit (centimorgan) = 1% recombination (recall that greater the distance means greater the recombination)
 	- Can genes on the same chromosome ever assort independently?
 		- Widely separated linked genes often recombine
-			- *Seem* to assort indepedently, but can be detected by t
+			- *Seem* to assort independently, but can be detected by testing linkage to genes between them.
