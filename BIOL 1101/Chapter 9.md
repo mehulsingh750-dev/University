@@ -121,6 +121,7 @@
 			- Tay- Sachs disease
 	- *Codominance*
 		- Effects of each allele are equally detectable in heterozygotes 
+		- 
 	- *Multiple Alleles*
 		- More than two alleles of a gene are present in a population
 	- *Epistasis*
