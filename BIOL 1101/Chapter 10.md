@@ -27,4 +27,5 @@
 	- Recombination frequency
 		- The amount of recombination between two genes reflects the distance between them
 		- The greater the distance --> greater the recombination
-		- 
+			- This means there is a higher chance of *crossover* between these genes
+		- To find the 
