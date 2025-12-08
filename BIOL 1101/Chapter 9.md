@@ -75,4 +75,9 @@
 	- Pea colour: Y= yellow and y= green
 	- P Gen
 		- RR YY x rr yy
-		- Each produces R
+		- Each produces RY and ry gametes respectively 
+	- F1 Gen
+		- All offspring Rr Yy genotype
+		- Round and yellow phenotype
+	- Heterozygous cross
+		- 
