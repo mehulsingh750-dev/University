@@ -94,4 +94,5 @@
 	- Walter Sutton
 		- Parallels between genes and chromosomes in meiosis and fertilization 
 	- 1. Chromosomes occur in pairs in diploid organisms
-	- 2. 
+	- 2. Chromosomes of each pair are separated and delivered singly to gametes, as are alleles of a gene.
+	- 
