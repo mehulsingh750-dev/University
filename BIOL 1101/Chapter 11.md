@@ -27,4 +27,7 @@
 			- Adenine-Thymine
 			- Guanine-Cytosine
 		- Each **FULL** turn of double helix is **10** base pairs
-	- Nucleotide Sub
+	- Nucleotide Subunits of DNA
+		- Sugar-Phosphate backbone
+		- Phosphodiester bonds
+		- Phosphate at 5' carbon of sugar
