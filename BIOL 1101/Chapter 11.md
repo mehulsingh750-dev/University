@@ -1,4 +1,5 @@
 - DNA 
 	- The genetic material of all living organism
-- Griffiths Exeperiments (1928)
-	- Obser
+- Griffiths Experiments (1928)
+	- Observation
+		- 
