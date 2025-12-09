@@ -76,5 +76,6 @@
 - Mechanisms for Correcting Replication Errors
 	- *Proofreading*
 		- Ability of DNA polymerases to reverse and remove mismatched bases
+		- Most recent base is removed
 	- *DNA repair*
-		- Corrects
+		- Corrects errors that escape proofreading
