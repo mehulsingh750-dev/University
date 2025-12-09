@@ -21,4 +21,7 @@
 			- Deoxyribose
 			- Phosphate group
 			- Base (adenine, thymine, guanine or cytosine)
-	- Double Helix model;
+	- Double Helix Model
+		- Deoxyribose sugars linked by phosphate groups --> **Sugar phosphate backbone**
+		- Two strands are held together by base pairs
+			- Adeni
