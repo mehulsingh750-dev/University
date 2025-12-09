@@ -8,4 +8,5 @@
 - Avery's Experiments (1940)
 	- Instead of bacteria, mice were used
 	- Destroyed protein --> Still transformed
-	- Destroyed DNA --> n
+	- Destroyed DNA --> No transformation
+	- 
