@@ -43,3 +43,8 @@
 		- Bacteria transferred to N 14 (light medium) and allowed to grow/divide for several generations, all new DNA is light
 		- DNA extracted from bacteria cultured in heavy medium and after each gen. in light medium
 		- DNA mixed with cesium chloride and centrifuged
+	- Enzymes of DNA replication
+		- *Helicase*
+			- Unwinds the DNA
+		- *Primase*
+			- Synthesizes RNA primers
