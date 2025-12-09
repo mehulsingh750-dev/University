@@ -52,8 +52,8 @@
 		- *Topoisomerase*
 			- Prevents twisting ahead of replication fork as the DNA unwinds
 		- *DNA polymerases*
-			- **Adds** nucleotides into a chain at the OH 3' end, removed primers and fills resulting gaps (DNA polymerase I)
 			- DNA polymerase III extends RNA primers by adding DNA nucleotides to it
+			- **Adds** nucleotides into a chain at the OH 3' end, removed primers and fills resulting gaps (DNA polymerase I)
 		- *DNA ligase*
 			- **Seals** remaining single-chain nicks
 	- Assembling Complementary Chain
@@ -63,4 +63,4 @@
 			- Direction of unwinding
 		- The **lagging strand template** goes in the 5' to 3' direction, meaning the synthesis of the new strand will be the 5' to 3' direction in a *reversed* orientation, basically going backwards (OKAZAKI FRAGMENTS)
 			- Opposite of direction of unwinding
-		- 
+	- 
