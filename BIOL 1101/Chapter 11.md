@@ -73,4 +73,8 @@
 	- Repeats **protect** against chromosome shortening during replication
 	- **Telomerase** is an enzyme that prevents chromosome shortening by adding telomere repeats
 	- They are important as they fill the gaps at the end of chain as no nucleotide chain is present to be extended after primer is removed
-- Mechanisms for Correcting Replicaiton Errors
+- Mechanisms for Correcting Replication Errors
+	- *Proofreading*
+		- Ability of DNA polymerases to reverse and remove mismatched bases
+	- *DNA repair*
+		- Corrects
