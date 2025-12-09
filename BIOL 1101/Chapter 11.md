@@ -71,4 +71,4 @@
 	- **Ends** of eukaryotic chromosomes
 	- Short sequences repeated hundreds to thousands of times
 	- Repeats **protect** against chromosome shortening during replication
-	- **Telomerase** is
+	- **Telomerase** is an enzyme that prevents chromosome shortening by adding telomere repeats
