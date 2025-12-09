@@ -38,3 +38,5 @@
 	- *Semiconservative*, meaning the DNA molecule is composed of the original, parental stand and the newly synthesized strand
 	- Basically, two strands of parental DNA molecule separate
 	- Each serves as template for synthesis of a complementary copy
+	- Meselson-Stahl Experiment
+		- 
