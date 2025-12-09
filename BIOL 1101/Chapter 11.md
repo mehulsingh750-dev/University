@@ -3,4 +3,5 @@
 - Griffiths Experiments (1928)
 	- Observation
 		- A substance derived from killed infective pneumonia bacteria could transform *non infective* living pneumonia to the *infective* type
-		- Transforma
+		- Transformation would be the process of genetic change
+- Avery's E
