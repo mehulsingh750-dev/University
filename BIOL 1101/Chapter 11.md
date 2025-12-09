@@ -49,6 +49,8 @@
 		- *Primase*
 			- **Synthesizes** RNA primers
 				- Starting point for nucleotide assembly by DNA polymerases 
+		- *Topoisomerase*
+			- Prevents twisting ahead of replication fork as the DNA unwinds
 		- *DNA polymerases*
 			- **Adds** nucleotides into a chain at the OH 3' end, removed primers and fills resulting gaps (DNA polymerase I)
 			- DNA polymerase III extends RNA primers by adding DNA nucleotides to it
