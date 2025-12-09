@@ -45,7 +45,7 @@
 		- DNA mixed with cesium chloride and centrifuged
 	- Enzymes of DNA replication
 		- *Helicase*
-			- **Unwinds** the DNA
+			- **Unwinds** the DNA at the *origin of replication*
 		- *Primase*
 			- **Synthesizes** RNA primers
 				- Starting point for nucleotide assembly by DNA polymerases 
