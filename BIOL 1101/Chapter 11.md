@@ -16,4 +16,6 @@
 	- Results showed DNA (*not protein*) enters bacterials cells to direct the life cycle of virus
 - DNA Structure
 	- Watson and Crick (1953)
-		- Discovered that DNA molecule consists of 
+		- Discovered that DNA molecule consists of **two nucleotide chains** twisted around each other into a right-handed double helix
+		- Nucleotide Structure
+			- Deoxyrib
