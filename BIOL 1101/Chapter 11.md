@@ -41,4 +41,5 @@
 	- Meselson-Stahl Experiment
 		- Bacteria grown in N 15 (heavy medium), bases of DNA labelled with N 15
 		- Bacteria transferred to N 14 (light medium) and allowed to grow/divide for several generations, all new DNA is light
-	- 
+		- DNA extracted from bacteria cultured in heavy medium and after each gen. in light medium
+		- DNA mixed with cesium chloride and centrifuged
