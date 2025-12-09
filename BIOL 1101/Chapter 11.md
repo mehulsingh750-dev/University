@@ -39,4 +39,5 @@
 	- Basically, two strands of parental DNA molecule separate
 	- Each serves as template for synthesis of a complementary copy
 	- Meselson-Stahl Experiment
-		- 
+		- Bacteria grown in N 15 (heavy medium), bases of DNA labelled with N 15
+		- Bacteria transferred to N 14
