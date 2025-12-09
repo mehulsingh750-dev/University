@@ -17,5 +17,8 @@
 - DNA Structure
 	- Watson and Crick (1953)
 		- Discovered that DNA molecule consists of **two nucleotide chains** twisted around each other into a right-handed double helix
-		- Nucleotide Structure
-			- Deoxyrib
+		- *Nucleotide Structure*
+			- Deoxyribose
+			- Phosphate group
+			- Base (adenine, thymine, guanine or cytosine)
+	- Double Helix model;
