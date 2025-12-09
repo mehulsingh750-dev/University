@@ -24,4 +24,7 @@
 	- Double Helix Model
 		- Deoxyribose sugars linked by phosphate groups --> **Sugar phosphate backbone**
 		- Two strands are held together by base pairs
-			- Adeni
+			- Adenine-Thymine
+			- Guanine-Cytosine
+		- Each **FULL** turn of double helix is **10** base pairs
+	- Nucleotide Sub
