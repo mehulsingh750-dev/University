@@ -10,6 +10,8 @@
 	- Destroyed protein --> Still transformed
 	- Destroyed DNA --> No transformation
 		- **Proved** DNA was the transforming molecule
-- Hershey and Chase's Experiments
+- Hershey and Chase's Experiments (1952)
 	- They used bacteriophages
 	- 35S (protein) and 32P (DNA)
+	- Results showed DNA (*not protein*) enters bacterials cells to direct the life cycle of virus
+- 
