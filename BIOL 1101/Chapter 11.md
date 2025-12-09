@@ -40,4 +40,5 @@
 	- Each serves as template for synthesis of a complementary copy
 	- Meselson-Stahl Experiment
 		- Bacteria grown in N 15 (heavy medium), bases of DNA labelled with N 15
-		- Bacteria transferred to N 14
+		- Bacteria transferred to N 14 (light medium) and allowed to grow/divide for several generations, all new DNA is light
+	- 
