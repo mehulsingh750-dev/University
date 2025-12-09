@@ -55,3 +55,5 @@
 			- **Seals** remaining single-chain nicks
 	- Assembling Complementary Chain
 		- New strand is 5' to 3' 
+	- Assembling Antiparallel Strand
+		- The leading strand **
