@@ -65,4 +65,5 @@
 			- Opposite of direction of unwinding
  - DNA synthesis
 	 - Begins at sites that act as the *origin of replication*
-	 - Only activated once during e
+	 - Only activated once during the S phase
+	 - Proceeds from the origins as 2 replication forks moving in opposite direction
