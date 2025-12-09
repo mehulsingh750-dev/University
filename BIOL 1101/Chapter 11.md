@@ -23,7 +23,7 @@
 			- Base (adenine, thymine, guanine or cytosine)
 	- Double Helix Model
 		- Deoxyribose sugars linked by phosphate groups --> **Sugar phosphate backbone**
-		- Two strands are held together by base pairs
+		- Two strands are held together by base pairs (**complementary**)
 			- Adenine-Thymine
 			- Guanine-Cytosine
 		- Each **FULL** turn of double helix is **10** base pairs
@@ -33,4 +33,6 @@
 		- Phosphate at 5' carbon of sugar
 		- OH (Hydroxide) at 3' carbon
 	- DNA X-Ray Diffraction
-		- Rosalind Franklins DNA diffraction pattern matches the xray diffraction analysis of DNA which proved it had a spherical shape
+		- Rosalind Franklins DNA diffraction pattern matches the X-ray diffraction analysis of DNA which proved it had a spherical shape
+- DNA replication
+	- 
