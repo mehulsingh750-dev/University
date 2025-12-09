@@ -9,4 +9,6 @@
 	- Instead of bacteria, mice were used
 	- Destroyed protein --> Still transformed
 	- Destroyed DNA --> No transformation
+		- **Proved** DNA was the transforming molecule
+- Hershey and Chase's Experiments
 	- 
