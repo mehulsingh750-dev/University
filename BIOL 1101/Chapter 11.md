@@ -31,3 +31,5 @@
 		- Sugar-Phosphate backbone
 		- Phosphodiester bonds
 		- Phosphate at 5' carbon of sugar
+		- OH (Hydroxide) at 3' carbon
+		- 
