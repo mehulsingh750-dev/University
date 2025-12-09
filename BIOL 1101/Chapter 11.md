@@ -11,4 +11,5 @@
 	- Destroyed DNA --> No transformation
 		- **Proved** DNA was the transforming molecule
 - Hershey and Chase's Experiments
-	- 
+	- They used bacteriophages
+	- 35S (protein) and 32P (DNA)
