@@ -36,3 +36,5 @@
 		- Rosalind Franklins DNA diffraction pattern matches the X-ray diffraction analysis of DNA which proved it had a spherical shape
 - DNA replication
 	- *Semiconservative*, meaning the DNA molecule is composed of the original, parental stand and the newly synthesized strand
+	- Basically, two strands of parental DNA molecule separate
+	- Each serves as template for synthesis of a complementary copy
