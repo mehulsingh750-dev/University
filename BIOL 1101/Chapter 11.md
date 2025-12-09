@@ -35,4 +35,4 @@
 	- DNA X-Ray Diffraction
 		- Rosalind Franklins DNA diffraction pattern matches the X-ray diffraction analysis of DNA which proved it had a spherical shape
 - DNA replication
-	- *Semiconservative*, meaning
+	- *Semiconservative*, meaning the DNA molecule is composed of the original, parental stand and the newly synthesized strand
