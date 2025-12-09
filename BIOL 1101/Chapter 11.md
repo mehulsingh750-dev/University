@@ -51,6 +51,7 @@
 				- Starting point for nucleotide assembly by DNA polymerases 
 		- *DNA polymerases*
 			- **Adds** nucleotides into a chain at the OH 3' end, removed primers and fills resulting gaps
+			- DNA polymerase III extends RNA primers by adding DNA nucleotides to it
 		- *DNA ligase*
 			- **Seals** remaining single-chain nicks
 	- Assembling Complementary Chain
