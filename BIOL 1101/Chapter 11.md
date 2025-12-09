@@ -57,4 +57,5 @@
 		- New strand is 5' to 3' 
 	- Assembling Antiparallel Strand
 		- The **leading strand** **template** goes in the 3' to 5' direction, meaning the synthesis of the new strand will be 5' to 3' resulting in *continuous synthesis*
-		- The **lagging strand template** goes in the 5' to 3' direction, meaning the synthesis of the new strand will be 
+		- The **lagging strand template** goes in the 5' to 3' direction, meaning the synthesis of the new strand will be the 5' to 3' direction in a *reversed* orientation, basically going backwards
+		- 
