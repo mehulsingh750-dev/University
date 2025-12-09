@@ -14,4 +14,6 @@
 	- They used bacteriophages
 	- 35S (protein) and 32P (DNA)
 	- Results showed DNA (*not protein*) enters bacterials cells to direct the life cycle of virus
-- 
+- DNA Structure
+	- Watson and Crick (1953)
+		- Discovered that DNA molecule consists of 
