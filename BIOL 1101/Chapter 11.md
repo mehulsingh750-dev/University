@@ -67,3 +67,7 @@
 	 - Begins at sites that act as the *origin of replication*
 	 - Only activated once during the S phase
 	 - Proceeds from the origins as 2 replication forks moving in opposite direction
+- Telomeres
+	- **Ends** of eukaryotic chromosomes
+	- Short sequences repeated hundreds to thousands of times
+	- Repeats
