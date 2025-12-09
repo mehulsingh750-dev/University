@@ -64,4 +64,5 @@
 		- The **lagging strand template** goes in the 5' to 3' direction, meaning the synthesis of the new strand will be the 5' to 3' direction in a *reversed* orientation, basically going backwards (OKAZAKI FRAGMENTS)
 			- Opposite of direction of unwinding
  - DNA synthesis
-	 - 
+	 - Begins at sites that act as the *origin of replication*
+	 - Only activated once during e
