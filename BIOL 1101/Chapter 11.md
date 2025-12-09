@@ -32,5 +32,5 @@
 		- Phosphodiester bonds
 		- Phosphate at 5' carbon of sugar
 		- OH (Hydroxide) at 3' carbon
-		- DNA X-Ray Diffraction
-			- 
+	- DNA X-Ray Diffraction
+		- Rosalind Franklins DNA diffraction pattern matches the xray diffraction analysis of DNA which proved it had a spherical shape
