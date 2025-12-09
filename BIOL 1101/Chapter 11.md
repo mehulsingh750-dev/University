@@ -48,3 +48,6 @@
 			- Unwinds the DNA
 		- *Primase*
 			- Synthesizes RNA primers
+				- Starting point for nucleotide assembly by DNA polymerases 
+		- DNA polymerases
+			- 
