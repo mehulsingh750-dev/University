@@ -2,4 +2,5 @@
 	- The genetic material of all living organism
 - Griffiths Experiments (1928)
 	- Observation
-		- A substance derived from killed infective pneumonia bacteria could
+		- A substance derived from killed infective pneumonia bacteria could transform *non infective* living pneumonia to the *infective* type
+		- Transforma
