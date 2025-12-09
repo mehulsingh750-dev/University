@@ -79,3 +79,5 @@
 		- Most recent base is removed
 	- *DNA repair*
 		- Corrects errors that escape proofreading
+		- DNA Polymerase:
+			- Rem
