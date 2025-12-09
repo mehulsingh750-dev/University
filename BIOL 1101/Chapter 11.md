@@ -70,4 +70,5 @@
 - Telomeres
 	- **Ends** of eukaryotic chromosomes
 	- Short sequences repeated hundreds to thousands of times
-	- Repeats
+	- Repeats **protect** against chromosome shortening during replication
+	- **Telomerase** is
