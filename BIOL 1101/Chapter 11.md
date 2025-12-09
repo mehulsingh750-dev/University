@@ -53,4 +53,5 @@
 			- **Adds** nucleotides into a chain at the OH 3' end, removed primers and fills resulting gaps
 		- *DNA ligase*
 			- **Seals** remaining single-chain nicks
-	- Assembling 
+	- Assembling Complementary Chain
+		- New strand is 5' to 3' 
