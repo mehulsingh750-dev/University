@@ -4,6 +4,8 @@
 	- Observation
 		- A substance derived from killed infective pneumonia bacteria could transform *non infective* living pneumonia to the *infective* type
 		- Transformation would be the process of genetic change
-		- DNA was the *tran*
+		- DNA of the dead infected cells was the *transforming principle*
 - Avery's Experiments (1940)
-	- 
+	- Instead of bacteria, mice were used
+	- Destroyed protein --> Still transformed
+	- Destroyed DNA --> n
