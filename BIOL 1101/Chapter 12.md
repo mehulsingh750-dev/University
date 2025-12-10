@@ -1,12 +1,14 @@
 - Evidence for Genes encoding proteins
-- Garrod (1896)
-	- Studied *alkaptonuria* 
-	- It was a metabolic disorder
-	- Produced chemical that turns black in air
-	- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemical
-- Beadle & Tatum (1940's)
-	- Studied orange bread mold, also known as *neurospora crassa*
-	- Mould grows on **minimal media**, consisting of inorganic salts, sucrose and vitamin
-	- Used x rays to produce nutritional mutants (auxotrophs)
-	- Hypothesis: Each mutant had  a defective gene for an enzyme needed to synthesize a nutrient
-- 
+	- Garrod (1896)
+		- Studied *alkaptonuria* 
+		- It was a metabolic disorder
+		- Produced chemical that turns black in air
+		- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemical
+	- Beadle & Tatum (1940's)
+		- Studied orange bread mold, also known as *neurospora crassa*
+		- Mould grows on **minimal media**, consisting of inorganic salts, sucrose and vitamin
+		- Used x rays to produce nutritional mutants (auxotrophs)
+		- Hypothesis: Each mutant had  a defective gene for an enzyme needed to synthesize a nutrient
+- Relationship between genes and proteins
+	- 
+		- 
