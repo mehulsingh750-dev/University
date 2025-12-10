@@ -6,4 +6,4 @@
 - Beadle & Tatum (1940's)
 	- Studied orange bread mold, also known as *neurospora crassa*
 	- Mould grows on **minimal media**, consisting of inorganic salts, sucrose and vitamin
-	- 
+	- Used x rays to produce nutritional mutants (auxotrophs)
