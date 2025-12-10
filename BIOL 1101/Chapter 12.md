@@ -1,3 +1,5 @@
 - Garrod (1896)
 	- Studied *alkaptonuria* 
-	- It was a metabolic di
+	- It was a metabolic disorder
+	- Produced chemical that turns black in air
+	- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemicals
