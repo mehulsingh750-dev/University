@@ -13,4 +13,6 @@
 	- *One gene-one enzyme hypothesis*
 		- Direct relationship between genes and enzymes 
 	- One gene-one polypeptide hypothesis 
-		- 
+		- Not all proteins are enzymes, disproved previous theory
+		- Functional proteins sometimes contain one or more polypeptides
+		- Different genes 
