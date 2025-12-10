@@ -2,4 +2,5 @@
 	- Studied *alkaptonuria* 
 	- It was a metabolic disorder
 	- Produced chemical that turns black in air
-	- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemicals
+	- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemical
+- Beadle & T
