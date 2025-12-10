@@ -21,4 +21,5 @@
 		- Nucleotide sequence in DNA is copied into a complementary sequence in an RNA molecule
 		- Template of DNA is used to create messenger RNA (mRNA)
 	- *Translation*
-		- 
+		- Sequence of nucleotides in mRNA molecule specifies amino acid sequence in polypeptide
+		- Ribosomes assemble the amino aci
