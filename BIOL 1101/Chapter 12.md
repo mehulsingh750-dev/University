@@ -5,4 +5,4 @@
 	- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemical
 - Beadle & Tatum (1940's)
 	- Studied orange bread mold, also known as *neurospora crassa*
-	- 
+	- Mould grows on **mininal media**
