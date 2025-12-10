@@ -15,4 +15,7 @@
 	- One gene-one polypeptide hypothesis 
 		- Not all proteins are enzymes, disproved previous theory
 		- Functional proteins sometimes contain one or more polypeptides
-		- Different genes 
+		- Different genes encode each polypeptide
+- Genes to proteins?
+	- *Transcription*
+		- Nucleotide sequence in DNA is copied into a 
