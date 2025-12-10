@@ -18,4 +18,5 @@
 		- Different genes encode each polypeptide
 - Genes to proteins?
 	- *Transcription*
-		- Nucleotide sequence in DNA is copied into a 
+		- Nucleotide sequence in DNA is copied into a complementary sequence in an RNA molecule
+		- Template of DNA is used to create 
