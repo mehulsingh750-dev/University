@@ -10,5 +10,7 @@
 		- Used x rays to produce nutritional mutants (auxotrophs)
 		- Hypothesis: Each mutant had  a defective gene for an enzyme needed to synthesize a nutrient
 - Relationship between genes and proteins
-	- 
+	- *One gene-one enzyme hypothesis*
+		- Direct relationship between genes and enzymes 
+	- One gene-one polypeptide hypothesis 
 		- 
