@@ -3,4 +3,6 @@
 	- It was a metabolic disorder
 	- Produced chemical that turns black in air
 	- Inherited --> Alteration in gene that encodes the enzyme that metabolizes the chemical
-- Beadle & T
+- Beadle & Tatum (1940's)
+	- Studied orange bread mold, also known as *neurospora crassa*
+	- 
