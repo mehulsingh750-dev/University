@@ -175,3 +175,8 @@
 			- *Removal* of one or more amino acids from the protein chains
 			- *Addition* of organic groups
 			- *Folding* guided by chaperones
+	- Sorted Signals in the ER
+		- *Signal peptide*
+			- At beginning of polypeptide chain
+		- Signal recognition particle (SRP)
+			- Binds to signal peptide
