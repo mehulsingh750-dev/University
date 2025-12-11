@@ -43,5 +43,7 @@
 		- AUG
 		- First codon recognized during translation
 		- Is included in the 61 amino acid specifying codons out of the 64 total codons
-	- Stop Codons
-		- 
+	- Stop Codons (*termination codons*)
+		- End of polypeptide-encoding mRNA sequence
+		- **UAA, UAG, UGA**
+		- These 3 make up the 3
