@@ -99,4 +99,4 @@
 			- The coding region is flanked by 5' and 3' *Untranslated Regions*
 		- *Eukaryotes*
 			- Coding region flanked by 5' and 3' *Untranslated Regions*
-			- With additional control e
+			- With additional control elements
