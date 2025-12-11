@@ -140,5 +140,5 @@
 	- A, P and, E sites on ribosome used for addition of amino acids to polypeptides as directed by mRNA
 	- Transfer RNAs (tRNA)
 		- Bring specific amino acids to ribosome
-		- Clverleaf shape
+		- Cloverleaf shape
 		- 
