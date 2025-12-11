@@ -198,4 +198,6 @@
 		- *Nonsense*
 			- Changes a **sense** codon to a **stop** codon
 		- *Silent*
-			- Changes one sense codon to another sense codon that specifies same
+			- Changes one sense codon to another sense codon that specifies same amino acid, no effect
+		- *Frameshift*
+			- Base-pair insertion or deletion alters the reading 
