@@ -86,3 +86,5 @@
 		- The complete RNA molecule is released from the template DNA
 		- RNA polymerase II leaves the DNA
 		- DNA double helix reforms
+	- Transcription of Non-coding Regions
+		- Code for rRNA and tRNA
