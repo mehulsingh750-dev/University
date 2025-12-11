@@ -187,7 +187,7 @@
 		- Signal peptidase
 			- Removes signal sequence
 			- Translation continues until polypeptide is fully synthesized
-- Mutations
+- **Mutations**
 	- Changes in genetic material
 	- Base pair mutations change **genetic material**
 	- Results in change in **mRNA code**
@@ -202,4 +202,5 @@
 		- *Frameshift*
 			- Base-pair **insertion or deletion** alters the reading frame after the point of mutation 
 		- Sickle cell disease caused by single point mutation
-	- Spontaneous mutation are errors during DNA replication or repair 
+	- *Spontaneous* mutation are errors during DNA replication or repair 
+	- *Induced* mutations are physical, chemical and biological agents that generate mutations
