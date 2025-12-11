@@ -117,4 +117,5 @@
 			- Must be **removed** before translation 
 		- Exons
 			- Amino acid coding sequences in pre-mRNA
-			- Joined together
+			- Joined together and retained in final mRNA
+	- mRNA S
