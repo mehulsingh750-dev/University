@@ -169,3 +169,4 @@
 		- RF stimulates peptidyl transferase to cleave the polypeptide from the P site
 	- Polysomes
 		- Multiple ribosomes can simultaneously translate a single mRNA
+		- Simultaneous transcription and translation can occur in **prokaryotes** (no nuclear envelope)
