@@ -163,4 +163,6 @@
 		- Ribosomes move along the mRNA to the next codon
 			- Empty tRNA moved from P --> E site, then released
 			- Newly formed peptidyl-tRNA moves from A site to P site
-	-  **TERMINATION**
+	- **TERMINATION**
+		- Ribosome reaches a stop codon, UAG, UAA or UGA
+		- No tRNA
