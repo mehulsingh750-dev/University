@@ -60,5 +60,5 @@
 		- URACIL replaces THYMINE, (A-->U instead of A-->T)
 	- RNA Polymerases
 		- **NO** primers needed to start complementary copy
-		- RNA is made in the 5' --> 3' direction and the DNA template is read 3' --> 5
+		- RNA is made in the 5' --> 3' direction and the DNA template is read 3' --> 5'
 		  
