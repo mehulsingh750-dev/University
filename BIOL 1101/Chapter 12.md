@@ -50,7 +50,7 @@
 	- Genetic code is **Universal**
 		- Same codons specify the same amino acids in all living organisms and viruses
 		- Genetic code was established very early in the evolution of all life and has remained consistent.
-- TRANSCRIPTION (**DNA --> RNA**)
+- ***TRANSCRIPTION*** (**DNA --> RNA**)
 	- In this process, info coded in the sequential DNA bases is transferred to a complementary RNA base
 	- Like DNA replication, except:
 		- Only 1 DNA strand is used as  a template
@@ -79,4 +79,6 @@
 		- **Transcription initiation complex** involved both transcription factors and RNA polymerase II
 		- The DNA is unwound at the front of RNA polymerase II to expose the template strand
 		- The enzyme then begins RNA synthesis at the transcription start point and moves along the DNA of the gene. (Transcription factors are then released)
-		- RNA nucleotides are base-paried sequentially with the DNA template strand. RNA synthesis takes place in the 5' -> 3' direction, making the 5'
+		- RNA nucleotides are base-paried sequentially with the DNA template strand. RNA synthesis takes place in the 5' -> 3' direction, making the 5' end of the mRNA the first part of the molecule to be synthesized
+	- **ELONGATION**
+		- 
