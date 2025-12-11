@@ -23,3 +23,5 @@
 	- *Translation*
 		- Sequence of nucleotides in mRNA molecule specifies amino acid sequence in polypeptide
 		- Ribosomes assemble the amino acid sequence
+- Genetic Code
+	- Info
