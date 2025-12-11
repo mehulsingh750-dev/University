@@ -52,4 +52,7 @@
 		- Genetic code was established very early in the evolution of all life and has remained consistent.
 - TRANSCRIPTION (**DNA --> RNA**)
 	- In this process, info coded in the sequential DNA bases is transferred to a complementary RNA base
-	- Like DNA replication, except
+	- Like DNA replication, except:
+		- Only 1 DNA strand is used as  a template
+		- It only transcribes the **genes**
+		  
