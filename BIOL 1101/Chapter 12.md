@@ -86,6 +86,7 @@
 		- The complete RNA molecule is released from the template DNA
 		- RNA polymerase II leaves the DNA
 		- DNA double helix reforms
+		- Eukaryotes have **Poly A signal**
 	- Transcription of Non-coding Regions
 		- Code for rRNA (ribosomal RNA) and tRNA (transfer RNA)
 		- *Eukaryotes*
