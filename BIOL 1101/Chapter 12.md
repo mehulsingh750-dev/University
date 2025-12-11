@@ -62,4 +62,5 @@
 		- **NO** primers needed to start complementary copy
 		- RNA is made in the 5' --> 3' direction and the DNA template is read 3' --> 5'
 		- In *Eukaryotes*, RNA polymerase does NOT bind directly to DNA as it need *transcription factors*
+		- In *Prokaryotes*, RNA polymerase binds directly to DNA
 		  
