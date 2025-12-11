@@ -91,3 +91,5 @@
 		- *Eukaryotes*
 			- RNA polymerase III --> tRNA and 1 out of 4 rRNA genes
 			- RNA polymerase I --> 3 out of 4 rRNA genes
+		- *Prokaryotes*
+			- RNA polymerase II used for all transcription
