@@ -75,4 +75,5 @@
 	- **INITIATION**
 		- Proteins called *transcription factors* bind to the promoter area of the TATA box
 		- Other transcription factors recruit *RNA polymerase II*
-		- The enzyme then binds
+		- The enzyme then binds in the orientation for initiating transcription in the correct place
+		- **Transcription initiation complex** involved both 
