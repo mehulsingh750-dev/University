@@ -65,5 +65,6 @@
 		- In *Prokaryotes*, RNA polymerase binds directly to DNA
 	- Gene Organization
 		- **Promoter**
-			- Directs where 
+			- Directs where transcription begins
+			- 
 		  
