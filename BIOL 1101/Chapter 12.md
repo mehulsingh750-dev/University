@@ -96,4 +96,4 @@
 			- RNA polymerase II used for all transcription
 	- Messenger RNA
 		- *Prokaryotes*
-			- 
+			- The coding region is flanked by 
