@@ -74,3 +74,5 @@
 			- Signals the end of transcription of a gene
 	- **INITIATION**
 		- Proteins called *transcription factors* bind to the promoter area of the TATA box
+		- Other transcription factors recruit *RNA polymerase II*
+		- The enzyme then binds
