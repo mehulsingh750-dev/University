@@ -38,4 +38,8 @@
 		- 61 codons specify amino acids
 		- Most amino acids are specified by several codons (*degeneracy/redundancy*)
 		- Nucleic acid codes are *sequential*, meaning they dont have any commas or spaces in between them
-		- 
+		- AUG = START
+	- Start Codon
+		- AUG
+		- First codon recognized during translation
+		- Is included
