@@ -116,7 +116,10 @@
 			- *Interrupt* the protein coding sequence 
 			- Must be **removed** before translation 
 			- *Alternative splicing*
-				- multiple versions of mRNA c
+				- Multiple versions of mRNA can be produced
+			- *Exon Shuffling*
+				- Generates new genes/proteins
+			- Protein variability = Genetic diversity
 		- Exons
 			- Amino acid coding sequences in pre-mRNA
 			- Joined together and retained in final mRNA
