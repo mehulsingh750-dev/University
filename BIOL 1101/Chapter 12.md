@@ -72,5 +72,4 @@
 			- Portion of DNA that is copied into RNA
 		- **Terminator**
 			- Signals the end of transcription of a gene
-	- 
-		  
+	- **INITIATION
