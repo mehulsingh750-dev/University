@@ -190,4 +190,8 @@
 - Mutations
 	- Changes in genetic material
 	- Base pair mutations change **genetic material**
-	- Results in change in **mRNA 
+	- Results in change in **mRNA code**
+	- May lead to changes in the **amino acid sequence**
+	- Types of mutations
+		- *Misense*
+			- 
