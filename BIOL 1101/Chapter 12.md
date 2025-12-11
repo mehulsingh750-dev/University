@@ -153,5 +153,5 @@
 		- Made of ribosomal RNA (rRNA) and proteins
 		- Two subunits: Large and Small
 	- **INITIATION**
-		- Initiator tRNA (Met-tRNA) binds to small subunit
+		- Initiator tRNA (Met-tRNA) which has an anticodon 3'-UAC-5' for the AUG start codon binds to small subunit
 		- 
