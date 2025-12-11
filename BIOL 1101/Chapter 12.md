@@ -28,5 +28,6 @@
 		- 4 nucleotide bases in DNA or RNA
 		- 20 different amino acids in polypeptides
 	- Code
-		- One nucleotide --> 4 combinations
-		- two nucleotides --> 
+		- 1 nucleotide --> 4 combinations
+		- 2 nucleotides --> 16 combinations
+		- 3 nucleotides --> 64 combinations
