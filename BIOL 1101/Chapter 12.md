@@ -46,4 +46,6 @@
 	- Stop Codons (*termination codons*)
 		- End of polypeptide-encoding mRNA sequence
 		- **UAA, UAG, UGA**
-		- These 3 make up the 3
+		- These 3 make up the codons which do not specify amino acids
+	- Genetic code is **Universal**
+		- Same codons specify the same amino acids in all living organisms and viruses
