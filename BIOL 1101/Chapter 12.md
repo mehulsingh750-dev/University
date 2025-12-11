@@ -25,3 +25,8 @@
 		- Ribosomes assemble the amino acid sequence
 - Genetic Code
 	- Info
+		- 4 nucleotide bases in DNA or RNA
+		- 20 different amino acids in polypeptides
+	- Code
+		- One nucleotide --> 4 combinations
+		- two nucleotides --> 
