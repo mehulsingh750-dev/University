@@ -171,4 +171,7 @@
 		- Multiple ribosomes can simultaneously translate a single mRNA
 		- Simultaneous transcription and translation can occur in **prokaryotes** (no nuclear envelope)
 	- Polypeptide Processing
-		- 
+		- Convert polypeptides into finished form
+			- Removal of one or more amino acids from the protein chains
+			- Addition of organic groups
+			- Folding guided by chaperones
