@@ -78,3 +78,5 @@
 		- The enzyme then binds in the orientation for initiating transcription in the correct place
 		- **Transcription initiation complex** involved both transcription factors and RNA polymerase II
 		- The DNA is unwound at the front of RNA polymerase II to expose the template strand
+		- The enzyme then begins RNA synthesis at the transcription start point and moves along the DNA of the gene. (Transcription factors are then released)
+		- 
