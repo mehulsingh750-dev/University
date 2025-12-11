@@ -31,3 +31,4 @@
 		- 1 nucleotide --> 4 combinations
 		- 2 nucleotides --> 16 combinations
 		- 3 nucleotides --> 64 combinations
+			- 3 nucleotides made enough combos to specify all 20 amino acids and more
