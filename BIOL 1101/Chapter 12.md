@@ -154,4 +154,4 @@
 		- Two subunits: Large and Small
 	- **INITIATION**
 		- Initiator tRNA (Met-tRNA) which has an anticodon 3'-UAC-5' for the AUG start codon binds to small subunit
-		- 
+		- The whole subunit complex binds to the 5' cap of the mRNA and moves along the mRNA (scanning) until it reaches the 
