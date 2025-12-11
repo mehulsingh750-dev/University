@@ -87,4 +87,6 @@
 		- RNA polymerase II leaves the DNA
 		- DNA double helix reforms
 	- Transcription of Non-coding Regions
-		- Code for rRNA and tRNA
+		- Code for rRNA (ribosomal RNA) and tRNA (transfer RNA)
+		- *Eukaryotes*
+			- 
