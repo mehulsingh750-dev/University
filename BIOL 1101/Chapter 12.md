@@ -162,4 +162,5 @@
 		- Peptidyl transferase (enzyme in large ribosomal subunit) cleaves tRNA in the P site and forms peptide bond between in and amino acid on the A site
 		- Ribosomes move along the mRNA to the next codon
 			- Empty tRNA moved from P --> E site, then released
-			- Newly formed 
+			- Newly formed peptidyl-tRNA moves from A site to P site
+	-  **TERMINATION**
