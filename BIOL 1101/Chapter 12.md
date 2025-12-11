@@ -149,4 +149,6 @@
 	- Aminoacyclation
 		- The process of adding an amino acid to tRNA
 		- This is to ensure that the correct amino acid is present on a tRNA so translation can be accurate.
+	- Ribosomes
+		- Made of ribosomal RNA (rRNA) and proteins
 		- 
