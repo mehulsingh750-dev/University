@@ -125,4 +125,5 @@
 		- snRNPS
 			- Bind to intron and releases out of pre-mRNA
 			- Clip the intron at each exon boundary
-			- 
+			- Joins adjacent exons together
+	- 
