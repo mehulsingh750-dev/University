@@ -101,5 +101,6 @@
 			- Coding region flanked by 5' and 3' *Untranslated Regions*
 			- With additional control elements
 	- Pre-mRNA
-		- *Precuror mRNA* (pre-mRNA)
-			- 
+		- *Precursor mRNA* (pre-mRNA)
+			- Must be processed in nucleus to produce translatable mRNA
+			- Mature 
