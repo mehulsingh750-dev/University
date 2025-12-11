@@ -182,3 +182,5 @@
 			- Binds to signal peptide
 		- SRP receptor 
 			- Binds to protein receptor in ER membrane 
+			- Ribosome docks onto ER membrane
+			- Growing polypeptide pushed back into ER lumen
