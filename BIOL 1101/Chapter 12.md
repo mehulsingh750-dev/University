@@ -94,4 +94,6 @@
 			- Upstream promoters
 		- *Prokaryotes*
 			- RNA polymerase II used for all transcription
+	- Messenger RNA
+		- *Prokaryotes*
 			- 
