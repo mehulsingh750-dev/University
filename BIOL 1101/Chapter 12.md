@@ -66,5 +66,7 @@
 	- Gene Organization
 		- **Promoter**
 			- Directs where transcription begins
-			- 
+			- Upstream of transcription unit 
+			- Determines where RNA polymerase binds
+		- 
 		  
