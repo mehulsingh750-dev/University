@@ -119,4 +119,7 @@
 			- Amino acid coding sequences in pre-mRNA
 			- Joined together and retained in final mRNA
 	- mRNA Splicing
-		- 
+		- Introns in pre-mRNAs removed by:		
+		- **Splicesome**
+			- Pre-mRNA
+			- 
