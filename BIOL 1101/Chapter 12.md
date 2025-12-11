@@ -180,3 +180,5 @@
 			- At beginning of polypeptide chain
 		- Signal recognition particle (SRP)
 			- Binds to signal peptide
+		- SRP receptor 
+			- Binds to protein receptor in ER membrane 
