@@ -112,4 +112,5 @@
 			- 50 to 250 adenine nucleotides added to 3' end by poly A polymerase
 			- Protects mRNA from RNA digesting enzymes 
 		- Introns
-			- Non protein codingd se
+			- Non protein coding sequences in the pre-mRNA
+			- *Interrupt* the protein coding
