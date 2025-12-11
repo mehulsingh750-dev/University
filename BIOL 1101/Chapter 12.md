@@ -36,4 +36,6 @@
 		- Each codon encodes for 1 amino acid 
 	- Sense Codons
 		- 61 codons specify amino acids
-		- Most amino acids are spec
+		- Most amino acids are specified by several codons (*degeneracy/redundancy*)
+		- Nucleic acid codes are *sequential*, meaning they dont have any commas or spaces in between them
+		- 
