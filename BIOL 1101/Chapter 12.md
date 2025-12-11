@@ -147,4 +147,5 @@
 			- 61 different sense codons do NOT require 61 different tRNAs
 			- First two nucleotides of anticodon and codon must match specifically while third has more flexibility
 	- Aminoacyclation
-		- 
+		- The process of adding an amino acid to tRNA
+		- This is to ensure that the correct amino acid is present on a trna
