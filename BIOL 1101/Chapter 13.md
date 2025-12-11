@@ -11,4 +11,4 @@
 - **Operon**
 	- *Operator*
 		- Regulatory DNA sequences in operon 
-		- 
+		- Regulatory proteins bind the operator
