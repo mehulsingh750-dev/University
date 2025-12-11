@@ -116,4 +116,5 @@
 			- *Interrupt* the protein coding sequence 
 			- Must be **removed** before translation 
 		- Exons
-			- Amino acid 
+			- Amino acid coding sequences in pre-mRNA
+			- Joined together
