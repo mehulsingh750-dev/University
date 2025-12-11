@@ -194,11 +194,8 @@
 	- May lead to changes in the **amino acid sequence**
 	- Types of mutations
 		- *Misense*
-			- Changes a sense codon to a different sense codon
+			- Changes a **sense** codon to a **different sense** codon
 		- *Nonsense*
-			- Changes a Mutations  
-• Changes in genetic material  
-• Base-pair mutations change _______  
-– Results in change in ___________  
-– May lead to changes in the _______  
-sequence of the encoded polypeptide codon to a stop codon
+			- Changes a **sense** codon to a **stop** codon
+		- *Silent*
+			- Changes one sense codon to another sense codon that specifies same
