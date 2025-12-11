@@ -81,4 +81,6 @@
 		- The enzyme then begins RNA synthesis at the transcription start point and moves along the DNA of the gene. (Transcription factors are then released)
 		- RNA nucleotides are base-paried sequentially with the DNA template strand. RNA synthesis takes place in the 5' -> 3' direction, making the 5' end of the mRNA the first part of the molecule to be synthesized
 	- **ELONGATION**
-		- RNA polymerase II moves along the DNA, unwinding it and adding new RNA nucleotides
+		- RNA polymerase II moves along the DNA, unwinding it and adding new RNA nucleotides in 5' --> 3' direction. DNA strands reform into a double helix after being unwound.
+	- **TERMINATION**
+		- 
