@@ -141,4 +141,6 @@
 	- Transfer RNAs (tRNA)
 		- Bring specific amino acids to ribosome
 		- Cloverleaf shape
-		- **Bottom end** contains the free 3' end
+		- **Bottom end** contains the free 3' that links to the amino acid
+		- **Top end** contains the anticodon 
+		- 
