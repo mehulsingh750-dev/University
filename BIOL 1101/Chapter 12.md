@@ -184,3 +184,7 @@
 			- Binds to protein receptor in ER membrane 
 			- Ribosome docks onto ER membrane
 			- Growing polypeptide pushed back into ER lumen
+		- Signal peptidase
+			- Removes signal sequence
+			- Translation continues until polypeptide is fully synthesized
+	- 
