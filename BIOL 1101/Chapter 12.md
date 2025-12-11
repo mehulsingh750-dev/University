@@ -90,4 +90,4 @@
 		- Code for rRNA (ribosomal RNA) and tRNA (transfer RNA)
 		- *Eukaryotes*
 			- RNA polymerase III --> tRNA and 1 out of 4 rRNA genes
-			- RNA polymerase I --> 3 out of 4 rRNA
+			- RNA polymerase I --> 3 out of 4 rRNA genes
