@@ -118,4 +118,5 @@
 		- Exons
 			- Amino acid coding sequences in pre-mRNA
 			- Joined together and retained in final mRNA
-	- mRNA S
+	- mRNA Splicing
+		- 
