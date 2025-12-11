@@ -189,3 +189,5 @@
 			- Translation continues until polypeptide is fully synthesized
 - Mutations
 	- Changes in genetic material
+	- Base pair mutations change **genetic material**
+	- Results in change in **mRNA 
