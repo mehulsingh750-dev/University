@@ -1,2 +1,4 @@
 - Gene Expression Control
 	- All somatic cells are genetically **identical**
+	- Gene expression is mainly controlled through *transcriptional regulation* 
+	- Cells differ through specialization
