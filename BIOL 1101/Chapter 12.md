@@ -143,4 +143,6 @@
 		- Cloverleaf shape
 		- **Bottom end** contains the free 3' that links to the amino acid
 		- **Top end** contains the anticodon 
-		- 
+		- *Wobble hypothesis*
+			- 61 different sense codons do NOT require 61 different tRNAs
+			- First two nucleotides of anticodon and codon must match
