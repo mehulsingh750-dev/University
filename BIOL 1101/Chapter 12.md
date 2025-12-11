@@ -105,4 +105,4 @@
 			- Must be processed in nucleus to produce translatable mRNA
 			- Mature mRNA exits the nucleus and is translated by ribosomes in the cytoplasm
 		- *5' Cap*
-			- 
+			- Adding by capping enzyme soon after the RNA polymerase II begins transcription.
