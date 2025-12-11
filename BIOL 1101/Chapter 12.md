@@ -83,4 +83,4 @@
 	- **ELONGATION**
 		- RNA polymerase II moves along the DNA, unwinding it and adding new RNA nucleotides in 5' --> 3' direction. DNA strands reform into a double helix after being unwound.
 	- **TERMINATION**
-		- 
+		- The complete RNA molecule 
