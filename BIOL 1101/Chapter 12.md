@@ -132,4 +132,5 @@
 			- Clip the intron at each exon boundary
 			- Joins adjacent exons together
 - ***TRANSCRIPTION*** **(mRNA --> Protein)**
+	- This process is the assembly of amino acids into polypeptides on ribosomes
 	- 
