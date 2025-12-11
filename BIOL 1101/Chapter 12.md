@@ -151,4 +151,5 @@
 		- This is to ensure that the correct amino acid is present on a tRNA so translation can be accurate.
 	- Ribosomes
 		- Made of ribosomal RNA (rRNA) and proteins
+		- Two subunits: Large and Small
 		- 
