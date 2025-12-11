@@ -36,4 +36,4 @@
 		- Each codon encodes for 1 amino acid 
 	- Sense Codons
 		- 61 codons specify amino acids
-		- 
+		- Most amino acids are spec
