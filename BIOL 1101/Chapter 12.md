@@ -120,6 +120,5 @@
 			- Joined together and retained in final mRNA
 	- mRNA Splicing
 		- Introns in pre-mRNAs removed by:		
-		- **Splicesome**
-			- Pre-mRNA
-			- 
+		- **Spliceosome**
+			- Made of Pre-mRNA and Small ribonucleoprotein particles
