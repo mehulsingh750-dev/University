@@ -103,4 +103,6 @@
 	- Pre-mRNA
 		- *Precursor mRNA* (pre-mRNA)
 			- Must be processed in nucleus to produce translatable mRNA
-			- Mature 
+			- Mature mRNA exits the nucleus and is translated by ribosomes in the cytoplasm
+		- *5' Cap*
+			- 
