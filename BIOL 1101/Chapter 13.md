@@ -5,4 +5,4 @@
 - Regulation of Gene Expression in Prokaryotes
 	- Reflects life history, as it has a rapid and reversible response to the environment
 	- *Operon*: A cluster of prokaryotic genes and DNA regulatory sequences
-	- 
+	- RNA polymerase binds at the *promoter*
