@@ -34,3 +34,6 @@
 			- 3 nucleotides made enough combos to specify all 20 amino acids and more
 	- DNA and RNA read in 3 letter words called **codons**
 		- Each codon encodes for 1 amino acid 
+	- Sense Codons
+		- 61 codons specify amino acids
+		- 
