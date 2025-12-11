@@ -137,4 +137,4 @@
 		- Takes place throughout the cell
 	- *Eukaryote*
 		- Takes place on cytoplasm
-	- 
+	- A, P and, E sites on ribosome used for addition of amino acids to polypeptides as directed by mRNA
