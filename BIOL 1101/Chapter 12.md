@@ -153,4 +153,5 @@
 		- Made of ribosomal RNA (rRNA) and proteins
 		- Two subunits: Large and Small
 	- **INITIATION**
-		- Initiator tRNA ()
+		- Initiator tRNA (Met-tRNA) binds to small subunit
+		- 
