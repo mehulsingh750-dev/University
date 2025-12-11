@@ -91,5 +91,7 @@
 		- *Eukaryotes*
 			- RNA polymerase III --> tRNA and 1 out of 4 rRNA genes
 			- RNA polymerase I --> 3 out of 4 rRNA genes
+			- Upstream promoters
 		- *Prokaryotes*
 			- RNA polymerase II used for all transcription
+			- 
