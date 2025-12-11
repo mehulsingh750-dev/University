@@ -121,4 +121,6 @@
 	- mRNA Splicing
 		- Introns in pre-mRNAs removed by:		
 		- **Spliceosome**
-			- Made of Pre-mRNA and Small ribonucleoprotein particles
+			- Made of Pre-mRNA and Small ribonucleoprotein particles (snRNP)
+		- snRNPS
+			- Bind to inron and relases out of pre-m
