@@ -114,4 +114,6 @@
 		- Introns
 			- Non protein coding sequences in the pre-mRNA
 			- *Interrupt* the protein coding sequence 
-			- 
+			- Must be **removed** before translation 
+		- Exons
+			- Amino acid 
