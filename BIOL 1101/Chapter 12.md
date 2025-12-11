@@ -131,7 +131,7 @@
 			- Bind to intron and releases out of pre-mRNA
 			- Clip the intron at each exon boundary
 			- Joins adjacent exons together
-- ***TRANSCRIPTION*** **(mRNA --> Protein)**
+- ***TRANSLATION **(mRNA --> Protein)**
 	- This process is the assembly of amino acids into polypeptides on ribosomes
 	- *Prokaryote*
 		- Takes place throughout the cell
