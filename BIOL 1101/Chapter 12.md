@@ -115,6 +115,8 @@
 			- Non protein coding sequences in the pre-mRNA
 			- *Interrupt* the protein coding sequence 
 			- Must be **removed** before translation 
+			- *Alternative splicing*
+				- multiple versions of mRNA c
 		- Exons
 			- Amino acid coding sequences in pre-mRNA
 			- Joined together and retained in final mRNA
