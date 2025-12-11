@@ -159,4 +159,4 @@
 		- The **large** ribosomal subunit binds and GTP is hydrolyzed
 	- **ELONGATION**
 		- Aminoacyl-tRNA binds to the codon in the A site; GTP is hydrolized
-		- Peptidyl transferase (enzyme in large ribosomal subunit) cleaves tRNA
+		- Peptidyl transferase (enzyme in large ribosomal subunit) cleaves tRNA in the P site and forms peptide bond between in and amino acid on the A site
