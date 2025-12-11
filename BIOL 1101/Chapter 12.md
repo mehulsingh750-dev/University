@@ -55,4 +55,8 @@
 	- Like DNA replication, except:
 		- Only 1 DNA strand is used as  a template
 		- It only transcribes the **genes**
+		- RNA polymerase used, no primer needed
+		- RNA are single strands
+		- URACIL replaces THYMINE, (A-->U instead of A-->T)
+		
 		  
