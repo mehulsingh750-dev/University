@@ -145,4 +145,5 @@
 		- **Top end** contains the anticodon 
 		- *Wobble hypothesis*
 			- 61 different sense codons do NOT require 61 different tRNAs
-			- First two nucleotides of anticodon and codon must match
+			- First two nucleotides of anticodon and codon must match specifically while third has more flexibility
+			- 
