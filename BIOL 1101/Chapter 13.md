@@ -7,4 +7,5 @@
 	- *Operon*: A cluster of prokaryotic genes and DNA regulatory sequences
 	- RNA polymerase binds at the *promoter* for the operon
 	- Many genes may be transcribed into one mRNA
+	- Cluster of genes is called a *transcription unit*
 	- 
