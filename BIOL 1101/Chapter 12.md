@@ -100,3 +100,6 @@
 		- *Eukaryotes*
 			- Coding region flanked by 5' and 3' *Untranslated Regions*
 			- With additional control elements
+	- Pre-mRNA
+		- *Precuror mRNA* (pre-mRNA)
+			- 
