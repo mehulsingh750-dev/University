@@ -133,4 +133,6 @@
 			- Joins adjacent exons together
 - ***TRANSCRIPTION*** **(mRNA --> Protein)**
 	- This process is the assembly of amino acids into polypeptides on ribosomes
-	- 
+	- *Prokaryote*
+		- Takes place throughout the cell
+	- *Eukaryote*
