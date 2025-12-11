@@ -136,3 +136,5 @@
 	- *Prokaryote*
 		- Takes place throughout the cell
 	- *Eukaryote*
+		- Takes place on cytoplasm
+	- 
