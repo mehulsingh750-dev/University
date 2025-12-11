@@ -1,2 +1,2 @@
 - Gene Expression Control
-	- 
+	- All somatic cells are genetically **identical**
