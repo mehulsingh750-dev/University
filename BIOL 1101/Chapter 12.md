@@ -109,4 +109,7 @@
 			- Adding by capping enzyme soon after the RNA polymerase II begins transcription.
 			- Site where ribosomes attach to mRNA
 		- Poly (A) tail
-			- 50 to 250 adenine nucleotides added to 3' end by
+			- 50 to 250 adenine nucleotides added to 3' end by poly A polymerase
+			- Protects mRNA from RNA digesting enzymes 
+		- Introns
+			- Non protein codingd se
