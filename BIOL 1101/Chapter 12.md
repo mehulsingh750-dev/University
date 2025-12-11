@@ -113,4 +113,5 @@
 			- Protects mRNA from RNA digesting enzymes 
 		- Introns
 			- Non protein coding sequences in the pre-mRNA
-			- *Interrupt* the protein coding
+			- *Interrupt* the protein coding sequence 
+			- 
