@@ -68,5 +68,8 @@
 			- Directs where transcription begins
 			- Upstream of transcription unit 
 			- Determines where RNA polymerase binds
-		- 
+		- **Transcription Unit**
+			- Portion of DNA that is copied into RNA
+		- **Terminator**
+			- Signals the end
 		  
