@@ -12,3 +12,7 @@
 	- *Operator*
 		- Regulatory DNA sequences in operon 
 		- Regulatory proteins bind the operator
+		- **Repressor proteins**
+			- Prevent operon from being expressed
+		- **Activator proteins**
+			- Turn on expression of genes from operon
