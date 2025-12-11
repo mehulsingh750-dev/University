@@ -49,4 +49,6 @@
 		- These 3 make up the codons which do not specify amino acids
 	- Genetic code is **Universal**
 		- Same codons specify the same amino acids in all living organisms and viruses
-		- Genetic code was established
+		- Genetic code was established very early in the evolution of all life and has remained consistent.
+- TRANSCRIPTION (**DNA --> RNA**)
+	- 
