@@ -3,4 +3,5 @@
 	- Gene expression is mainly controlled through *transcriptional regulation* 
 	- Cells differ through specialization by activating specific genes 
 - Regulation of Gene Expression in Prokaryotes
-	- Reflecs
+	- Reflects life history, as it has a rapid and reversible response to the environment
+	- *Operon*: A cluster of prokaryotic genes and DNA regulatory sequences
