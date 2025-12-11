@@ -201,3 +201,5 @@
 			- Changes one sense codon to another sense codon that specifies same amino acid, no effect
 		- *Frameshift*
 			- Base-pair **insertion or deletion** alters the reading frame after the point of mutation 
+		- Sickle cell disease caused by single point mutation
+	- Spontaneous mutation are errors during DNA replication or repair 
