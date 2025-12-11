@@ -119,7 +119,7 @@
 				- Multiple versions of mRNA can be produced
 			- *Exon Shuffling*
 				- Generates new genes/proteins
-			- Protein variability = Genetic diversity
+			- Protein variability = Genetic diversity/ Evolutionary Adaptability
 		- Exons
 			- Amino acid coding sequences in pre-mRNA
 			- Joined together and retained in final mRNA
