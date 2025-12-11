@@ -165,4 +165,5 @@
 			- Newly formed peptidyl-tRNA moves from A site to P site
 	- **TERMINATION**
 		- Ribosome reaches a stop codon, UAG, UAA or UGA
-		- No tRNA has anticodon that pairs with stop codon, so
+		- No tRNA has anticodon that pairs with stop codon, so release factor binds with A site.
+		- RF stimulates peptidyl transferase to cleave the polypeptide from the P site
