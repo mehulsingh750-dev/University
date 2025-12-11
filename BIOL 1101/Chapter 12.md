@@ -168,4 +168,4 @@
 		- No tRNA has anticodon that pairs with stop codon, so release factor binds with A site.
 		- RF stimulates peptidyl transferase to cleave the polypeptide from the P site
 	- Polysomes
-		- 
+		- Multiple ribosomes can simultaneously translate a single mRNA
