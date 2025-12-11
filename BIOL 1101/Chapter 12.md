@@ -158,4 +158,5 @@
 		- Base pairing occurs and energy is *consumed*
 		- The **large** ribosomal subunit binds and GTP is hydrolyzed
 	- **ELONGATION**
-		- 
+		- Aminoacyl-tRNA binds to the codon in the A site; GTP is hydrolized
+		- Peptidyl transfera
