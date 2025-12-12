@@ -127,4 +127,7 @@
 				- **Splicing** of introns and exons
 			- Masking proteins bind to mRNA to block translation
 				- Signal for mRNA activation releases masking proteins during development
-			- mRNA breakdown rates are 
+			- mRNA breakdown rates are controlled 
+			- **Micro-RNA** (miRNA)
+				- Regulates gene expression through RNA interference
+				- miRNA binds to any comple
