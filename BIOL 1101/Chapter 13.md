@@ -45,4 +45,6 @@
 			- Trp repressor encoded by trpR elsewhere in genome
 			- Trp repressor synthesized in inactive form 
 	- trp Operon Regulation
-		- Default state of trp operon 
+		- Default state of trp operon is expression since Trp repressor is **inactive**
+			- It is *activated* by the presence of **tryptophan**
+		- trp operon is repressible operon 
