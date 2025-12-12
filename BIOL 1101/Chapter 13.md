@@ -60,4 +60,5 @@
 		- Enters the cell and acts as a corepressor by binding to the inactive trp repressor and activating it
 		- RNA polymerase unable to bind, no transcription
 		- **OPERON OFF**
-	- Regulattion of Gene Expression in Eukaryotes
+	- Regulation of Gene Expression in Eukaryotes
+		- 
