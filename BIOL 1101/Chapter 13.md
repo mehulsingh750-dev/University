@@ -64,4 +64,8 @@
 		- 4 levels:
 			- Transcriptional Regulation (Most important)
 				- Chromatin remodelling to make genes accessible for transcription
-				- Regulatory events at a genes promoter and regulatory 
+				- Regulatory events at a genes promoter and regulatory sequences
+			- Posttranscriptional regulation
+				- Variations in pre-mRNA processing
+				- Removal of masking proteins
+				- Variations in rate of mRNA breakdown
