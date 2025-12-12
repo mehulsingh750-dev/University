@@ -34,4 +34,7 @@
 	- Positive Regulation of lac Operon
 		- lac Operon only operates when lactose but not glucose is present, this is due to glucose being a more efficient energy source than lactose
 		- Means the operon is simply not needed
-		- Catabolite Activator Protein
+		- Catabolite Activator Protein (CAP)
+			- Activator that stimulates gene expression
+			- CAP activated by cAMP
+			- **cAMP only abundant when glucose levels are low**
