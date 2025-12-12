@@ -99,3 +99,4 @@
 				- Increase transcription to maximal rate
 			- **Repressors** oppose effect of activators 
 				- Decrease transcription 
+				- 
