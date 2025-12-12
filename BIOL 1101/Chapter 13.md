@@ -174,4 +174,6 @@
 			- Prognosis
 				- Probability of survival 5 years after diagnosis 
 		- Proto-oncogenes
-			- Proto-oncogn
+			- Proto-oncogenes encode proteins that stimulate cell division
+			- Oncogenes cause cells to be cancerous
+		- 
