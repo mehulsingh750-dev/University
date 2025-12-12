@@ -18,4 +18,7 @@
 - DNA Hybridization 
 	- Uses nucleic acid probe to identify gene of interest in set of clones (*Complementation*)
 - DNA Libraries
-	- Genomic li
+	- Genomic library
+		- Collection of clones containing every sequence in a genome
+	- Complementary DNA (cDNA) Library
+		- DNA sequences made from expressed RNA
