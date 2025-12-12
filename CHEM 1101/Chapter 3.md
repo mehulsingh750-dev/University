@@ -5,3 +5,7 @@
 	- Gives the actual number of atoms in each element in a molecule of a compound
 - Structural Formula
 	- Uses lines to represent covalent bonds and shows how atoms in a molecule are connected
+- Atomic Elements
+	- Exist in nature with single atoms as their basic units
+- Molecular Elements
+	- Exist as mi
