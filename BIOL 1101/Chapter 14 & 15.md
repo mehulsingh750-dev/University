@@ -37,4 +37,11 @@
 	- Transgenic Organism
 		- Modified to contain genes (transgene) from external source
 	- Bacteria
-		- Put transgene in expression vector that has a *promoter* f
+		- Put transgene in expression vector that has a *promoter* for production of transgenic proteins
+- Stem cells of Animals
+	- Stem cell
+		- Unspecialized
+	- Embryonic Stem cell
+		- Isolated from early embryos at the blastocyst stage
+	- Adult stem cells
+		- 
