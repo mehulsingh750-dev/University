@@ -23,4 +23,4 @@
 			- The lac operon operator sequence is between the promoter and lacZ
 	- When lactose is absent?
 		- *Lac repressor*
-			- Stops lac operon
+			- Stops lac operon expression 
