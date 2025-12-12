@@ -156,4 +156,10 @@
 			- **Benign** tumors single mass
 			- **Malignant** tumors (cancer) invade other tissues by metastasis
 			- Tumor repressor geen function LOST
-			- Onco
+			- *Oncology* is the branch of medicine for treating cancer
+		- Types
+			- Carcinoma
+				- Epithelial origin (breast, prostate, lung, colon)
+			- Sarcoma
+				- Connective tissue (Bone, fat, cartillage)
+			- Le
