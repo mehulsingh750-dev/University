@@ -27,3 +27,6 @@
 - Polyatomic Ion
 	- Group of atoms help together by covalent bonds with a net pos/neg charge
 	- Most polyatomic ions are *oxyanions* (oxygen with another element)
+- Hydrated Ionic Compounds
+	- Hydrates
+		- Contain a specific number of water molecules associated with each formula unit
