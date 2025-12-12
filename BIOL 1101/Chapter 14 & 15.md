@@ -25,3 +25,7 @@
 - Polymerase Chain Reaction (PCR)
 	- Amplifies large number of copies of target DNA sequence in the test tube without cloning in bacteria 
 	- Pair of complementary DNA primers needed
+- How to detect RFLP's?
+	- Southern blot analysis 
+		- Uses electrophoresis, blot transfer and labelled probes to identify RFLP's
+		- 
