@@ -79,4 +79,6 @@
 	- Transcriptional Regulation
 		- *Transcription Initiation*
 			- Promoter 
-				- Includes TATA bo
+				- Includes TATA box that binds transcription factors
+			- Promoter proximal region
+				- 
