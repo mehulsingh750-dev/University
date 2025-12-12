@@ -78,4 +78,5 @@
 				- Variations in rate of protein breakdown
 	- Transcriptional Regulation
 		- *Transcription Initiation*
-			- Promoter
+			- Promoter 
+				- Includes TATA bo
