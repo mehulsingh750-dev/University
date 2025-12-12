@@ -122,4 +122,5 @@
 				- Makes gene promoters accessible to transcription factors and RNA polymerase
 				- *In summary*, acetylation of histone tails activates chromatin
 		- Posttranscriptional Regulation
+			- Controls availability of mRNA to ribosomes
 			- 
