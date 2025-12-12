@@ -6,3 +6,5 @@
 	- Uses DNA technologies to alter genes for practical purposes
  - Cloning DNA
 	 - Isolate genomic DNA and cut DNA into fragments
+	 - Cut a circular bacterial plasmid to make it linear
+	 - Insert the genomic DNA fragments into the plasmid to make recombinant DNA molecules
