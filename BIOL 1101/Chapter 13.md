@@ -120,3 +120,4 @@
 				- Activators recruit *remodelling complexes* that displace nucleosomes
 				- Activators recruit histone acetyltransferase enzyme that acetylates and loosens histone association with DNA 
 				- Makes gene promoters accessible to transcription factors and RNA polymerase
+				- *In summary*, 
