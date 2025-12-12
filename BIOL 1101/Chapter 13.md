@@ -88,4 +88,5 @@
 			- General transcription factors initiate transcription
 				- Bind to TATA box area
 				- Recruit RNA polymerase II
-				- Orientat
+				- Orientate enzyme to start transcription at the correct place 
+				- **Activators** bind 
