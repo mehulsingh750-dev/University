@@ -95,4 +95,5 @@
 				- Helix-turn-helix
 				- Zinc Finger
 				- Leucine Zipper
-				- 
+			- **Coactivators** bridge enhancer and promoter 
+				- Increase tr
