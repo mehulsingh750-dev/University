@@ -30,3 +30,8 @@
 - Hydrated Ionic Compounds
 	- Hydrates
 		- Contain a specific number of water molecules associated with each formula unit
+	- Anhydrous
+		- NOT containing any water molecules
+- Molecular Compounds
+	- Formulas
+		- 
