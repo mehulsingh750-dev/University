@@ -99,4 +99,5 @@
 				- Increase transcription to maximal rate
 			- **Repressors** oppose effect of activators 
 				- Decrease transcription 
-				- 
+			- Combinatorial Gene Regulation
+				 - **Complex** gene regulation with **limited/small** numbers of activators.
