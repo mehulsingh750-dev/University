@@ -14,4 +14,5 @@
 - Plasmid Cloning Vectors
 	- Bacterial plasmids that are engineered to contain
 		- Gene of interest
-		- S
+		- Sorting genes
+	- 
