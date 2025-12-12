@@ -183,4 +183,7 @@
 		- Tumour Supressor Genes
 			- Encode proteins that *inhibit* cell division
 			- p53 initiates apoptosis
-			- Prevents gene mutations 
+				- Prevents gene mutations 
+				- Activation of DNA repair proteins
+			- BRCA1 and BRCA2
+				- 
