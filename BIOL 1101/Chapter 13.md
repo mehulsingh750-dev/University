@@ -31,3 +31,5 @@
 			- Inducer of lac operon by binding to lac repressor, inactivates it
 			- RNA polymerase binds to the promoter
 			- **Transcription occurs**
+	- Positive Regulation of lac Operon
+		- lac Operon only operates when lactose but not glucose is present, this is due to glucose being a more effecient energy source than
