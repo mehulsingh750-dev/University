@@ -182,3 +182,5 @@
 			- Viral infection of gene that regulates cell cycle 
 		- Tumour Supressor Genes
 			- Encode proteins that *inhibit* cell division
+			- p53 initiates apoptosis
+			- Prevents gene mutations 
