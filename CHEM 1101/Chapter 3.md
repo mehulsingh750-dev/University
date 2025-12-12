@@ -39,3 +39,4 @@
 		- PREFIX + NAME OF 1ST ELEMENT + PREFIX + BASE NAME OF 2ND ELEMENT + IDE
 		- NO2 --> Nitrogen dioxide
 		- N2O --> Dinitrogen monoxide
+- Naming Aci
