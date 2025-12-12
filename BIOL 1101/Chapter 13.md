@@ -25,7 +25,9 @@
 		- *Lac repressor*
 			- Active lac repressor expressed from the lacI gene binds to operator
 			- RNA polymerase cannot bind to promoter
-			- Transcription does not occur
+			- **Transcription does not occur**
 	- When lactose is present?
 		- *Allolactose* -> made from lactose
-			- Inducer of lac operon by binding to lac repressor    
+			- Inducer of lac operon by binding to lac repressor, inactivates it
+			- RNA polymerase binds to the promoter
+			- **Transcription occurs**
