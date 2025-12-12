@@ -13,4 +13,6 @@
 - Molecular Compounds
 	- Composed of 2 or more covalently bonded non metals (H2O)
 - Ionic Compounds
-	- Composed of cations (usually metal) and anions (usually nonmetal) bound together by 
+	- Composed of cations (usually metal) and anions (usually nonmetal) bound together by an ionic bond
+	- *Formula Unit* is the smallest, electrically neutral collection of ions in an ionic compound
+	- 
