@@ -55,4 +55,8 @@
 	- Sequencing
 		- Determines nucleotide sequence of a genome
 	- Annotation
-		- Analyzes specific regions of nucleot
+		- Analyzes specific regions of nucleotide regions
+	- Functional genomics
+		- Studies functions of genes and other parts of genome
+	- Comparative genomics
+		- Studies how genomes have evolved
