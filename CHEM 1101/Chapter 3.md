@@ -24,4 +24,4 @@
 	- Naming
 		- For metals that form cations with only 1 charge, same name
 		- For metals that form cations with different charges, add roman numerals (Ex iron (II))
-		- 
+		- Most polyatomic
