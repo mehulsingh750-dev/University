@@ -22,3 +22,5 @@
 		- Collection of clones containing every sequence in a genome
 	- Complementary DNA (cDNA) Library
 		- DNA sequences made from expressed RNA
+- Polymerase Chain Rection (PCR)
+	- 
