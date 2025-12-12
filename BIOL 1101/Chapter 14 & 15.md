@@ -1,2 +1,6 @@
 - Biotechnology
-	- Any technique to biological systems to manio
+	- Any technique to biological systems to manipulate processes for a specific purpose 
+- DNA technologies 
+	- Isolate, purify and analyze and manipulate DNA sequecnes
+- Genetic Engineering
+	- 
