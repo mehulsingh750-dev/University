@@ -180,3 +180,5 @@
 			- Mutations in promoter or coding segment
 			- Segment of chromosome translocated to area near promoter or enhancer
 			- Viral infection of gene that regulates cell cycle 
+		- Tumour Supressor Genes
+			- Encode proteins that *inhibit* cell division
