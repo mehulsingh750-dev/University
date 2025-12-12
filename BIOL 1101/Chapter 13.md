@@ -42,5 +42,7 @@
 	- trp Operon Genes
 		- 5 genes: trpA, trpB, trpC, trpD, trpE
 		- All of these needed for synthesis of tryptophan by trp operon
-			- Trp repressor encoded by trpR elsewhere in genoke
-			-
+			- Trp repressor encoded by trpR elsewhere in genome
+			- Trp repressor synthesized in inactive form 
+	- trp Operon Regulation
+		- Default state of trp operon 
