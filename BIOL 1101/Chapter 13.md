@@ -90,3 +90,4 @@
 				- Recruit RNA polymerase II
 				- Orientate enzyme to start transcription at the correct place 
 			- **Activators** bind to promoter proximal elements and increase transcription rate
+		- 
