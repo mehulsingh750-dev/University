@@ -16,3 +16,4 @@
 			- Prevent operon from being expressed
 		- **Activator proteins**
 			- Turn on expression of genes from operon
+	- *lac* operon for Lact
