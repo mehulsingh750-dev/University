@@ -1,6 +1,8 @@
 - Biotechnology
 	- Any technique to biological systems to manipulate processes for a specific purpose 
 - DNA technologies 
-	- Isolate, purify and analyze and manipulate DNA sequecnes
+	- Isolate, purify and analyze and manipulate DNA sequences
 - Genetic Engineering
-	- 
+	- Uses DNA technologies to alter genes for practical purposes
+ - Cloning DNA
+	 - Isolate genomic DNA and cut DNA into fragments
