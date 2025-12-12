@@ -97,5 +97,5 @@
 				- Leucine Zipper
 			- **Coactivators** bridge enhancer and promoter 
 				- Increase transcription to maximal rate
-			- Repressors oppose effect of activators 
+			- **Repressors** oppose effect of activators 
 				- Decrease transcription 
