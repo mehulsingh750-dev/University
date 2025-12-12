@@ -156,3 +156,4 @@
 			- **Benign** tumors single mass
 			- **Malignant** tumors (cancer) invade other tissues by metastasis
 			- Tumor repressor geen function LOST
+			- Onco
