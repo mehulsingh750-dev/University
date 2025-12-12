@@ -50,4 +50,4 @@
 		- trp operon is **repressible operon** (usually on)
 			- Tryptophan is corepressor (combines with repressor to shut off)
 		- lac and trp operons both exhibit negative gene regulation
-	- 
+	- Tryptophan 
