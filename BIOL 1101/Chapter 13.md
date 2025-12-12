@@ -77,4 +77,5 @@
 				- Removal of masking segments
 				- Variations in rate of protein breakdown
 	- Transcriptional Regulation
-		- 
+		- *Transcription Initiation*
+			- Promoter
