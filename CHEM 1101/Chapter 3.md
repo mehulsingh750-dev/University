@@ -9,4 +9,6 @@
 	- Exist in nature with single atoms as their basic units
 - Molecular Elements
 	- Exist as molecules in nature with 2 or more atoms of the element bonded together
-	- Hydrogen, nitrogen, oxygen, fluorine, phosphorus, sulfur, chlorine, selen
+	- Hydrogen, nitrogen, oxygen, fluorine, phosphorus, sulfur, chlorine, selenium, bromine and iodine
+- Molecular Compounds
+	- Composed of 2 or more covalently bonded non metals (H2O)
