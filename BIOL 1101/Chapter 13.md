@@ -106,4 +106,6 @@
 				- Signal molecules activate all cells with specific hormone receptors
 				- All genes regulated by a specific hormone contain a *steroid hormone response element*
 		- *Methylation of DNA*
-			- 
+			- DNA methylation
+				- Adds methyl groups to cytosine
+				- 
