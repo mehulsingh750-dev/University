@@ -9,3 +9,6 @@
 	 - Cut a circular bacterial plasmid to make it linear
 	 - Insert the genomic DNA fragments into the plasmid to make recombinant DNA molecules
 	 - Insert recombinants into bacterial cells and replicate
+- Restriction Enzymes
+	- Cut DNA as specific sequences in restriction sites
+	- 
