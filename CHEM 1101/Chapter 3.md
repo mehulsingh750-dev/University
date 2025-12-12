@@ -48,3 +48,5 @@
 		- Ex. HCL (aq) is hydrochloric acid
 - Naming Oxyacids
 	- Molecules containing hydrogen and an oxyanion 
+	- Ex. HNO3 (aq) contains hydrogen and NO3 which is an oxyanion
+	- Number of H+ ions depends on the charge of oxyanion, charge always neutral
