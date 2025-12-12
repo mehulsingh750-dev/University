@@ -61,4 +61,5 @@
 		- RNA polymerase unable to bind, no transcription
 		- **OPERON OFF**
 	- Regulation of Gene Expression in Eukaryotes
-		- 
+		- 4 levels:
+			- 
