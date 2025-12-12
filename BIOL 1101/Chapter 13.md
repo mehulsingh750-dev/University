@@ -19,4 +19,5 @@
 	- *lac* operon for Lactose Metabolism
 		- lactose metabolism In E Coli requires 3 genes:
 			- lacZ, lacY and lacA
-			- 
+			- The *lac operon* contains all three genes and regulatory sequences
+			- The lac operon 
