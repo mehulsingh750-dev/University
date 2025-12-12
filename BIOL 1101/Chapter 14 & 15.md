@@ -48,4 +48,6 @@
 - Human Gene Therapy
 	- Alteration of individuals genes, treats disorders with one defective gene
 - Animal Genetic Engineering
-	- 
+	- "Pharm" animals produce proteins for humans
+	- Clones mammals produced by 
+		- Implantation of diploid cell fused with denucleated egg cell
