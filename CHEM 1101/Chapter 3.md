@@ -44,3 +44,7 @@
 	- Characterized by their sour taste and their ability to dissolve many metals
 	- Binary Acids
 		- Composed of hydrogen and a non metal
+		- HYDRO + BASE NAME OF NONMETAL + IC + ACID
+		- Ex. HCL (aq) is hydrochloric acid
+- Naming Oxyacids
+	- 
