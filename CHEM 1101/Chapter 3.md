@@ -19,4 +19,4 @@
 - Ionic Compounds
 	- Always contain positive and negative ions
 	- In chemical formula, sum of charges of the postive ions (cations) must be equal to the sum of the charges of the negative ions (anions)
-	- Formula
+	- Formula always reflects *smallest* whole number ratio of ions
