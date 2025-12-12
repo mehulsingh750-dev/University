@@ -24,4 +24,7 @@
 	- When lactose is absent?
 		- *Lac repressor*
 			- Active lac repressor expressed from the lacI gene binds to operator
-			- RNA polymerase c
+			- RNA polymerase cannot bind to promoter
+			- Transcription does not occur
+	- When lactose is present?
+		- 
