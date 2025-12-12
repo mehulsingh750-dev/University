@@ -41,3 +41,6 @@
 		- N2O --> Dinitrogen monoxide
 - Naming Acids
 	- Molecular compounds that **release** hydrogen ions (H+)
+	- Characterized by their sour taste and their ability to dissolve many metals
+	- Binary Acids
+		- Composed of hydrogen and a non metal
