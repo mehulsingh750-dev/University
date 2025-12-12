@@ -113,3 +113,5 @@
 				- Permanent silencing of a maternal/paternal allele
 				- Inherited methylated allele is inactive
 				- Methylation maintained as DNA is replicated
+		- *Chromatin Structure*
+			- 
