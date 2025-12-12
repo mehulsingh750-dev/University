@@ -17,6 +17,9 @@
 	- *Formula Unit* is the smallest, electrically neutral collection of ions in an ionic compound
 3.4
 - Ionic Compounds
-	- Always contain positive and negative ions
-	- In chemical formula, sum of charges of the postive ions (cations) must be equal to the sum of the charges of the negative ions (anions)
-	- Formula always reflects *smallest* whole number ratio of ions
+	- Formulas
+		- Always contain positive and negative ions
+		- In chemical formula, sum of charges of the postive ions (cations) must be equal to the sum of the charges of the negative ions (anions)
+		- Formula always reflects *smallest* whole number ratio of ions
+	- Naming
+		- 
