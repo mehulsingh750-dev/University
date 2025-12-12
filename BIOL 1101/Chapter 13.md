@@ -85,3 +85,7 @@
 				- Stimulates or Inhibits transcription rates
 			- Enhancer further upstream
 				- Determines max/overall transcription rate
+			- General transcription factors initiate transcription
+				- Bind to TATA box area
+				- Recruit RNA polymerase II
+				- Orientat
