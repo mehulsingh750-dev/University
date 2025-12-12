@@ -126,5 +126,5 @@
 			- Pre-mRNA processing changes which proteins are made
 				- **Splicing** of introns and exons
 			- Masking proteins bind to mRNA to block translation
-				- Signal for mRNA activation inhibits masking proteins during development
+				- Signal for mRNA activation releases masking proteins during development
 			- mRNA breakdown rates are 
