@@ -41,4 +41,6 @@
 		- This means that when glucose is present and lactose is present, transcription levels are low because CAP not activated leading to RNA polymerase not binding
 	- trp Operon Genes
 		- 5 genes: trpA, trpB, trpC, trpD, trpE
-		- All of these needed for synthesis of trypot
+		- All of these needed for synthesis of tryptophan by trp operon
+			- Trp repressor encoded by trpR elsewhere in genoke
+			-
