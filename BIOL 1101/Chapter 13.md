@@ -161,5 +161,8 @@
 			- Carcinoma
 				- Epithelial origin (breast, prostate, lung, colon)
 			- Sarcoma
-				- Connective tissue (Bone, fat, cartillage)
-			- Le
+				- Connective tissue (Bone, fat, cartilage)
+			- Leukemia
+				- Cells of blood (Bone marrow)
+			- Lymphoma
+				- Immune system (white blood cells)
