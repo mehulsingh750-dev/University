@@ -130,4 +130,7 @@
 			- mRNA breakdown rates are controlled 
 			- **Micro-RNA** (miRNA)
 				- Regulates gene expression through RNA interference
-				- miRNA binds to any complementary mRNA sequence and 
+				- miRNA binds to any complementary mRNA sequence and represses it
+			- **Small interfering RNA (siRNA)
+				- From RNA encoded outside the cells genome
+				- Often used by viruses
