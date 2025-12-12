@@ -193,4 +193,6 @@
 		- mrRNA Genes
 			- Encode for miRNAs
 			- In cancer:
-				- Downregulation of miRNA genes that encode miRNA that prevent translation 
+				- Downregulation of miRNA genes that encode miRNA that prevent translation of tumor suppressor mRNA
+				- Downregulation of miRNA genes that encode miRNA that prevent translation of proto-oncogenes 
+			
