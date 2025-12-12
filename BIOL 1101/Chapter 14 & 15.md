@@ -29,3 +29,7 @@
 	- Southern blot analysis 
 		- Uses electrophoresis, blot transfer and labelled probes to identify RFLP's
 		- PCR and then electrophoresis 
+- Fingerprinting
+	- Each person has unique fingerprint
+		- Each locus has short tandem repeats (STR)
+		- Used in forensics and ancestry 
