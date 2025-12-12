@@ -186,4 +186,4 @@
 				- Prevents gene mutations 
 				- Activation of DNA repair proteins
 			- BRCA1 and BRCA2
-				- 
+				- Both tumour supressor genes
