@@ -47,4 +47,4 @@
 		- HYDRO + BASE NAME OF NONMETAL + IC + ACID
 		- Ex. HCL (aq) is hydrochloric acid
 - Naming Oxyacids
-	- 
+	- Molecules containing hydrogen and an oxyanion are called oxyacids
