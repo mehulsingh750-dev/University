@@ -47,3 +47,5 @@
 		- Replace non-reproducing specialized cells
 - Human Gene Therapy
 	- Alteration of individuals genes, treats disorders with one defective gene
+- Animal Genetic Engineering
+	- 
