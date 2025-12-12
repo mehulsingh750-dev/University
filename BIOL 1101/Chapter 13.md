@@ -153,4 +153,6 @@
 	- Cancer (Loss of Regulatory Controls)
 		- Tumor
 			- A mass of cells due to *dedifferentiation*
-			- **
+			- **Benign** tumors single mass
+			- **Malignant** tumors (cancer) invade other tissues by metastasis
+			- Tumor repressor geen function LOST
