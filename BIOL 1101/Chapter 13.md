@@ -69,3 +69,8 @@
 				- Variations in pre-mRNA processing
 				- Removal of masking proteins
 				- Variations in rate of mRNA breakdown
+				- RNA interference
+			- Translational Regulation
+				- Variations in rate of initiation of protein synthesis
+			- Posttranslational regulation
+				- Variatiojns in rate of protein processing
