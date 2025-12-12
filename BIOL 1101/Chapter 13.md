@@ -27,4 +27,5 @@
 			- RNA polymerase cannot bind to promoter
 			- Transcription does not occur
 	- When lactose is present?
-		- 
+		- *Allolactose* -> made from lactose
+			- Inducer of lac operon by binding to lac repressor
