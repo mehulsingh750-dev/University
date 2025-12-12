@@ -148,3 +148,5 @@
 			- Two epigenetic mechanisms
 				- Feedback Loops
 					- Self sustaining regulatory loop
+				- Chromatic packaging 
+					- Regulation of packaging of DNA and its associated proteins 
