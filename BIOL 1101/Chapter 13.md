@@ -137,4 +137,4 @@
 		- Translational Regulation
 			- Controls rate at which mRNASs are used in protein synthesis
 			- Increasing length of poly (A) tail *increases* translation of mRNA
-			- 
+		- Postranslational rEG
