@@ -145,3 +145,6 @@
 		- Epigenetic Regulation
 			- Persists through cell or organismal generation
 			- It does not result from changes in DNA nucleotide sequence
+			- Two epigenetic mechanisms
+				- Feedback Loops
+					- Self sustaining regulatory loop
