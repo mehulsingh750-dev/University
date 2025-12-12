@@ -170,4 +170,8 @@
 			- Tumor Grade (1-3)
 				- Resemblance of tumor
 			- Tumor Stage (1-4)
-				- 
+				- Degree of tumor invasion
+			- Prognosis
+				- Probability of survival 5 years after diagnosis 
+		- Proto-oncogenes
+			- Proto-oncogn
