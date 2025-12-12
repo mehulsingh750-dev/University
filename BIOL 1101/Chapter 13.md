@@ -96,4 +96,6 @@
 				- Zinc Finger
 				- Leucine Zipper
 			- **Coactivators** bridge enhancer and promoter 
-				- Increase tr
+				- Increase transcription to maximal rate
+			- Repressors oppose effect of activators 
+				- Decrease transcription 
