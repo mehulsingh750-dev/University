@@ -2,4 +2,6 @@
 - Empirical Formula
 	- Gives the *relative* number of atoms of each element in a compound
 - Molecular Formula
-	- Gives the actual number of atoms in each 
+	- Gives the actual number of atoms in each element in a molecule of a compound
+- Structural Formula
+	- Uses lines to represent covalent bonds and shows how atoms in a molecule are connected
