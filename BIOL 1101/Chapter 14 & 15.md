@@ -33,3 +33,4 @@
 	- Each person has unique fingerprint
 		- Each locus has short tandem repeats (STR)
 		- Used in forensics and ancestry 
+- D
