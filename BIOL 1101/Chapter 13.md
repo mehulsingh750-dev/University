@@ -51,6 +51,8 @@
 			- Tryptophan is corepressor (combines with repressor to shut off)
 		- lac and trp operons both exhibit negative gene regulation
 	- Tryptophan is Absent?
+		- Means it needs to 
 		- trp repressor is inactive and cannot bind to the operator
 		- RNA polymerase binds and transcription happens
 		- Ribosomes recognize the ribosome binding sites
+	
