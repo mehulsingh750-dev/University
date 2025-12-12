@@ -32,4 +32,6 @@
 			- RNA polymerase binds to the promoter
 			- **Transcription occurs**
 	- Positive Regulation of lac Operon
-		- lac Operon only operates when lactose but not glucose is present, this is due to glucose being a more effecient energy source than
+		- lac Operon only operates when lactose but not glucose is present, this is due to glucose being a more efficient energy source than lactose
+		- Means the operon is simply not needed
+		- Catabolite Activator Protein
