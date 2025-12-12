@@ -38,3 +38,4 @@
 			- Activator that stimulates gene expression
 			- CAP activated by cAMP
 			- **cAMP only abundant when glucose levels are low**
+		- This means that when glucose is present 
