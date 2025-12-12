@@ -22,4 +22,6 @@
 		- In chemical formula, sum of charges of the postive ions (cations) must be equal to the sum of the charges of the negative ions (anions)
 		- Formula always reflects *smallest* whole number ratio of ions
 	- Naming
+		- For metals that form cations with only 1 charge, same name
+		- For metals that form cations with different charges, add roman numerals (Ex iron (II))
 		- 
