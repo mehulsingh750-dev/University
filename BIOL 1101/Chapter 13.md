@@ -51,8 +51,10 @@
 			- Tryptophan is corepressor (combines with repressor to shut off)
 		- lac and trp operons both exhibit negative gene regulation
 	- Tryptophan is Absent?
-		- Means it needs to 
+		- Means it needs to be made **in the cell**
 		- trp repressor is inactive and cannot bind to the operator
 		- RNA polymerase binds and transcription happens
 		- Ribosomes recognize the ribosome binding sites
+	- Tryptophan is Present?
+		- Enters the cell and acts as a copressor by binding to the inactive trp repressor and activating it
 	
