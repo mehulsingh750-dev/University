@@ -114,4 +114,5 @@
 				- Inherited methylated allele is inactive
 				- Methylation maintained as DNA is replicated
 		- *Chromatin Structure*
-			- 
+			- Eukaryotic DNA +Histones = nucleosomes
+				- Promoters
