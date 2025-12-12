@@ -33,4 +33,8 @@
 	- Each person has unique fingerprint
 		- Each locus has short tandem repeats (STR)
 		- Used in forensics and ancestry 
-- D
+- DNA tech for Genetic Engineering
+	- Transgenic Organism
+		- Modified to contain genes (transgene) from external source
+	- Bacteria
+		- Put transgene in expression vector that has a *promoter* f
