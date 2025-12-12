@@ -15,4 +15,7 @@
 	- Bacterial plasmids that are engineered to contain
 		- Gene of interest
 		- Sorting genes
-	- 
+- DNA Hybridization 
+	- Uses nucleic acid probe to identify gene of interest in set of clones (*Complementation*)
+- DNA Libraries
+	- Genomic li
