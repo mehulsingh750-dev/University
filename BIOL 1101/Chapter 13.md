@@ -62,4 +62,6 @@
 		- **OPERON OFF**
 	- Regulation of Gene Expression in Eukaryotes
 		- 4 levels:
-			- Transcription
+			- Transcriptional Regulation (Most important)
+				- Chromatin remodelling to make genes accessible for transcription
+				- Regulatory events at a genes promoter and regulatory 
