@@ -142,3 +142,4 @@
 				- Chemical modifications alters **function** of protein
 				- Processes inactive precursors to active proteins
 				- Rate of degradation
+- 
