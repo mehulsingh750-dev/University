@@ -24,3 +24,4 @@
 		- DNA sequences made from expressed RNA
 - Polymerase Chain Reaction (PCR)
 	- Amplifies large number of copies of target DNA sequence in the test tube without cloning in bacteria 
+	- Pair of complementary DNA primers needed
