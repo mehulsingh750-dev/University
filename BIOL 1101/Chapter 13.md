@@ -55,6 +55,9 @@
 		- trp repressor is inactive and cannot bind to the operator
 		- RNA polymerase binds and transcription happens
 		- Ribosomes recognize the ribosome binding sites
+		- **OPERON ON**
 	- Tryptophan is Present?
 		- Enters the cell and acts as a corepressor by binding to the inactive trp repressor and activating it
-	
+		- RNA polymerase unable to bind, no transcription
+		- **OPERON OFF**
+	- Regualti
