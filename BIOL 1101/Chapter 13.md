@@ -130,4 +130,4 @@
 			- mRNA breakdown rates are controlled 
 			- **Micro-RNA** (miRNA)
 				- Regulates gene expression through RNA interference
-				- miRNA binds to any complementary mRNA sequence
+				- miRNA binds to any complementary mRNA sequence and 
