@@ -63,4 +63,5 @@
 - DNA sequencing
 	- Dideoxy (Sanger) method of sequencing
 	- Di-DNA have -H bound to 3' C instead of OH-
-	- dna POLYMERA
+	- DNA polymerases place dideoxyribonucleotides in DNA, stops replication
+	- 
