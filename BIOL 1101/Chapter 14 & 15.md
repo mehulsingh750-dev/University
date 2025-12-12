@@ -60,3 +60,4 @@
 		- Studies functions of genes and other parts of genome
 	- Comparative genomics
 		- Studies how genomes have evolved
+- 
