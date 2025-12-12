@@ -20,4 +20,7 @@
 		- lactose metabolism In E Coli requires 3 genes:
 			- lacZ, lacY and lacA
 			- The *lac operon* contains all three genes and regulatory sequences
-			- The lac operon 
+			- The lac operon operator sequence is between the promoter and lacZ
+	- When lactose is absent?
+		- *Lac repressor*
+			- Stops lac operon
