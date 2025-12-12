@@ -28,4 +28,4 @@
 			- Transcription does not occur
 	- When lactose is present?
 		- *Allolactose* -> made from lactose
-			- Inducer of lac operon by binding to lac repressor
+			- Inducer of lac operon by binding to lac repressor    
