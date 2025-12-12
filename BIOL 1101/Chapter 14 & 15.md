@@ -11,4 +11,7 @@
 	 - Insert recombinants into bacterial cells and replicate
 - Restriction Enzymes
 	- Cut DNA as specific sequences in restriction sites
-	- 
+- Plasmid Cloning Vectors
+	- Bacterial plasmids that are engineered to contain
+		- Gene of interest
+		- S
