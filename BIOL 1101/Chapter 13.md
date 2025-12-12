@@ -110,4 +110,6 @@
 				- Adds methyl groups to cytosine
 				- *Gene Silencing* occurs when DNA methylation is located in promoters
 			- Genomic Imprinting
-				- 
+				- Permanent silencing of a maternal/paternal allele
+				- Inherited methylated allele is inactive
+				- Methylation maintained as DNA is replicated
