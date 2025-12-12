@@ -51,3 +51,8 @@
 	- "Pharm" animals produce proteins for humans
 	- Clones mammals produced by 
 		- Implantation of diploid cell fused with denucleated egg cell
+- Genomics
+	- Sequencing
+		- Determines nucleotide sequence of a genome
+	- Annotation
+		- Analyzes specific regions of nucleot
