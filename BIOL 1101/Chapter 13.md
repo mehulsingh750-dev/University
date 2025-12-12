@@ -39,4 +39,5 @@
 			- CAP activated by cAMP
 			- **cAMP only abundant when glucose levels are low**
 		- This means that when glucose is present and lactose is present, transcription levels are low because CAP not activated leading to RNA polymerase not binding
-	- 
+	- trp Operon Genes
+		- 
