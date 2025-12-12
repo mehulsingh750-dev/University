@@ -62,4 +62,4 @@
 		- **OPERON OFF**
 	- Regulation of Gene Expression in Eukaryotes
 		- 4 levels:
-			- 
+			- Transcription
