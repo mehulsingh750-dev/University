@@ -123,4 +123,5 @@
 				- *In summary*, acetylation of histone tails activates chromatin
 		- Posttranscriptional Regulation
 			- Controls availability of mRNA to ribosomes
-			- 
+			- Pre-mRNA processing changes which proteins are made
+				- **Splicing** of introns and exons
