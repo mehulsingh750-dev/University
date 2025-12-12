@@ -117,4 +117,5 @@
 			- Eukaryotic DNA +Histones = nucleosomes
 				- Promoters located in nucleosome
 			- Chromatin Remodelling
-				- Activators recruit *remodelling complexes* taht displace 
+				- Activators recruit *remodelling complexes* that displace nucleosomes
+				- Activators recruit histone acetyltransferase enzyme that acetylates and loosens histone association with DNA 
