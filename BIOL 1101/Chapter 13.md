@@ -177,4 +177,6 @@
 			- Proto-oncogenes encode proteins that stimulate cell division
 			- Oncogenes cause cells to be cancerous
 		- Oncogene formation
-			- Mutations in promoter 
+			- Mutations in promoter or coding segment
+			- Segment of chromosome translocated to area near promoter or enhancer
+			- Viral infection of gene that regulates cell cycle 
