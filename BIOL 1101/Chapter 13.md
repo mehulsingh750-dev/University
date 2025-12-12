@@ -56,5 +56,5 @@
 		- RNA polymerase binds and transcription happens
 		- Ribosomes recognize the ribosome binding sites
 	- Tryptophan is Present?
-		- Enters the cell and acts as a copressor by binding to the inactive trp repressor and activating it
+		- Enters the cell and acts as a corepressor by binding to the inactive trp repressor and activating it
 	
