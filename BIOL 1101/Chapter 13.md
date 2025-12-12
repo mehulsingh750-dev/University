@@ -108,4 +108,6 @@
 		- *Methylation of DNA*
 			- DNA methylation
 				- Adds methyl groups to cytosine
+				- *Gene Silencing* occurs when DNA methylation is located in promoters
+			- Genomic Imprinting
 				- 
