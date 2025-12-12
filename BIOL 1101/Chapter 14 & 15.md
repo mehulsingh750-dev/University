@@ -28,4 +28,4 @@
 - How to detect RFLP's?
 	- Southern blot analysis 
 		- Uses electrophoresis, blot transfer and labelled probes to identify RFLP's
-		- 
+		- PCR and then electrophoresis 
