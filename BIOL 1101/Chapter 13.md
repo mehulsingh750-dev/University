@@ -16,4 +16,7 @@
 			- Prevent operon from being expressed
 		- **Activator proteins**
 			- Turn on expression of genes from operon
-	- *lac* operon for Lact
+	- *lac* operon for Lactose Metabolism
+		- lactose metabolism In E Coli requires 3 genes:
+			- lacZ, lacY and lacA
+			- 
