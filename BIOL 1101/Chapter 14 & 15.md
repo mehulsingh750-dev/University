@@ -44,4 +44,6 @@
 	- Embryonic Stem cell
 		- Isolated from early embryos at the blastocyst stage
 	- Adult stem cells
-		- 
+		- Replace non-reproducing specialized cells
+- Human Gene Therapy
+	- Alteration of individuals genes, treats disorders with one defective gene
