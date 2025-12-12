@@ -186,4 +186,7 @@
 				- Prevents gene mutations 
 				- Activation of DNA repair proteins
 			- BRCA1 and BRCA2
-				- Both tumour supressor genes
+				- Both tumour suppressor genes
+				- Both involved in DNA damage repair
+				- Mutated genes are risk factors for breast cancer
+				- 60% breast cancers have nr
