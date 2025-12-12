@@ -115,4 +115,6 @@
 				- Methylation maintained as DNA is replicated
 		- *Chromatin Structure*
 			- Eukaryotic DNA +Histones = nucleosomes
-				- Promoters
+				- Promoters located in nucleosome
+			- Chromatin Remodelling
+				- Activators recruit *remodelling complexes* taht displace 
