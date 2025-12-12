@@ -81,4 +81,5 @@
 			- Promoter 
 				- Includes TATA box that binds transcription factors
 			- Promoter proximal region
-				- 
+				- Contains promoter proximal elements
+				- Stimulates or Inhibits 
