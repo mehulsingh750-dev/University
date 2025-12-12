@@ -134,3 +134,6 @@
 			- **Small interfering RNA (siRNA)
 				- From RNA encoded outside the cells genome
 				- Often used by viruses
+		- Translational Regulation
+			- Controls rate at which mRNASs are used in protein synthesis
+			- Increasing length of poly (A) 
