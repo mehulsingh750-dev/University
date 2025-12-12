@@ -23,4 +23,5 @@
 			- The lac operon operator sequence is between the promoter and lacZ
 	- When lactose is absent?
 		- *Lac repressor*
-			- Stops lac operon expression 
+			- Active lac repressor expressed from the lacI gene binds to operator
+			- RNA polymerase c
