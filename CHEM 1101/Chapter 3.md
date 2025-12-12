@@ -36,4 +36,5 @@
 	- Formulas
 		- Cannot exactly be determined from its constituent elements because same combo of elements may form a different compound (Ex H2O and H2O2)
 	- Naming
+		- PREFIX + NAME OF 1ST ELEMENT + PREFIX + BASE NAME OF 2ND ELEMENT + IDE
 		- 
