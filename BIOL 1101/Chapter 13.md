@@ -53,3 +53,4 @@
 	- Tryptophan is Absent?
 		- trp repressor is inactive and cannot bind to the operator
 		- RNA polymerase binds and transcription happens
+		- Ribosomes recognize the ribosome binding sites
