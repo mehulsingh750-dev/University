@@ -8,4 +8,5 @@
 - Atomic Elements
 	- Exist in nature with single atoms as their basic units
 - Molecular Elements
-	- Exist as mi
+	- Exist as molecules in nature with 2 or more atoms of the element bonded together
+	- Hydrogen, nitrogen, oxygen, fluorine, phosphorus, sulfur, chlorine, selen
