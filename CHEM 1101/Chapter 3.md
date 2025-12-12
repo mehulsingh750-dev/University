@@ -34,4 +34,6 @@
 		- NOT containing any water molecules
 - Molecular Compounds
 	- Formulas
-		- Cannot exactly be determined from its constituent elements because
+		- Cannot exactly be determined from its constituent elements because same combo of elements may form a different compound (Ex H2O and H2O2)
+	- Naming
+		- 
