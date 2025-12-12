@@ -91,4 +91,8 @@
 				- Orientate enzyme to start transcription at the correct place 
 			- **Activators** bind to promoter proximal elements and increase transcription rate
 			- Activators are proteins with 2 distinct *domains*
-			- 3D arrangement of proteins produces highly specialized regions called 
+			- 3D arrangement of proteins produces highly specialized regions called *motifs*
+				- Helix-turn-helix
+				- Zinc Finger
+				- Leucine Zipper
+				- 
