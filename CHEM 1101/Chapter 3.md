@@ -25,4 +25,5 @@
 		- For metals that form cations with only 1 charge, same name
 		- For metals that form cations with different charges, add roman numerals (Ex iron (II))
 - Polyatomic Ion
-	- Group of atoms help togther by cobalent bonds 
+	- Group of atoms help together by covalent bonds with a net pos/neg charge
+	- Most polyatomic ions are 
