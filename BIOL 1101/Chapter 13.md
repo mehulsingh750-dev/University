@@ -103,4 +103,5 @@
 				- **Complex** gene regulation with **limited/small** numbers of activators.
 				- Allows genes with related functions to respond to 1 signal
 			- Hormones
-				- Signal molecules activate all cells with specific 
+				- Signal molecules activate all cells with specific hormone receptors
+				- All genes regulated by a specific hormone contain a steroid hormone response element
