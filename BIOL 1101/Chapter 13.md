@@ -166,3 +166,8 @@
 				- Cells of blood (Bone marrow)
 			- Lymphoma
 				- Immune system (white blood cells)
+		- Progression
+			- Tumor Grade (1-3)
+				- Resemblance of tumor
+			- Tumor Stage (1-4)
+				- 
