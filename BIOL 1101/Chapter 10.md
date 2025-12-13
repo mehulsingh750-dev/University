@@ -140,4 +140,8 @@
 		- **Imprinted allele** is silenced due to methylation of region adjacent to gene responsible for trait
 		- Loss of imprinting could lead to disorders
 - Kahoot
-- 
+- 1.D
+- 2.C
+- 3.B
+- 4.C
+- 5. 
