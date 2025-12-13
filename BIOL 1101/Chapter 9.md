@@ -1,7 +1,7 @@
 -   **Blending Theory of Inheritance
 	- Hereditary traits blend evenly in offspring through mixing of parents blood
 	- This does *not* explain why:
-		- Extremes do noT gradually disappear
+		- Extremes do not gradually disappear
 		- Offspring sometimes have traits that differ from both parent
 	- This was proven FALSE
 - Gregor Mendel
