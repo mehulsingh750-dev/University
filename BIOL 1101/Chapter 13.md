@@ -196,13 +196,13 @@ bright- Gene Expression Control
 				- Downregulation of miRNA genes that encode miRNA that prevent translation of tumor suppressor mRNA
 				- Downregulation of miRNA genes that encode miRNA that prevent translation of proto-oncogenes 
 Kahoot
-- 1.B
-- 2.C
-- 3.A
+- 1.C
+- 2.B
+- 3.B
 - 4.C
 - 5.A
 - 6.A
 - 7.A
 - 8.C
 - 9.B
-- 10.
+- 10.A
