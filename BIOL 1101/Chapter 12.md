@@ -204,3 +204,7 @@
 		- Sickle cell disease caused by single point mutation
 	- *Spontaneous* mutation are errors during DNA replication or repair 
 	- *Induced* mutations are physical, chemical and biological agents that generate mutations
+Kahoot
+- 1.C
+- 2.C
+- 3.
