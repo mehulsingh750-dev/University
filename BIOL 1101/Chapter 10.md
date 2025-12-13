@@ -108,7 +108,7 @@
 			- Males/females carry a recessive allele on an *autosome*
 				- Ex. Cystic fibrosis, albinism, sickle cell
 			- Heterozygote
-				- Carrier, no symtoms
+				- Carrier, no symptoms
 			- Homozygote recessive
 				- Shows symptoms
 		- Autosomal Dominant Inheritance
@@ -130,12 +130,14 @@
 			- Tests cells from embryo, amniotic fluid and placenta
 		- Postnatal Diagnosis
 			- Biochemical and molecular tests
-- Nontraditional Patterns of inheritance
+- Non-traditional Patterns of inheritance
 	- *Cytoplasmic inheritance*
 		- Follows pattern of inheritance of mitochondria or chloroplasts
 		- Genes carried on DNA in mitochondria or chloroplasts
 		- Follows *maternal* line, mendelian inheritance is not followed
 	- *Genomic imprinting*
 		- Allele inherited from one of the parents is expressed while the other allele is silent
-		- **Imprinted allele** is silenced due to methylation of region ajacent to gene responsible for trait
+		- **Imprinted allele** is silenced due to methylation of region adjacent to gene responsible for trait
 		- Loss of imprinting could lead to disorders
+- Kahoot
+- 
