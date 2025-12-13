@@ -83,3 +83,5 @@
 			- **Removes** distorted regions caused by mis paired bases
 			- **Fills** in the gap left after removing mis paired base from the newly synthesized strand
 			- **Corrects** the error, using the original template chain as a guide
+Kahoot
+- 1.
