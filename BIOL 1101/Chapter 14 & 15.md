@@ -66,4 +66,9 @@
 	- DNA polymerases place dideoxyribonucleotides in DNA, stops replication
 Kahoot
 - 1.C
-- 2.
+- 2.C
+- 3.D
+- 4.C
+- 5.B
+- 6.D
+- 7.
