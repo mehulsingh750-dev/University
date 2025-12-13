@@ -7,7 +7,7 @@
 - Gregor Mendel
 	- Founder of Genetics
 	- He was the first to use the scientific method to study *genes*
-	- He had **FOUR** major hypotheses"
+	- He had **FOUR** major hypotheses
 		- Principle of Paired Factors 
 			- Individuals inherit two gene copies for each trait, one from each parent
 			- Diploids have two copies of each gene
