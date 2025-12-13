@@ -84,10 +84,11 @@
 			- **Fills** in the gap left after removing mis paired base from the newly synthesized strand
 			- **Corrects** the error, using the original template chain as a guide
 Kahoot
-- 1.C
+- 1.B
 - 2.A
 - 3.D
 - 4.B
-- 5.C
+- 5.A
 - 6. A
-- 7.
+- 7.D
+- 8.B
