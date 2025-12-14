@@ -63,4 +63,5 @@
 		- ONLY contain carbon and hydrogen
 		- Common fuels such as oil, gasoline, propane and natural gas
 		- *Alkanes* are hydrocarbons containing only single bonds
-		- *Alkenes* are hydrocarbons containing 
+		- *Alkenes* are hydrocarbons containing double bonds between carbon atoms
+		- *Alkynes* are hydrocarbons containing triple bonds between carbon atoms
