@@ -56,4 +56,8 @@
 		- BASE NAME OF OXYANION + -OUS + ACID
 	- HNO3 (aq) would be nitric acid 
 3.5
-- Organic Cao
+- Organic Compounds
+	- Composed of carbon and hydrogen
+		- Includes nitrogen, oxygen and sulfur as well
+	- Hydrocarbons
+		- ONLY contain 
