@@ -65,5 +65,8 @@
 		- *Alkanes* are hydrocarbons containing only single bonds
 		- *Alkenes* are hydrocarbons containing double bonds between carbon atoms
 		- *Alkynes* are hydrocarbons containing triple bonds between carbon atoms
-	- Alcahols
-		- Organic 
+	- Alcohols
+		- Organic compounds that contain and OH functional group
+		- CH3OH 
+			- CH3 is the Hydrocarbon R group
+			- OH is the functional group
