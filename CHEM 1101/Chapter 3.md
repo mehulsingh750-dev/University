@@ -49,7 +49,7 @@
 - Naming Oxyacids
 	- Molecules containing hydrogen and an oxyanion 
 	- Ex. HNO3 (aq) contains hydrogen and NO3 which is an oxyanion
-	- Number of H+ ions depends on the charge of oxyanion, charge always neutral
+	- Number of H+ ions depends on the charge of oxyanion, charge always neutral (so balance)
 	- Oxyanions ending with ate-
 		- BASE NAME OF OXYANION + -IC + ACID
 	- Oxyanions ending with -ite
