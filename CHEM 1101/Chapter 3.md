@@ -69,4 +69,6 @@
 		- Organic compounds that contain and OH functional group
 		- CH3OH 
 			- CH3 is the Hydrocarbon R group
-			- OH is the functional group
+			- OH is the functional groups
+	- Naming Hydrocarbons
+		- 
