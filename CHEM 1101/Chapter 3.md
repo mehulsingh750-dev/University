@@ -71,4 +71,9 @@
 			- CH3 is the Hydrocarbon R group
 			- OH is the functional groups
 	- Naming Hydrocarbons
-		- 
+		- First, look for longest carbon chain
+			- n=1, meth-
+			- n=2, eth-
+			- n=3, prop-
+			- n=4, but-
+			- 
