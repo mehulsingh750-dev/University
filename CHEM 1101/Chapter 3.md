@@ -60,4 +60,5 @@
 	- Composed of carbon and hydrogen
 		- Includes nitrogen, oxygen and sulfur as well
 	- Hydrocarbons
-		- ONLY contain 
+		- ONLY contain carbon and hydrogen
+		- Common fuels such as oil, gasoline, propane and natural gas
