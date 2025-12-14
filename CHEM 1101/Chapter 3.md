@@ -76,4 +76,9 @@
 			- n=2, eth-
 			- n=3, prop-
 			- n=4, but-
-			- 
+			- n=5, pent-
+			- n=6, hex-
+			- n=7, hept-
+			- n=8, oct-
+			- n=9, non-
+			- n=10, dec-
