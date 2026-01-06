@@ -3,7 +3,8 @@
 		- Natural selection
 		- Mutation 
 		- Drift
-		- non 
+		- Non random mating
 	- Occurs at the level of the individual, measurement is at the level of the population
 	- Natural selection is not evolution
+	- Darwin based his theories on:
 		- 
