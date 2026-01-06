@@ -25,4 +25,6 @@
 		- Organisms with favourable traits pass them down
 		- Evolution can happen within a few generations
 	- Misconceptions
-		- Evolution only deals with what happens after the origin of 
+		- Evolution only deals with what happens after the origin of life, NOT the origin
+		- Evolutions is not about 'climbing up the ladder' its a branch that optimizes species for an environment 
+		- 
