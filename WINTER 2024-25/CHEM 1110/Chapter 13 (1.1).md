@@ -2,4 +2,6 @@
 	- How quickly or slowly it occurs
 	- Rate of reaction is the same regardless if a product appears OR not
 	- To measure:
-		- 
+		- Concentration (molarity) (mol L^-1)
+		- Partial pressure
+		- Both used as
