@@ -1,2 +1,4 @@
 - Evolution
+	- Changes in alleles over  time (generations)
+	- Occurs at the level of the individual, measurement is at the level of the population
 	- 
