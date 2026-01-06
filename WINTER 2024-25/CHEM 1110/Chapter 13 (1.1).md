@@ -1,0 +1,3 @@
+- Rate of Reaction
+	- How quickly or slowly it occurs
+	- Rate of reaction is the same
