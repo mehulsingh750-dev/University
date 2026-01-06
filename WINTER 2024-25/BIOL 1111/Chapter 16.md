@@ -36,5 +36,6 @@
 		- Natural selection does not give the organism specifically what they need, it selects a trait that is variable if its in the genome 
 	- HIEC
 	- Misuse of evolution
-		- Non scientists used peoples appearances and 'head size'
+		- Non scientists used peoples appearances and 'head size' to determine traits
+	- 
 	
