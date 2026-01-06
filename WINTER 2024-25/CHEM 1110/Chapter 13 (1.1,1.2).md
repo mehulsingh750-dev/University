@@ -15,3 +15,5 @@
 	- We need a **diagnostic signature** for one or more of the reactants or products which we can measure and quality
 		- Often light is used (think of it as a dye to identify solutions)
 	- Rate vs concentration
+		- Zero order:
+			- K()
