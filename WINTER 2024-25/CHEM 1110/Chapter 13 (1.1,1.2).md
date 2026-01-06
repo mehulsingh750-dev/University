@@ -21,6 +21,9 @@
 		- First order:
 			- k(A)^1
 			- Diagonal 
-			- Doubling the cocentration of A doubles the rate
+			- Doubling the concentration of A doubles the rate
 		- Second order:
 			- k(A)^2
+			- Curved diagonal 
+		- K needs to be experimentally determined
+		- Possible to h
