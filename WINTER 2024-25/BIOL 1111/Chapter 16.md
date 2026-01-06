@@ -10,6 +10,8 @@
 		- Overproduction
 			- Overpopulation leading to more phenotypes
 		- Individual variation
-			- Varittaion exists among individuals in a population
+			- Variation exists among individuals in a population
+			- Variation is heritable
 		- He only knew about phenotypes, not genotypes (did not know about mutation)
-	- 
+	- Inference: Differential reproductive success = Natural Selection
+		- Finding a mate and
