@@ -7,4 +7,4 @@
 		- Both used as a function of **time**
 	- RATE= Delta change of ester concentration/ delta change in time
 		- (concentration 2 - concentration 1)/(time 2 - time 1)
-	- 
+	- In prinicple, using any one of the reagents would yield the same rate
