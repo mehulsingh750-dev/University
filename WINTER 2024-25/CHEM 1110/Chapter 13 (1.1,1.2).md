@@ -25,6 +25,7 @@
 		- Second order:
 			- k(A)^2
 			- Curved diagonal 
+			- Doubling the conce
 		- K needs to be experimentally determined
 		- Possible to have half orders too (these three are the most common though)
 		- 
