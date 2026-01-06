@@ -23,4 +23,4 @@
 			- Diagonal 
 			- Doubling the cocentration of A doubles the rate
 		- Second order:
-			- 
+			- k(A)^2
