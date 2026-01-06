@@ -8,7 +8,8 @@
 	- Natural selection is not evolution
 	- Darwin based his theories on:
 		- Overproduction
+			- Overpopulation leading to more phenotypes
 		- Individual variation
-			- 
+			- Varittaion exists among individuals in a population
 		- He only knew about phenotypes, not genotypes (did not know about mutation)
 	- 
