@@ -31,4 +31,6 @@
 			- Natural selection is the *mechanism*
 		- Evolution is NOT chance, mutations arise randomly
 			- Evolution is linked with what the organism needs
-		- Natural selection leads to adaptation, but
+		- Natural selection leads to adaptation, but they dont specifically 'try'
+			- Selection can only adapt to a new circumstance if it happens to be in the genome to code in
+	
