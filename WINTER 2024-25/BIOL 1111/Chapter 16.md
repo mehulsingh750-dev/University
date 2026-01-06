@@ -27,4 +27,6 @@
 	- Misconceptions
 		- Evolution only deals with what happens after the origin of life, NOT the origin
 		- Evolutions is not about 'climbing up the ladder' its a branch that optimizes species for an environment 
+		- Evolution is NOT the same as natural selection
+			- Natural selection is the *mechanism*
 		- 
