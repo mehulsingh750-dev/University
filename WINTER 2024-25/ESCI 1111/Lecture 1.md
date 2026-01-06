@@ -10,5 +10,9 @@
 	- 200 million years
 	- 10,000 years
 - 3. Which of the following statemnts abotu a speciifc sceintifuc thoery is not true?
-	-  Explnanation foir. natueal phenomena
-	- 
+	-  Explanation foir. natueal phenomena
+	- Large body o supporting knolwed
+	- testable
+	- ***Conjecture or guess***
+- 4. The eathts most Rigid layer is called the 
+	- Lithosphere
