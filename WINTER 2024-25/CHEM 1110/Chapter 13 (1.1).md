@@ -9,4 +9,5 @@
 		- (concentration 2 - concentration 1)/(time 2 - time 1)
 	- In principal, using any one of the reagents would yield the same rate.
 		- If its a reactant that is disappearing, add a negative sign.
-	- 
+	- Pay attention to stoichiometry as well
+		- H2 (g) + I
