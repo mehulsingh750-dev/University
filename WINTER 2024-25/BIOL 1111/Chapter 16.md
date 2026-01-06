@@ -18,4 +18,6 @@
 		- Maturing to be able to reproduce
 		- Individuals with traits best sutied for the environment leavae more fertile offspring
 	- Modern synthesis = fusion of genetics with evolutionary biology
-	- 
+	- Essentials of evolution
+		- All organisms vary within a population
+		- Traits must have heritability 
