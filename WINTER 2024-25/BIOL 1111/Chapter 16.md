@@ -20,4 +20,7 @@
 	- Modern synthesis = fusion of genetics with evolutionary biology
 	- Essentials of evolution
 		- All organisms vary within a population
-		- Traits must have heritability 
+		- Traits must have heritability to evolve
+		- Genetically based traits are passed down generations
+		- Organisms with favourable traits pass them down
+		- 
