@@ -5,4 +5,6 @@
 		- Concentration (molarity) (mol L^-1)
 		- Partial pressure (p) (atm)
 		- Both used as a function of **time**
+	- RATE= Delta change of ester concentration/ delta change in time
+		- (concentration 2 - concentration 1)/(time 2 - time 1)
 	- 
