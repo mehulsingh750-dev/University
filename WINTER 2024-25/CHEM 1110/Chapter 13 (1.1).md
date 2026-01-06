@@ -3,6 +3,6 @@
 	- Rate of reaction is the same regardless if a product appears OR not
 	- To measure:
 		- Concentration (molarity) (mol L^-1)
-		- Partial pressure
+		- Partial pressure (p) (atm)
 		- Both used as a function of **time**
 	- 
