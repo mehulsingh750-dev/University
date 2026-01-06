@@ -29,4 +29,4 @@
 		- Evolutions is not about 'climbing up the ladder' its a branch that optimizes species for an environment 
 		- Evolution is NOT the same as natural selection
 			- Natural selection is the *mechanism*
-		- 
+		- Evoluion is NO
