@@ -14,4 +14,6 @@
 			- Variation is heritable
 		- He only knew about phenotypes, not genotypes (did not know about mutation)
 	- Inference: Differential reproductive success = Natural Selection
-		- Finding a mate and
+		- Finding a mate and reproducing 
+		- Maturing to be able to reproduce
+	- 
