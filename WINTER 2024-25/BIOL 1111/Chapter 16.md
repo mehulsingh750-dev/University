@@ -1,4 +1,9 @@
 - Evolution
-	- Changes in alleles over  time (generations)
+	- Changes in alleles over time (generations)
+		- Natural selection
+		- Mutation 
+		- Drift
+		- non 
 	- Occurs at the level of the individual, measurement is at the level of the population
-	- 
+	- Natural selection is not evolution
+		- 
