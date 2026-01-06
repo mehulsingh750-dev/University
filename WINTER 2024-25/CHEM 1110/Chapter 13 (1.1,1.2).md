@@ -26,4 +26,5 @@
 			- k(A)^2
 			- Curved diagonal 
 		- K needs to be experimentally determined
-		- Possible to h
+		- Possible to have half orders too (these three are the most common though)
+		- 
