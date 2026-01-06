@@ -37,5 +37,8 @@
 	- HIEC
 	- Misuse of evolution
 		- Non scientists used peoples appearances and 'head size' to determine traits
-	- Selective breeding and Artificial 
+	- Selective breeding and Artificial Selection
+		- Breeding the top 10% of an organism to produce the best off spring for exmaple
+		- Human-mediated evolution
+	- 
 	
