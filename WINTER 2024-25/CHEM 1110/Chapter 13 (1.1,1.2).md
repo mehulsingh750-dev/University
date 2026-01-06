@@ -22,10 +22,11 @@
 			- k(A)^1
 			- Diagonal 
 			- Doubling the concentration of A doubles the rate
+			- Units are s^-1 (seconds)
 		- Second order:
 			- k(A)^2
 			- Curved diagonal 
 			- Doubling the concentration of A quadruples the rate
 		- K needs to be experimentally determined
 		- Possible to have half orders too (these three are the most common though)
-		- 
+		
