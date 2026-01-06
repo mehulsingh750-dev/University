@@ -4,7 +4,11 @@
 	- Lithosphere
 	- Magnetosphere
 - 2. What is the approximate age of the Earth?
-	- 2.5
-	- 4.6
-	- 13.7
-	- 20
+	- 2.5 billion years
+	- ***4.6 billion year***
+	- 13.7 million years
+	- 200 million years
+	- 10,000 years
+- 3. Which of the following statemnts abotu a speciifc sceintifuc thoery is not true?
+	-  Explnanation foir. natueal phenomena
+	- 
