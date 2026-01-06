@@ -4,4 +4,5 @@
 	- To measure:
 		- Concentration (molarity) (mol L^-1)
 		- Partial pressure
-		- Both used as
+		- Both used as a function of **time**
+	- 
