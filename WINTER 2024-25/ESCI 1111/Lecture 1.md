@@ -10,12 +10,13 @@
 	- 200 million years
 	- 10,000 years
 - 3. Which of the following statemnts abotu a speciifc sceintifuc thoery is not true?
-	-  Explanation foir. natueal phenomena
-	- Large body o supporting knolwedge
+	-  Explanation for natural phenomena
+	- Large body o supporting knowledge
 	- testable
 	- ***Conjecture or guess***
-- 4. The eathts most Rigid layer is called the 
+- 4. The earths most Rigid layer is called the 
 	- Lithosphere
-- 5. The moon formed due to a protoplanet colliding wit earht aboud 4.5 million years ago
+- 5. The moon formed due to a protoplanet colliding wit earth about 4.5 million years ago
 	- False (4.5 billion years)
-- 6. 
+- 6. Lithospheric plates colliude along divergent plate boundaries.
+	- False (convergent plate)
