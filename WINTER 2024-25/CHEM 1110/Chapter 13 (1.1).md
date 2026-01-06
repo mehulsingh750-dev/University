@@ -13,4 +13,5 @@
 		- H2 (g) + I2 (g) --> 2HI (g)
 		- If trying to determine rate of H, multiply the whole equation by 1/2
 	- We need a **diagnostic signature** for one or more of the reactants or products which we can measure and quality
-		- Often light is used (think of it as a dye to )
+		- Often light is used (think of it as a dye to identify solutions)
+	- 
