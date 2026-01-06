@@ -23,4 +23,6 @@
 		- Traits must have heritability to evolve
 		- Genetically based traits are passed down generations
 		- Organisms with favourable traits pass them down
-		- Evoliution can happen within a few generations
+		- Evolution can happen within a few generations
+	- Misconceptions
+		- Evolution only deals with what happens after the origin of 
