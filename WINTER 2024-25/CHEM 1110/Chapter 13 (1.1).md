@@ -8,4 +8,5 @@
 	- RATE= Delta change of ester concentration/ delta change in time
 		- (concentration 2 - concentration 1)/(time 2 - time 1)
 	- In principal, using any one of the reagents would yield the same rate.
-		- If its 
+		- If its a reactant that is disappearing, add a negative sign.
+	- 
