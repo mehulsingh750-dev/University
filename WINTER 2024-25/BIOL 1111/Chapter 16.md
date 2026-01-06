@@ -33,5 +33,5 @@
 			- Evolution is linked with what the organism needs
 		- Natural selection leads to adaptation, but they dont specifically 'try'
 			- Selection can only adapt to a new circumstance if it happens to be in the genome to code in (Standing variation)
-		- Natural selection does not give the organism specifically what they need, it selects a trait that is variable if 
+		- Natural selection does not give the organism specifically what they need, it selects a trait that is variable if its in the genome 
 	
