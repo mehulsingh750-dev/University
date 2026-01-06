@@ -17,3 +17,4 @@
 		- Finding a mate and reproducing 
 		- Maturing to be able to reproduce
 		- Individuals with traits best sutied for the environment leavae more fertile offspring
+	- 
