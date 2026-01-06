@@ -16,4 +16,8 @@
 		- Often light is used (think of it as a dye to identify solutions)
 	- Rate vs concentration
 		- Zero order:
-			- K()
+			- k(A)^0 
+			- Horizontally Linear
+		- First order:
+			- k(A)^1
+			- Diagnol (y)
