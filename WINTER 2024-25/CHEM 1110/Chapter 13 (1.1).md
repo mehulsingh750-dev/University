@@ -1,3 +1,5 @@
 - Rate of Reaction
 	- How quickly or slowly it occurs
-	- Rate of reaction is the same
+	- Rate of reaction is the same regardless if a product appears OR not
+	- To measure:
+		- 
