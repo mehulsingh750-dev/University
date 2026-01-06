@@ -10,4 +10,5 @@
 	- In principal, using any one of the reagents would yield the same rate.
 		- If its a reactant that is disappearing, add a negative sign.
 	- Pay attention to stoichiometry as well
-		- H2 (g) + I
+		- H2 (g) + I2 (g) --> 2HI (g)
+		- If trying to determine rate of H, multiply the whole equation by 1/2
