@@ -20,4 +20,7 @@
 			- Horizontally Linear
 		- First order:
 			- k(A)^1
-			- Diagnol (y)
+			- Diagonal 
+			- Doubling the cocentration of A doubles the rate
+		- Second order:
+			- 
