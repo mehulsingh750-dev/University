@@ -7,4 +7,8 @@
 	- Occurs at the level of the individual, measurement is at the level of the population
 	- Natural selection is not evolution
 	- Darwin based his theories on:
-		- 
+		- Overproduction
+		- Individual variation
+			- 
+		- He only knew about phenotypes, not genotypes (did not know about mutation)
+	- 
