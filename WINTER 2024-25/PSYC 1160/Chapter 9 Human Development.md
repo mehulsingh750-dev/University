@@ -1,5 +1,6 @@
 - Research Methods:
 	- Longitudinal Design
-		- Same group of people on multiple instances over time\
+		- Same group of people on multiple instances over time
 	- Cross Sectional Design
 		- Snapshot of several groups at 1 point
+- 
