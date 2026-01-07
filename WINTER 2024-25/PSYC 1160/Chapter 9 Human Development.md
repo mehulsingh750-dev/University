@@ -2,4 +2,4 @@
 	- Longitudinal Design
 		- Same group of people on multiple instances over time\
 	- Cross Sectional Design
-		- Snapshot of several groupd
+		- Snapshot of several groups at 1 point
