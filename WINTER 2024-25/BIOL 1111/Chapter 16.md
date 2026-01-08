@@ -96,4 +96,5 @@
 	- Biogeography:
 		- Studies of the world distribution of plants and animals
 		- Some species found in similar habitats in different areas resembled each other.
-		- This i 
+		- This is because they developed the same traits for the same environmental pressure
+	- 
