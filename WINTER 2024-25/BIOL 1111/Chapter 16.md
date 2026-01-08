@@ -91,4 +91,7 @@
 			- Lamarck believed that as wading birds stretched their legs to keep their bodies dry while feeding, successive generations would have progressively longer legs.
 	- Earths Geology and the Fossil Record
 		- Darwin discovered fossil of marine organism confirming for him that the geology of the earth wasn't static
-		- 
+		- Extinct: Completely gone
+		- Extant: Still living
+	- Biogeography:
+		- Studies of the world distribution of plants and animals
