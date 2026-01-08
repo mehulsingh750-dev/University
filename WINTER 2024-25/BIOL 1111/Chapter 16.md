@@ -68,4 +68,6 @@
 			- The trait that increases fitness might change
 	- Mutations lead to Variation
 		- Mutations are random, heritable changes in a DNA sequence and it leads to variations in organisms
-	- 
+	- Moth Populations (NS)
+		- White moths uncommon, black moths common
+		- 
