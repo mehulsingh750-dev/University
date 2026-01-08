@@ -76,4 +76,4 @@
 		- Both had the same fitness despite having a different phenotype
 		- Supported each other
 	- Generation Time
-		- Avergae different in age between a parent an
+		- Average different in age between a parent and its offspring
