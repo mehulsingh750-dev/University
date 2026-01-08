@@ -14,5 +14,8 @@
 	- Pillow
 - 4. What kind of volcanic structure is shown in the photograph below? (Flat)
 	- Pahoehoe
-- 5. Basaltic lavas have higher eruption temperatures than komatiitic lavas
+- 5. Basaltic lavas have higher eruption temperatures than komatiitic lavas.
 	- False
+- 6. In a normal volcanic sequence, such as those on Hawaii, younger flows occur on the bottom and older lavas occur on the top.
+	- False
+- 7. What kind of volcanic strcuture is showiun in the photo
