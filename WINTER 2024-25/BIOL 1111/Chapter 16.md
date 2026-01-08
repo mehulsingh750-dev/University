@@ -62,4 +62,8 @@
 		- The inherited aspects of an individual that make it better suited to a particular environment than other individuals 
 	- Fitness
 		- An individuals reproductive success (a composite measure of survival x reproduction)
-		- Three aspects
+		- Three aspects:
+			- Fitness is relative
+			- A trait is only adaptive if it increases fitness
+			- The trait that increases fitness might change
+	- 
