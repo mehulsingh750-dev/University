@@ -79,3 +79,4 @@
 		- Average different in age between a parent and its offspring
 	- Experimental Evolution
 		- Using short generation times to compare ancestral and evolved populations
+	- Adapation of E. Coli
