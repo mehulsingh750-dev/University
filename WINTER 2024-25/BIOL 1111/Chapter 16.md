@@ -101,4 +101,4 @@
 		- Le Comte de Buffon proposed vestigial structures had a function in ancestors
 	- Homologous Structures
 		- When structures look similar, but not due to similar ancestry it is called non homologous traits
-		- 
+		- Convergent evolution - converge to the same solution, not common ancestry
