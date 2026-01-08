@@ -81,4 +81,8 @@
 		- Using short generation times to compare ancestral and evolved populations
 	- The Scale of Nature
 		- Aristotles ladder like classification of nature
+	- Natural Theology
+		- Organisms had been created by a god
+		- Species can never change or become extinct
+		- New species could never arise
 	- 
