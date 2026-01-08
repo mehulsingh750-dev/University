@@ -20,11 +20,12 @@
 	- False
 - 7. What kind of volcanic structure is shown in the photograph below? (Texture)
 	- Spinifex
-- 8. Mauna Kea is an example of a stratovolcano (composite volcano)?
+- 8. Mauna Kea is an example of a stratovolcano (composite volcano).
 	- True
-- 9. Mt. Fuji  is an example of a stratovolcano
-	- true
-- 10. Mt Shasta is an example of a stratovolcano
-	- true
+- 9. Mt. Fuji  is an example of a stratovolcano.
+	- True
+- 10. Mt Shasta is an example of a stratovolcano.
+	- True
 - 11. Which of the following groups of rocks has the correct order of eruption temperatures from lowest to highest?
-	- 
+	- Rhyolite< andesite< balsite< komatiite
+- 12.Spinifex texture is typiclal
