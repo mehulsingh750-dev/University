@@ -90,4 +90,5 @@
 			- Acquired traits are inherited
 			- Lamarck believed that as wading birds stretched their legs to keep their bodies dry while feeding, successive generations would have progressively longer legs.
 	- Earths Geology and the Fossil Record
-		- Darwin dis
+		- Darwin discovered fossil of marine organism confirming for him that the geology of the earth wasn't static
+		- 
