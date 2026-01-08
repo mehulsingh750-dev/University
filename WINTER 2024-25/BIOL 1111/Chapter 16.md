@@ -44,4 +44,4 @@
 		- Environmental factors can drive selection:
 			- Limited food, habitat, predation, competition, disease
 		- Organisms with heritable traits that provide an advantage, will have a better chance at reproducing
-		- 
+			- They have a *naturally selected* advantage in their habitat
