@@ -1,2 +1,5 @@
 - Two prominent Volcanoes
-	- 
+	- Mauna Kea (Mountain of Sky Father)
+		- 80 km diameter
+	- Mauna Loa ()
+	-  
