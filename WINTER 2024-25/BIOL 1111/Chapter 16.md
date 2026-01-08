@@ -57,4 +57,7 @@
 		- Observation of island populations was popular as it was completely isolated 
 		- Galapagos Islands
 	- The Galapagos Mockingbirds
-		- 
+		- Four mockingbird species (genus Nesomimus) are all descended from a common ancestor but have adapted to different environments.
+	- Adaptations
+		- The inherited aspects of an individual that make it better suited to a particular environment than other individuals 
+	- 
