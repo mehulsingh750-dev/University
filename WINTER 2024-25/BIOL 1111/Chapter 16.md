@@ -79,5 +79,5 @@
 		- Average different in age between a parent and its offspring
 	- Experimental Evolution
 		- Using short generation times to compare ancestral and evolved populations
-	- Adaptation of E. Coli to a change in Temperature
+	- The Scale of Nature
 		- 
