@@ -4,6 +4,9 @@
 	- Mauna Loa (Long Mountain)
 - 1.Which of the following is not a chracterisitic of a sheild volcanoe?
 	- Low Slopes
-	- Balsatic Magmas
+	- ***Balsaltic Magmas***
 	- Large explosive pyroclastic eruptions
-	- Located on Hawii
+	- Located on Hawaii
+	- All of above
+- 2. Low viscosity volcanoes tend to have ___ SiO2 content and ____ flows
+	- Low;Fast
