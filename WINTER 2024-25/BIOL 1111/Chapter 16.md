@@ -106,3 +106,6 @@
 		- Alfred Wallace came to the same conclusion as Darwin about evolution
 		- Malthus stated that gains in agricultural technology can’t keep up to allow adequate food supply.
 		- Growth depends on food availability 
+	- Modern Synthesis
+		- integrates data from biogeography, comparative morphology, comparative embryology, genetics, palaeontology, and taxonomy in an evolutionary framework.
+	- 
