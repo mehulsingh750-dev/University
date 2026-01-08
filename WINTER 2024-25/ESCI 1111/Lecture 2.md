@@ -30,5 +30,7 @@
 	- Rhyolite< andesite< balsite< komatiite
 - 12. Spinifex texture is typically seen in ___
 	- Komatiite
-- 13. Rhyolitic lava has lower viscosity than balsatic laba
-	- 
+- 13. Rhyolitic lava has lower viscosity than basaltic lava.
+	- False
+- 14. Basalt has lower SiO2 content than rhyolite.
+	- True
