@@ -51,4 +51,6 @@
 		- A group of interbreeding individuals of a species that live together in a specific place.
 		- Evolution happens at the level of populations, people don't evolve in their lifetime.
 		- Evolution depends on differential survival and reproductive success:
-			- Variation among 
+			- Variation among individuals
+			- Heritability of said variation
+	- NS leads to adpadtation and increased fitnes
