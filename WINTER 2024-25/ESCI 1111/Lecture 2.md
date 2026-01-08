@@ -20,4 +20,6 @@
 	- False
 - 7. What kind of volcanic structure is shown in the photograph below? (Texture)
 	- Spinifex
-- 8. Mauna Kea is an example of a strato
+- 8. Mauna Kea is an example of a stratovolcano (composite volcano)?
+	- True
+- 9. Mt. Fuji  is an exmaple of a stratovol
