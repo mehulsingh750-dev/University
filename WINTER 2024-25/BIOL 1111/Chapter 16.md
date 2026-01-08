@@ -66,4 +66,6 @@
 			- Fitness is relative
 			- A trait is only adaptive if it increases fitness
 			- The trait that increases fitness might change
+	- Mutations lead to Variation
+		- Mutations are random, heritable changes in a DNA sequence and it leads to variations in organisms
 	- 
