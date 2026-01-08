@@ -105,4 +105,4 @@
 	- Influences for NS
 		- Alfred Wallace came to the same conclusion as Darwin about evolution
 		- Malthus stated that gains in agricultural technology can’t keep up to allow adequate food supply.
-		- This idea
+		- Growth depends on food availability 
