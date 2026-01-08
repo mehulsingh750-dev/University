@@ -99,5 +99,6 @@
 		- This is because they developed the same traits for the same environmental pressure
 	- Comparative Morphology
 		- Le Comte de Buffon proposed vestigial structures had a function in ancestors
-	- Homologous Structues
+	- Homologous Structures
+		- When structures look similar, but not due to similar ancestry it is called non homologous traits
 		- 
