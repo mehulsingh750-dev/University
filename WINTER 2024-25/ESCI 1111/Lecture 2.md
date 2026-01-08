@@ -22,4 +22,9 @@
 	- Spinifex
 - 8. Mauna Kea is an example of a stratovolcano (composite volcano)?
 	- True
-- 9. Mt. Fuji  is an exmaple of a stratovol
+- 9. Mt. Fuji  is an example of a stratovolcano
+	- true
+- 10. Mt Shasta is an example of a stratovolcano
+	- true
+- 11. Which of the following groups of rocks has the correct order of eruption temperatures from lowest to highest?
+	- 
