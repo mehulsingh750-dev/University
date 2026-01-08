@@ -53,4 +53,6 @@
 		- Evolution depends on differential survival and reproductive success:
 			- Variation among individuals
 			- Heritability of said variation
-	- NS leads to adpadtation and increased fitnes
+	- NS leads to adaptation and increased fitness
+		- Observation of island populations was popular as it was completely isolated 
+		- 
