@@ -40,5 +40,3 @@
 	- Selective breeding and Artificial Selection
 		- Breeding the top 10% of an organism to produce the best off spring for exmaple
 		- Human-mediated evolution
-	- 
-	
