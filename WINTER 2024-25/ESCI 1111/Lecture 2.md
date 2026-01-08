@@ -2,7 +2,7 @@
 	- Mauna Kea (Mountain of Sky Father)
 		- 80 km diameter
 	- Mauna Loa (Long Mountain)
-- 1.Which of the following is not a chracterisitic of a sheild volcanoe?
+- 1.Which of the following is not a characteristic of a shield volcanoes?
 	- Low Slopes
 	- ***Balsaltic Magmas***
 	- Large explosive pyroclastic eruptions
@@ -18,4 +18,6 @@
 	- False
 - 6. In a normal volcanic sequence, such as those on Hawaii, younger flows occur on the bottom and older lavas occur on the top.
 	- False
-- 7. What kind of volcanic strcuture is showiun in the photo
+- 7. What kind of volcanic structure is shown in the photograph below? (Texture)
+	- Spinifex
+- 8. Mauna Kea is an example of a strato
