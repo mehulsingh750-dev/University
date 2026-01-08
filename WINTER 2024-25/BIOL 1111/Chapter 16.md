@@ -86,4 +86,5 @@
 			- Organisms had been created by a god
 			- Species can never change or become extinct
 			- New species could never arise
-		- 
+		- Jean baptiste Lamarck
+			- Acquired traits are inherited
