@@ -10,5 +10,7 @@
 	- All of above
 - 2. Low viscosity volcanoes tend to have ___ SiO2 content and ___ flows
 	- Low;Fast
-- 3. What kind of volcanic rock structure is shown in the photograph below?
+- 3. What kind of volcanic rock structure is shown in the photograph below? ()
+	- Pillow
+- 4. What kind of volcanic structure is shown in the photograph below? (Flat)
 	- 
