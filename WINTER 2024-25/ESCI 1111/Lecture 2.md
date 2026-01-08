@@ -2,4 +2,8 @@
 	- Mauna Kea (Mountain of Sky Father)
 		- 80 km diameter
 	- Mauna Loa (Long Mountain)
-	
+- 1.Which of the following is not a chracterisitic of a sheild volcanoe?
+	- Low Slopes
+	- Balsatic Magmas
+	- Large explosive pyroclastic eruptions
+	- Located on Hawii
