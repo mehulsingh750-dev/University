@@ -72,4 +72,5 @@
 		- White moths common, black moths uncommon
 		- Industrial revolution caused trees to go from light to dark
 		- Black moths blended in, became more common
-	- 
+	- Red and White Salmon (NS)
+		- Both had the same fitness despite having a different phenotyp
