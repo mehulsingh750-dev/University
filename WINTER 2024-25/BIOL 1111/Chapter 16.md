@@ -16,7 +16,7 @@
 	- Inference: Differential reproductive success = Natural Selection
 		- Finding a mate and reproducing 
 		- Maturing to be able to reproduce
-		- Individuals with traits best sutied for the environment leavae more fertile offspring
+		- Individuals with traits best suited for the environment leave more fertile offspring
 	- Modern synthesis = fusion of genetics with evolutionary biology
 	- Essentials of evolution
 		- All organisms vary within a population
@@ -45,3 +45,5 @@
 			- Limited food, habitat, predation, competition, disease
 		- Organisms with heritable traits that provide an advantage, will have a better chance at reproducing
 			- They have a *naturally selected* advantage in their habitat
+		- Acts on the individual, when measuring it look at the total population as it is relative
+		- 
