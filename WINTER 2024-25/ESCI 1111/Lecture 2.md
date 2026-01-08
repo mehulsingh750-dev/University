@@ -28,4 +28,7 @@
 	- True
 - 11. Which of the following groups of rocks has the correct order of eruption temperatures from lowest to highest?
 	- Rhyolite< andesite< balsite< komatiite
-- 12.Spinifex texture is typiclal
+- 12. Spinifex texture is typically seen in ___
+	- Komatiite
+- 13. Rhyolitic lava has lower viscosity than balsatic laba
+	- 
