@@ -75,4 +75,5 @@
 	- Red and White Salmon (NS)
 		- Both had the same fitness despite having a different phenotype
 		- Supported each other
-	- 
+	- Generation Time
+		- Avergae different in age between a parent an
