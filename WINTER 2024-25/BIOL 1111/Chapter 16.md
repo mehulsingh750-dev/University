@@ -88,4 +88,5 @@
 			- New species could never arise
 		- Jean baptiste Lamarck
 			- Acquired traits are inherited
+			- Lamarck believed that  as wading birds  stretched their legs to  keep their bodies dry  while feeding,  successive generations  would have progressively longer legs.
 	- 
