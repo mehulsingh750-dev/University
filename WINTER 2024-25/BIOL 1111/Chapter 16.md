@@ -43,3 +43,5 @@
 	- Natural Selection
 		- Environmental factors can drive selection:
 			- Limited food, habitat, predation, competition, disease
+		- Organisms with heritable traits that provide an advantage, will have a better chance at reproducing
+		- 
