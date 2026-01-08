@@ -9,9 +9,9 @@
 	- 13.7 million years
 	- 200 million years
 	- 10,000 years
-- 3. Which of the following statemnts abotu a speciifc sceintifuc thoery is not true?
+- 3. Which of the following statements about a specific scientific theory is not true?
 	-  Explanation for natural phenomena
-	- Large body o supporting knowledge
+	- Large body of supporting knowledge
 	- testable
 	- ***Conjecture or guess***
 - 4. The earths most Rigid layer is called the 
