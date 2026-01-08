@@ -104,3 +104,5 @@
 		- Convergent evolution - converge to the same solution, not common ancestry
 	- Influences for NS
 		- Alfred Wallace came to the same conclusion as Darwin about evolution
+		- Malthus stated that gains in agricultural technology can’t keep up to allow adequate food supply.
+		- This idea
