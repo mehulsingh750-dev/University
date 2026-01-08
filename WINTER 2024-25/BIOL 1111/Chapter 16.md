@@ -55,4 +55,6 @@
 			- Heritability of said variation
 	- NS leads to adaptation and increased fitness
 		- Observation of island populations was popular as it was completely isolated 
+		- Galapagos Islands
+	- The Galapagos Mockingbirds
 		- 
