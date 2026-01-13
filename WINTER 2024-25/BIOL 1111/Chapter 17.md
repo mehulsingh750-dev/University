@@ -12,3 +12,4 @@
 	- Qualitative variation  
 		- Characteristics with discrete states  
 		- Polymorphisms: Discrete variants of character
+- Genes na
