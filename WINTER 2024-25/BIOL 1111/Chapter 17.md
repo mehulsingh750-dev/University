@@ -15,4 +15,6 @@
 - Genes and Environment
 	- Genotypes and phenotypes are no directly correlated
 	- Experiments to determine connection:
-		- Keep genetic constant, a
+		- Keep genetic constant, vary environment
+	- Phenotypic plasticity
+		- Same genotype changes in different environments 
