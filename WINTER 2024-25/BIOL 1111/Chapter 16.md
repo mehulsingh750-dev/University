@@ -110,4 +110,7 @@
 		- integrates data from biogeography, comparative morphology, comparative embryology, genetics, palaeontology, and taxonomy in an evolutionary framework.
 	- Darwins 4 postulates (conditions):
 		- Individuals within populations are variable
-		- The variations 
+		- The variations among individuals are passed from parents to offspring
+		- In every generation some individuals are more successful at surviving and reproducing
+		- Survival and reproduction of individuals is not random
+	- 
