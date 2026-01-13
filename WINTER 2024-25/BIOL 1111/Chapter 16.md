@@ -113,4 +113,7 @@
 		- The variations among individuals are passed from parents to offspring
 		- In every generation some individuals are more successful at surviving and reproducing
 		- Survival and reproduction of individuals is not random
-	- 
+	- Darwinian Fitness
+		- Ability of an individual to survive and reproduce in a specific environment
+	- Darwins Finches
+		- 
