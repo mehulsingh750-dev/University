@@ -115,7 +115,7 @@
 			- Parent Offspring Regression
 				- Average offspring trait on y axis
 				- Mid parent trait on x axis
-				- Line of best fit (minimize)
+				- Line of best fit (minimize orthogonal distance between each dot and line)
 		- In every generation some individuals are more successful at surviving and reproducing
 		- Survival and reproduction of individuals is not random
 	- Darwinian Fitness
