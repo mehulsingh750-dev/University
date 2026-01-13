@@ -39,3 +39,6 @@
 			- If conditions met, microevolution does not occur  
 			- If observations do not match null, microevolution occurring  
 			- Mechanism for persistence of recessive alleles
+	- Conditions
+		- No mutations occuring
+		- Population clsoed to migratio
