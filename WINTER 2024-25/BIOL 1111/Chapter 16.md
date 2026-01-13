@@ -121,4 +121,9 @@
 		- Derived from a central american ancestor
 		- Medium Ground Finch (*Geospizo fortis*)
 			- Daphne Major
-			- 
+			- few finches migrate on/off of the island  
+			- population is small enough to manage  
+			- on average - 1200 individuals on the island  
+			- 100% of the birds are identified (banded)  
+			- generation time = 4.5 years  
+			- primarily seed eaters (bigger beak, larger seeds)
