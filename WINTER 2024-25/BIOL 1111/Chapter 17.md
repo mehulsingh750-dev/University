@@ -45,4 +45,5 @@
 		- Population infinite in size
 		- All genotypes free of selection
 		- Random mating with respect to genotype
-- 
+	- Simulation
+		- 
