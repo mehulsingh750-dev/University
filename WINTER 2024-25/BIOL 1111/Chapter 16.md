@@ -112,6 +112,9 @@
 		- Individuals within populations are variable
 		- The variations among individuals are passed from parents to offspring
 			- Heritability= Vg/(Vp OR Vg+Ve)
+			- Parent Offspring Regression
+				- Average offspring trait on y axis
+				- Mid parent 
 		- In every generation some individuals are more successful at surviving and reproducing
 		- Survival and reproduction of individuals is not random
 	- Darwinian Fitness
@@ -128,3 +131,4 @@
 			- 100% of the birds are identified (banded)  
 			- generation time = 4.5 years  
 			- primarily seed eaters (bigger beak, larger seeds)
+		- 
