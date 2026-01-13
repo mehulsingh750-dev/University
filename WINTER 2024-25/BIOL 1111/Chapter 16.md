@@ -110,6 +110,7 @@
 		- integrates data from biogeography, comparative morphology, comparative embryology, genetics, palaeontology, and taxonomy in an evolutionary framework.
 	- Darwins 4 postulates (conditions):
 		- 1. Individuals within populations are variable
+			- Modern:As a result of mutation creating new alleles, and segregation and independent assortment shuffling alleles into new combinations, individuals within populations are variable for many traits.
 		- 2. The variations among individuals are passed from parents to offspring
 			- Heritability= Vg/(Vp OR Vg+Ve)
 			- Parent Offspring Regression
