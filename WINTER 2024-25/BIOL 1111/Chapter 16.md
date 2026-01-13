@@ -109,16 +109,17 @@
 	- Modern Synthesis
 		- integrates data from biogeography, comparative morphology, comparative embryology, genetics, palaeontology, and taxonomy in an evolutionary framework.
 	- Darwins 4 postulates (conditions):
-		- Individuals within populations are variable
-		- The variations among individuals are passed from parents to offspring
+		- 1. Individuals within populations are variable
+		- 2. The variations among individuals are passed from parents to offspring
 			- Heritability= Vg/(Vp OR Vg+Ve)
 			- Parent Offspring Regression
 				- Average offspring trait on y axis
 				- Mid parent trait on x axis
 				- Line of best fit (minimize orthogonal distance between each dot and line)
 				- If only phenotypes mattered, every dot would be exactly on line of best fit
-		- In every generation some individuals are more successful at surviving and reproducing
-		- Survival and reproduction of individuals is not random
+		- 3. In every generation some individuals are more successful at surviving and reproducing
+			- 
+		- 4. Survival and reproduction of individuals is not random
 	- Darwinian Fitness
 		- Ability of an individual to survive and reproduce in a specific environment
 	- Darwin's Finches
