@@ -3,4 +3,12 @@
 	- Does not migrate
 	- Separated from other populations
 	- Led to inbreeding
-- 
+- Phenotypic Variation
+	- Phenotypic variation  
+		- Heritable variation in appearance and/or function  
+		- Phenotypic plasticity  
+	 - Quantitative variation  
+		- Individuals differ in small, incremental ways  
+	- Qualitative variation  
+•Characteristics with discrete states  
+•Polymorphisms: Discrete variants of character
