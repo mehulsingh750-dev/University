@@ -2,4 +2,6 @@
 	- Bonding
 - 2. Which of the following pairs of minerals is the most abundant in basalt?
 	- Plagioclase and pyroxene
-- 3. 
+- 3. Basalts typically have an __ texture
+	- Aphanitic
+4. Fast colling of magmas tends
