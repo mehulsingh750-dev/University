@@ -115,5 +115,5 @@
 		- Survival and reproduction of individuals is not random
 	- Darwinian Fitness
 		- Ability of an individual to survive and reproduce in a specific environment
-	- Darwins Finches
+	- Darwin's Finches
 		- 
