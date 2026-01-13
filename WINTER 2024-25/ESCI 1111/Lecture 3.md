@@ -21,4 +21,6 @@
 11. Oxides are the most abundant mineral group in the earths crust.
 	- False
 12.  Which of the following pairs of elements is the two most abubundant elements in the whole Earth?
-		- 
+	- Fe and O
+13. Which of the following pairs of elements is the two most abundant elements in the crust?
+14. 
