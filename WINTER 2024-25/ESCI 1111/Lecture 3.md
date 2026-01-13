@@ -16,4 +16,6 @@
 	- True
 9. What kind of igneous texture is shown in the photograph below?
 	- Pyroclastic
-10. 
+10. What kind of igneous texture is shown in the photograph below?
+	- Porphyritic
+11. Oxides are the most abundant mineral i
