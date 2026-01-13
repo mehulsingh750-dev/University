@@ -112,6 +112,7 @@
 		- 1. Individuals within populations are variable
 			- Modern:As a result of mutation creating new alleles, and segregation and independent assortment shuffling alleles into new combinations, individuals within populations are variable for many traits.
 		- 2. The variations among individuals are passed from parents to offspring
+			- Modern: Individuals pass their alleles on to their offspring intact
 			- Heritability= Vg/(Vp OR Vg+Ve)
 			- Parent Offspring Regression
 				- Average offspring trait on y axis
@@ -135,4 +136,3 @@
 			- 100% of the birds are identified (banded)  
 			- generation time = 4.5 years  
 			- primarily seed eaters (bigger beak, larger seeds)
-		- 
