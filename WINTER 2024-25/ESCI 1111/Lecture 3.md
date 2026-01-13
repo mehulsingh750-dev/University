@@ -14,4 +14,6 @@
 	- False
 8. Phaneritic texture is product of lower nucleation and higher growth rates than aphanitic textures.
 	- True
-9. What kind of ign
+9. What kind of igneous texture is shown in the photograph below?
+	- Pyroclastic
+10. 
