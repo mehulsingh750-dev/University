@@ -114,7 +114,8 @@
 			- Heritability= Vg/(Vp OR Vg+Ve)
 			- Parent Offspring Regression
 				- Average offspring trait on y axis
-				- Mid parent 
+				- Mid parent trait on x axis
+				- Line of best fit (minimize)
 		- In every generation some individuals are more successful at surviving and reproducing
 		- Survival and reproduction of individuals is not random
 	- Darwinian Fitness
