@@ -23,3 +23,8 @@
 	- The gene occurs in different “forms” in the population, i.e., the gene has different alleles in the population
 	- SNPs
 		- Single nucleotide Polymorphisms (differences)
+- Genetic Variation
+	- Genetic variation has two potential sources:  
+		- Production of new alleles  
+		- Rearrangement of existing alleles into new combinations
+- Genotype Frequency
