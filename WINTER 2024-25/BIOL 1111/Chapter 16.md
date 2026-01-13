@@ -117,4 +117,5 @@
 		- Ability of an individual to survive and reproduce in a specific environment
 	- Darwin's Finches
 		- Derived from a central american ancestor
-		- Medium Gorunf
+		- Medium Ground Finch (*Geospizo fortis*)
+			- 
