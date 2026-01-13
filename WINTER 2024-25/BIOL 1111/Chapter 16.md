@@ -110,4 +110,4 @@
 		- integrates data from biogeography, comparative morphology, comparative embryology, genetics, palaeontology, and taxonomy in an evolutionary framework.
 	- Darwins 4 postulates (conditions):
 		- Individuals within populations are variable
-		- 
+		- The variations 
