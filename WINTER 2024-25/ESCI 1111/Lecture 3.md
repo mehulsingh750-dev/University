@@ -18,4 +18,7 @@
 	- Pyroclastic
 10. What kind of igneous texture is shown in the photograph below?
 	- Porphyritic
-11. Oxides are the most abundant mineral i
+11. Oxides are the most abundant mineral group in the earths crust.
+	- False
+12.  Which of the following pairs of elements is the two most abubundant elements in the whole Earth?
+		- 
