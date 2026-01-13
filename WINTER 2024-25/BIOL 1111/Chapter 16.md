@@ -116,6 +116,7 @@
 				- Average offspring trait on y axis
 				- Mid parent trait on x axis
 				- Line of best fit (minimize orthogonal distance between each dot and line)
+				- If only phenotypes mattered, every dot would be exactly on line of best fit
 		- In every generation some individuals are more successful at surviving and reproducing
 		- Survival and reproduction of individuals is not random
 	- Darwinian Fitness
