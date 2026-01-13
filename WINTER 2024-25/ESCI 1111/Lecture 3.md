@@ -12,4 +12,6 @@
 	- False
 7. Glassy texture is a product of lower nucleation and higher growth rates than aphanitic textures.
 	- False
-8. Phaneritic
+8. Phaneritic texture is product of lower nucleation and higher growth rates than aphanitic textures.
+	- True
+9. What kind of ign
