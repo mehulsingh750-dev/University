@@ -40,5 +40,9 @@
 			- If observations do not match null, microevolution occurring  
 			- Mechanism for persistence of recessive alleles
 	- Conditions
-		- No mutations occuring
-		- Population clsoed to migratio
+		- No mutations occurring
+		- Population closed to migration
+		- Population infinite in size
+		- All genotypes free of selection
+		- Random mating with respect to genotype
+- 
