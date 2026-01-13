@@ -34,4 +34,8 @@
 	- p and q: Two different alleles at a locus
 -  Hardy Weinberg Principle
 	- Null Models
-		- Conceptual
+		- Conceptual models that serve as theoretical reference points to observation
+		- Hardy–Weinburg principle: Conditions where diploid organisms have genetic equilibrium  
+			- If conditions met, microevolution does not occur  
+			- If observations do not match null, microevolution occurring  
+			- Mechanism for persistence of recessive alleles
