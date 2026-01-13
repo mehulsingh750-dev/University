@@ -28,3 +28,7 @@
 		- Production of new alleles  
 		- Rearrangement of existing alleles into new combinations
 - Genotype Frequency
+	- Percentages of individuals possessing genotype
+- Allele Frequency
+	- Calculated from genotype in diploid organisms
+	- p and q: Two different alleles at a locus
