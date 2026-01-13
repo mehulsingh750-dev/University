@@ -32,3 +32,5 @@
 - Allele Frequency
 	- Calculated from genotype in diploid organisms
 	- p and q: Two different alleles at a locus
+-  Hardy Weinberg Principle
+	- Null 
