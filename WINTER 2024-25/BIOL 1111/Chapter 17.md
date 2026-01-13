@@ -10,5 +10,5 @@
 	 - Quantitative variation  
 		- Individuals differ in small, incremental ways  
 	- Qualitative variation  
-•Characteristics with discrete states  
-•Polymorphisms: Discrete variants of character
+		- Characteristics with discrete states  
+		- Polymorphisms: Discrete variants of character
