@@ -111,6 +111,7 @@
 	- Darwins 4 postulates (conditions):
 		- Individuals within populations are variable
 		- The variations among individuals are passed from parents to offspring
+			- Heritability= Vg/(Vp OR Vg+Ve)
 		- In every generation some individuals are more successful at surviving and reproducing
 		- Survival and reproduction of individuals is not random
 	- Darwinian Fitness
