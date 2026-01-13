@@ -7,4 +7,7 @@
 4. Fast cooling of magmas tends to produce an aphanitic texture.
 	- True
  5. Phenocrysts in a porphyritic texture reflect fast cooling.
-	 1. 
+	 -  False
+6. Basalts are the most abundant intrusive rocks on Earth.
+	- False
+7.
