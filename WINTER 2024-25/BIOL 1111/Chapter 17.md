@@ -12,4 +12,7 @@
 	- Qualitative variation  
 		- Characteristics with discrete states  
 		- Polymorphisms: Discrete variants of character
-- Genes na
+- Genes and Environment
+	- Genotypes and phenotypes are no directly correlated
+	- Experiments to determine connection:
+		- Keep genetic constant, a
