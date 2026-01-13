@@ -10,4 +10,6 @@
 	 -  False
 6. Basalts are the most abundant intrusive rocks on Earth.
 	- False
-7.
+7. Glassy texture is a product of lower nucleation and higher growth rates than aphanitic textures.
+	- False
+8. Phaneritic
