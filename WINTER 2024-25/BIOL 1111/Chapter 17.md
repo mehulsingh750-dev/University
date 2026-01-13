@@ -21,4 +21,5 @@
 - Polymorphism
 	-   A difference in the nucleotide sequence of a given gene in different individuals of a species  
 	- The gene occurs in different “forms” in the population, i.e., the gene has different alleles in the population
-- 
+	- SNPs
+		- Single nucleotide Polymorphisms (differences)
