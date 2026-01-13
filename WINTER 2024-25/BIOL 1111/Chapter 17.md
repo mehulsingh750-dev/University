@@ -1,3 +1,6 @@
 - Microevolution - Changes within a population
 - Humpback Whales
-	- 
+	- Does not migrate
+	- Separated from other populations
+	- Led to inbreeding
+- 
