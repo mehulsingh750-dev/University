@@ -78,4 +78,5 @@
 		- Movement of Alleles across populations
 		- Occurs from individuals or gametes
 		- Dispersal agents such as birds who spread seeds
-	- 
+			- Bluejays are agents of gene flow for oak trees, they carry acorns
+		- 
