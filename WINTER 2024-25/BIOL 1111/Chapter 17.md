@@ -93,4 +93,5 @@
 		- Population bottleneck
 			- Population reduction reducing alleles
 		- It is non-selective and does *not* lead to adaptation
+		- Does not impact very large populations
 		- 
