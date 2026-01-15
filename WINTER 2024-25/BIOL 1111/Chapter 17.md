@@ -75,4 +75,7 @@
 		- H/W identifies which is causing evolution, hence why it is a NULL model
 - Four Agents of Microevolution
 	- Gene Flow
-		- Movement of Alleles
+		- Movement of Alleles across populations
+		- Occurs from individuals or gametes
+		- Dispersal agents such as birds who spread seeds
+	- 
