@@ -52,7 +52,7 @@
 		- If chance plays no role, it is in *equilibrium*
 		- Single locus with 2 alleles= A1 and A2
 	- Conclusions
-		- 2. Allele frequencies in a popn will NOT change, generation after generation  
-		- 1. If allele frequencies in a popn are given by p & q, then genotype frequencies will be given by: p2, 2pq, and q2
+		- 1. Allele frequencies in a popn will NOT change, generation after generation  
+		- 2. If allele frequencies in a popn are given by p & q, then genotype frequencies will be given by: p2, 2pq, and q2
 	- Research Method (**Important in textbook**)
-	-
+	- 
