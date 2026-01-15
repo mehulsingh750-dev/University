@@ -96,4 +96,5 @@
 		- Does not impact very large populations
 		- Sampling Error and Evolution
 			- Drift only happens in small populations
-		-  
+	-  Mutations
+		- Change to the double strand sequence of 
