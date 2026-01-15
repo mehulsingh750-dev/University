@@ -55,4 +55,10 @@
 		- 1. Allele frequencies in a popn will NOT change, generation after generation  
 		- 2. If allele frequencies in a popn are given by p & q, then genotype frequencies will be given by: p2, 2pq, and q2
 	- Research Method (**Important in textbook**)
-	- 
+	- Assumptions:
+		- No natural selection
+			- All individuals survive
+			- Everyone contributes equal number of gametes
+		- No mutation
+			- No new alleles
+			- Non copes 
