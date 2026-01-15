@@ -67,4 +67,6 @@
 			- No individuals move in or out
 			- Assume single isolated population with no gene flow
 		- No chance events
-			- No rand
+			- No random weather events which affect population
+			- If population infinitely large, no effect
+			- 
