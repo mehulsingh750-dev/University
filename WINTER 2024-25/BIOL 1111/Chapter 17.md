@@ -71,4 +71,4 @@
 			- If population infinitely large, no effect
 		- Individuals choose their mate randomly
 			- Gametes find each other randomly 
-			- 
+			- See Chapter 17 part 2
