@@ -18,3 +18,5 @@
 	- Feldspar
 10. What is the most abundant mineral in the upper mantle?
 	- Olivine
+11. Which pair of the following chemical formulas does represent albite and anorthite plagioclase?
+	- 
