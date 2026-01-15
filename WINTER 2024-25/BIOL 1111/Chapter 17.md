@@ -69,4 +69,6 @@
 		- No chance events
 			- No random weather events which affect population
 			- If population infinitely large, no effect
+		- Individuals choose their mate randomly
+			- Gametes find each other randomly 
 			- 
