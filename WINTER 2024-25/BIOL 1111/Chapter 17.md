@@ -101,4 +101,5 @@
 		- Spontaneous and caused by radiation, hazardous chemicals and environmental factors
 		- Deleterious (BAD) mutations are harmful to organisms and their fitness
 		- Mutational Load
-			- Chernobyl birds were exposed to lots of radiation
+			- Chernobyl birds were exposed to lots of radiation, high mutational load
+		- 
