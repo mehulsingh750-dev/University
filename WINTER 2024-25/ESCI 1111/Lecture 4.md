@@ -4,4 +4,6 @@
 	- Silicates
 3. What is the name for a plane where a mineral tends to split due to weaker chemical bonds?
 	- Cleavage Plane
-4. 
+4. In a covalent bond....
+	- Electrons are shared between a limited number of atoms
+5. 
