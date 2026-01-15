@@ -83,5 +83,5 @@
 			- Propagules - How many seeds are moving around
 			- H/W 
 				- One island model is when large migration happens from continent to island, but not vice versa
-			- If there is a large cha
+			- If there is a large change in gene frequency, it is most likely due to migration
 		- 
