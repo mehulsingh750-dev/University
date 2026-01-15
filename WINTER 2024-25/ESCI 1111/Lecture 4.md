@@ -8,4 +8,6 @@
 	- Electrons are shared between a limited number of atoms
 5. Which pair of the following minerals does represent the softest and hardest mineral on the Mohs' hardness scale?
 	- Talc and Diamond
-6. 
+6. Colour is one of the most diagnostic physical properties of minerals 
+	- False
+7. Which pair of the following chemical formulas does represrnt fi
