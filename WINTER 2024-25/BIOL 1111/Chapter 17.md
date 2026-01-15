@@ -47,5 +47,6 @@
 		- Random mating with respect to genotype
 	- Simulation
 		- Luck Free means no variation
-	- Probabilites
+	- Probabilities
+		- AA = 0.6* 0.6=0.36
 		- 
