@@ -85,4 +85,9 @@
 				- One island model is when large migration happens from continent to island, but not vice versa
 			- If there is a large change in gene frequency, it is most likely due to migration
 	- Genetic Drift
-		- Random change in allele frequenc
+		- Random change in allele frequencies
+		- Important in smaller populations
+		- Reduces genetic variability
+		- Founder effect
+			- Due to few individuals starting new population
+		- Population bottleneck
