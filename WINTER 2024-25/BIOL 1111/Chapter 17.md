@@ -98,4 +98,6 @@
 			- Drift only happens in small populations
 	-  Mutations
 		- Change to the double strand sequence of DNA
-		- Spontaneous and caused by radiaition, hazardous chemicals andenvirone
+		- Spontaneous and caused by radiation, hazardous chemicals and environmental factors
+		- Deleterious (BAD) mutations are harmful to organisms and their fitness
+		- 
