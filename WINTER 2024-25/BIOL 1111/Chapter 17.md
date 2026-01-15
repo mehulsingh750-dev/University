@@ -50,4 +50,5 @@
 	- Probabilities
 		- AA = 0.6* 0.6=0.36
 		- If chance plays no role, it is in *equilibrium*
+		- Single locus with 2 alleles= A1 and A2
 		- 
