@@ -94,4 +94,6 @@
 			- Population reduction reducing alleles
 		- It is non-selective and does *not* lead to adaptation
 		- Does not impact very large populations
-		- Sampling Error and Evol
+		- Sampling Error and Evolution
+			- Drift only happens in small populations
+		- 
