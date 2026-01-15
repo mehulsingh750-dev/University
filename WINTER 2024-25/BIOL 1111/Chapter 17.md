@@ -97,4 +97,5 @@
 		- Sampling Error and Evolution
 			- Drift only happens in small populations
 	-  Mutations
-		- Change to the double strand sequence of 
+		- Change to the double strand sequence of DNA
+		- Spontaneous and caused by radiaition, hazardous chemicals andenvirone
