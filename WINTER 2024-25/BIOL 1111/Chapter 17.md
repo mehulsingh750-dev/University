@@ -91,3 +91,5 @@
 		- Founder effect
 			- Due to few individuals starting new population
 		- Population bottleneck
+			- Population reduction reducing alleles
+		- 
