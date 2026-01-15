@@ -47,4 +47,5 @@
 		- Random mating with respect to genotype
 	- Simulation
 		- Luck Free means no variation
+	- Probabilites
 		- 
