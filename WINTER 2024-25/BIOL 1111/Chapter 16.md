@@ -136,5 +136,5 @@
 			- 100% of the birds are identified (banded)  
 			- generation time = 4.5 years  
 			- primarily seed eaters (bigger beak, larger seeds)
-- Textbook
-	- 
+Textbook
+- Evolution is often referred to as *descent with modification*.
