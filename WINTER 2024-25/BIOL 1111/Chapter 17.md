@@ -64,4 +64,7 @@
 			- Non copes of existing alleles
 			- Important in the long term
 		- No migration
-			- 
+			- No individuals move in or out
+			- Assume single isolated population with no gene flow
+		- No chance events
+			- No rand
