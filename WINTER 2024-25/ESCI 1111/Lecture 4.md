@@ -14,5 +14,7 @@
 	- Mg2SiO4 and SiO2
 8. Which pair of the following chemical formulas does represent fayalite-olivine and calcite?
 	- Fe2SiO4 and CaCO3
-9. What is the most abundant minerals in the crust?
-10. 
+9. What is the most abundant mineral in the crust?
+	- Feldspar
+10. What is the most abundant mineral in the upper mantle?
+	- Olivine
