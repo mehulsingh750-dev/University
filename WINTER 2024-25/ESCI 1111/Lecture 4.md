@@ -10,4 +10,6 @@
 	- Talc and Diamond
 6. Colour is one of the most diagnostic physical properties of minerals 
 	- False
-7. Which pair of the following chemical formulas does represrnt fi
+7. Which pair of the following chemical formulas does represent forsterite-olivine and quartz?
+	- Mg2SiO4 and SiO2
+8. Which pair of the followinf chemical formulas does represent fayalite-olivine and calcite?
