@@ -61,4 +61,7 @@
 			- Everyone contributes equal number of gametes
 		- No mutation
 			- No new alleles
-			- Non copes 
+			- Non copes of existing alleles
+			- Important in the long term
+		- No migration
+			- 
