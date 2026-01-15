@@ -82,5 +82,5 @@
 		- Migration
 			- Propagules - How many seeds are moving around
 			- H/W 
-				- One island model is when large migration happens from continent to island, 
+				- One island model is when large migration happens from continent to island, but not vice versa
 		- 
