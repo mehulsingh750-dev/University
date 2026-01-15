@@ -49,4 +49,5 @@
 		- Luck Free means no variation
 	- Probabilities
 		- AA = 0.6* 0.6=0.36
+		- If chance plays no role, it is in *equilibrium*
 		- 
