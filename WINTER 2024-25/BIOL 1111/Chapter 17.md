@@ -107,6 +107,7 @@
 		- Stabilizing selection favours individuals with intermediate phenotypes  
 		- Disruptive selection favours individuals with extreme phenotypes
 		- Diagnostic is the different types of graph shapes
+		- Probability of surviving graph is important
 In Class Activity
 - Genetic diversity is good because it helps mitigate environmental changes
 - Lots of variability for amount of generations in a large population
