@@ -10,4 +10,6 @@
 	- Rhyolite
 6. In a cooling basaltic magma, olivine crystallizes later than pyroxene
 	- False
-7. Basaltic melt originates from em
+7. Basaltic melt originates from melting of ___
+	- Peridotite
+8. In a cooling basaltic magma, mafic minerals crystalize first, felsic minerals c
