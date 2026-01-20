@@ -27,4 +27,6 @@
 14. Which one of the following rocks is not part of a complete ophiolite sequence
 	- Sandstone
 15. In the Bowens reaction series Ca-rich Plagioclase (anorthite) crystallizes before Na-Rich plagioclase
-	- F
+	- True
+16. If a rock undergoes 15% partial melting, the melt will have the same chemical composition as the original rock
+	- False
