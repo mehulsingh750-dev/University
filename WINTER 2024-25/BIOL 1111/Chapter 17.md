@@ -102,4 +102,5 @@
 		- Deleterious (BAD) mutations are harmful to organisms and their fitness
 		- Mutational Load
 			- Chernobyl birds were exposed to lots of radiation, high mutational load
-		- 
+In Class Activity
+- Genetic diversity is good because it helps mitigate environmental changes
