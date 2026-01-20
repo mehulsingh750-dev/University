@@ -105,4 +105,4 @@
 In Class Activity
 - Genetic diversity is good because it helps mitigate environmental changes
 - Lots of variability for amount of generations in a large population
-- When you put barriers between populations, generations are much
+- When you put barriers between populations, generations are much shorter
