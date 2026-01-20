@@ -4,4 +4,8 @@
 	- Yes
 3. Basalt is the extrusive counterpart of ___
 	- Gabbro
-4. Diorite is the intrusce
+4. Diorite is the intrusive counterpart of  ___
+	- Andesite
+5. Granite is the intrusive counterpart of __
+	- Rhyolite
+6. 
