@@ -24,4 +24,6 @@
 	- False
 13. What kind of volcanic rock is shown in the photo below
 	- Pyroclastic
-14. Which one of the following rocks is no part of t
+14. Which one of the following rocks is not part of a complete ophiolite sequence
+	- Sandstone
+15. In the Bowens reaction series Ca-rich Plagioclase
