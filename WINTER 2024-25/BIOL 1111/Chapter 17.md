@@ -106,7 +106,7 @@
 		- Directional selection favours individuals near one end of phenotypic spectrum  
 		- Stabilizing selection favours individuals with intermediate phenotypes  
 		- Disruptive selection favours individuals with extreme phenotypes
-		- Diagnostic
+		- Diagnostic is the different types of graph shapes
 In Class Activity
 - Genetic diversity is good because it helps mitigate environmental changes
 - Lots of variability for amount of generations in a large population
