@@ -114,4 +114,5 @@ In Class Activity
 - When you put barriers between populations, generations are much shorter
 Part 2
 - Non Random mating
+	- No change of allele frequency, change in genotype frequency (after 1 generation)
 	- 
