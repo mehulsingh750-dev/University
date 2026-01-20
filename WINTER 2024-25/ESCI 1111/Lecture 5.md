@@ -19,4 +19,6 @@
 10. Under atmospheric pressure, fortserite olivine melts at lower temps than fayalite olivine
 	- False
 11. Wet (hydrous) melting of mantle peridotite typically occurs
+	- At convergent margins
+12. Ophiolites represent fragments of ancient continental lithosphere
 	- 
