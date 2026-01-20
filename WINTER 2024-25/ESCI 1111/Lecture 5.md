@@ -17,3 +17,6 @@
 9. Mid-ocean ridge volcanism typically produces ___
 	- Basalt
 10. Under atmospheric pressure, fortserite olivine melts at lower temps than fayalite olivine
+	- False
+11. Wet (hydrous) melting of mantle peridotite typically occurs
+	- 
