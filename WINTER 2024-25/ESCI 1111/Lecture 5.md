@@ -8,4 +8,6 @@
 	- Andesite
 5. Granite is the intrusive counterpart of __
 	- Rhyolite
-6. 
+6. In a cooling basaltic magma, olivine crystallizes later than pyroxene
+	- False
+7. Basaltic melt originates from em
