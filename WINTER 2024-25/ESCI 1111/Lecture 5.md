@@ -21,4 +21,7 @@
 11. Wet (hydrous) melting of mantle peridotite typically occurs
 	- At convergent margins
 12. Ophiolites represent fragments of ancient continental lithosphere
-	- 
+	- False
+13. What kind of volcanic rock is shown in the photo below
+	- Pyroclastic
+14. Which one of the following rocks is no part of t
