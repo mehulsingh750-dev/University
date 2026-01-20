@@ -26,4 +26,5 @@
 	- Pyroclastic
 14. Which one of the following rocks is not part of a complete ophiolite sequence
 	- Sandstone
-15. In the Bowens reaction series Ca-rich Plagioclase
+15. In the Bowens reaction series Ca-rich Plagioclase (anorthite) crystallizes before Na-Rich plagioclase
+	- F
