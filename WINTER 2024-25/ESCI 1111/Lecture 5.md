@@ -15,3 +15,5 @@
 8. In a cooling basaltic magma, mafic minerals crystallize first, felsic minerals crystallize last.
 	- True
 9. Mid-ocean ridge volcanism typically produces ___
+	- Basalt
+10. Under atmospheric pressure, fort
