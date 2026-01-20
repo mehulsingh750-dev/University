@@ -104,4 +104,4 @@
 			- Chernobyl birds were exposed to lots of radiation, high mutational load
 In Class Activity
 - Genetic diversity is good because it helps mitigate environmental changes
-- Lots of variability t
+- Lots of variability for amount of generations in a large population
