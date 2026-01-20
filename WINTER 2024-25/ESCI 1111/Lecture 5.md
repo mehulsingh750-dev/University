@@ -1,6 +1,6 @@
 1. Is the location of the galaxy texture in the diagram shown correctly?
 	- No
-2. Is the location of the phaneritic texture in the diagram shown correctly 
+2. Is the location of the phaneritic texture in the diagram shown correctly?
 	- Yes
 3. Basalt is the extrusive counterpart of ___
 	- Gabbro
@@ -8,8 +8,10 @@
 	- Andesite
 5. Granite is the intrusive counterpart of __
 	- Rhyolite
-6. In a cooling basaltic magma, olivine crystallizes later than pyroxene
+6. In a cooling basaltic magma, olivine crystallizes later than pyroxene.
 	- False
 7. Basaltic melt originates from melting of ___
 	- Peridotite
-8. In a cooling basaltic magma, mafic minerals crystalize first, felsic minerals c
+8. In a cooling basaltic magma, mafic minerals crystallize first, felsic minerals crystallize last.
+	- True
+9. Mid-ocean ridge volcanism typically produces ___
