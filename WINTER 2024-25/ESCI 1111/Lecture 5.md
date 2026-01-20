@@ -16,4 +16,4 @@
 	- True
 9. Mid-ocean ridge volcanism typically produces ___
 	- Basalt
-10. Under atmospheric pressure, fort
+10. Under atmospheric pressure, fortserite olivine melts at lower temps than fayalite olivine
