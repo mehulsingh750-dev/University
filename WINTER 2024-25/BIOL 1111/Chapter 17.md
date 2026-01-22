@@ -118,4 +118,4 @@ Part 2
 	- Bad alleles tend to be revealed more in inbreeding
 	- Inbreeding depression (different) is the fitness consequence of inbreeding
 	- Animals and plants evolve mechanisms to avoid interbreeding
-	- In small populations, interbreeding is difficult to 
+	- In small populations, interbreeding is difficult to avoid
