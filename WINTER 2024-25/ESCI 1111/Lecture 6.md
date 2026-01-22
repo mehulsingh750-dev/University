@@ -8,4 +8,6 @@
 	- 3/1
 5. If a newly formed mineral has 2000 radioactive parent isotopes and zero daughter isotopes, what would the parent/daughter isotope ratio be after three half life times.
 	- 1/7
-6. If a mineral has 1200 radioactive parent isotopes
+6. If a mineral has 1200 radioactive parent isotopes, how many parent isotopes will remain after three half life times?
+	- 150
+7. If the nucleus of an isotope 
