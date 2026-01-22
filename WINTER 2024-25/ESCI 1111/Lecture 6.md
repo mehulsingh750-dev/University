@@ -10,4 +10,6 @@
 	- 1/7
 6. If a mineral has 1200 radioactive parent isotopes, how many parent isotopes will remain after three half life times?
 	- 150
-7. If the nucleus of an isotope 
+7. If the nucleus of an isotope (X20) captures four electrons, how would its proton number change?
+	- Decrease by 4
+8. If the nucleus of an isoto
