@@ -18,3 +18,4 @@
 	- Decrease by 8
 10. According to the following diagram, the sill is older than the basalt dyke.
 	- True
+11. If a mineral hss 3200 radioactive parent isotopes, how many daughter isotopes will be produced after two half life times
