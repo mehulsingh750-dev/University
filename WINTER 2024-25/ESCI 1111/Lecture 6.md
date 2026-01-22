@@ -12,4 +12,6 @@
 	- 150
 7. If the nucleus of an isotope (X20) captures four electrons, how would its proton number change?
 	- Decrease by 4
-8. If the nucleus of an isoto
+8. If the nucleus of an isotope (X60) undergoes 4 alpha decay processes, how would its proton number change?
+	- Decrease by 8
+9. 
