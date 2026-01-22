@@ -113,6 +113,7 @@ In Class Activity
 - Lots of variability for amount of generations in a large population
 - When you put barriers between populations, generations are much shorter
 Part 2
-- Non Random mating
+- Non Random mating (INBREEDING)
 	- No change of allele frequency, change in genotype frequency (after 1 generation)
-	- 
+	- Bad alleles tend to be revealed more in inbreeding
+	- Inbreeding depression (differene)
