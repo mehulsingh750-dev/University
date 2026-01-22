@@ -15,4 +15,6 @@
 8. If the nucleus of an isotope (X60) undergoes 4 alpha decay processes, how would its proton number change?
 	- Decrease by 8
 9. If the nucleus of an isotope (X60) undergoes 2 alpha decay processes, how would its mass number change?
-	- Decrease by 4
+	- Decrease by 8
+10. According to the following diagram, the sill is older than the basalt dyke.
+	- True
