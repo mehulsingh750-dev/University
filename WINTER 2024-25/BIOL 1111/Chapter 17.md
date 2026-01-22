@@ -123,4 +123,4 @@ Part 2
 		- Used Hybridization: mating between individuals of two genetically distinct populations
 		- Reduces biodiversity
 	- Genetic Rescue
-		- Increase in population fitne
+		- Increase in population fitness owing to immigration of new alleles
