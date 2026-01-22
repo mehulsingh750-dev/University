@@ -19,3 +19,6 @@
 10. According to the following diagram, the sill is older than the basalt dyke.
 	- True
 11. If a mineral hss 3200 radioactive parent isotopes, how many daughter isotopes will be produced after two half life times
+	- 2400
+12. If the nucleus of an isotope captures four electrons, how would its mass number change?
+13. 
