@@ -4,4 +4,6 @@
 	- True
 3. If an isotope has a half life of 1 million years, what would be the parent to daughter ratio in 200 million years.
 	- 3/1
-4. If a newly formed mineral has 1000 radioactive parent isotopes and zero daughter isotope, what will
+4. If a newly formed mineral has 1000 radioactive parent isotopes and zero daughter isotope, what will the daughter/parent isotope ration be after two half lives?
+	- 3/1
+5. If a newly formed mineral has 2000 radioactive parent isoto
