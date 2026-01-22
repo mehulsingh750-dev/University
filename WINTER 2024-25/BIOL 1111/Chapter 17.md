@@ -122,3 +122,5 @@ Part 2
 	- Florida panthers got stuck in Southern Florida due to urbanization in the north, leading to inbreeding.
 		- Used Hybridization: mating between individuals of two genetically distinct populations
 		- Reduces biodiversity
+	- Genetic Rescue
+		- Increase in population fitne
