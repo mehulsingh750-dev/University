@@ -2,4 +2,5 @@
 	- Increases by 1
 2.  According to the following digram, the granite pluton is older than the fault.
 	- True
-3. If an isotpe has a half life of 1 m
+3. If an isotope has a half life of 1 million years, what would be the parent to daughter ratio in 200 million years.
+	- 3/1
