@@ -116,4 +116,4 @@ Part 2
 - Non Random mating (INBREEDING)
 	- No change of allele frequency, change in genotype frequency (after 1 generation)
 	- Bad alleles tend to be revealed more in inbreeding
-	- Inbreeding depression (differene)
+	- Inbreeding depression (different) is the fitness consequence of inbreeding
