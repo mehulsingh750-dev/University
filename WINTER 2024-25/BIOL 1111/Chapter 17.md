@@ -119,3 +119,5 @@ Part 2
 	- Inbreeding depression (different) is the fitness consequence of inbreeding
 	- Animals and plants evolve mechanisms to avoid interbreeding
 	- In small populations, interbreeding is difficult to avoid
+	- Florida panthers got stuck in outhern Florida due to urbanization in the north, leading to inbreeding.
+		- 
