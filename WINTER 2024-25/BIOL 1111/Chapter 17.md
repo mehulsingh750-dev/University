@@ -117,3 +117,5 @@ Part 2
 	- No change of allele frequency, change in genotype frequency (after 1 generation)
 	- Bad alleles tend to be revealed more in inbreeding
 	- Inbreeding depression (different) is the fitness consequence of inbreeding
+	- Animals and plants evolve mechanisms to avoid interbreeding
+	- In small populations, interbreeding is difficult to 
