@@ -19,3 +19,5 @@ Speciation
 	- Phylogenetic Species Concept
 		- Using both morphological and genetic sequence data,you first reconstruct the evolutionary tree for the organisms of interest  
 		- Then define a phylogenetic species as a cluster of populations that emerge from the same branch
+		- Can be applied to any group of organism and works for asexual species
+		- 
