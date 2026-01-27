@@ -10,4 +10,6 @@
 	- Convergent Boundary
 6. What is the name of the all landmasses, proposed by Alfred Wegener, that were united into a supercontinent about 300 million years ago?
 	- Pangea
-7. 
+7. Which one of the following lists does represent the youngest to oldest magnetic epochs?
+	- Brunhes, Matuyama, Gauss, Gilbert
+8. Earths magnetic poles
