@@ -16,4 +16,6 @@
 	- False
 9. Magnetic Inclination angles vary along the latitude lines
 	- False
-	- 
+10. Magnetic inclination angle measurements indicate that they are highest at the equator.
+	- False
+11. In Seawat
