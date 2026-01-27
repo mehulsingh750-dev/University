@@ -14,3 +14,6 @@
 	- Brunhes, Matuyama, Gauss, Gilbert
 8. Earths magnetic poles regularly reverses every 1.5 million years as documented along mid ocean ridges.
 	- False
+9. Magnetic Inclination angles vary along the latitude lines
+	- False
+	- 
