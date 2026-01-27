@@ -24,4 +24,4 @@
 	- False
 13. Glaciers can be classified as ..... rocks.
 	- Metamorphic
-14. 
+14. Normal magnetic anomalies 
