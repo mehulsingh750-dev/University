@@ -26,6 +26,7 @@
 	- Metamorphic
 14. Normal magnetic anomalies (striped) in oceanic crust are characterized high-intensity magnetism.
 	- True
-15. Reverse magnetic anomalies (stripes) in oceanic crust are characterized 
-	- 
-16. 
+15. Reverse magnetic anomalies (stripes) in oceanic crust are characterized low-intensity magnetism.
+	- True
+16. Magnetic inclination angles are between 10 degrees and 20 degrees in polar regions
+	- False
