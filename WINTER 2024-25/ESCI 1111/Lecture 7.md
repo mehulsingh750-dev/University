@@ -1,1 +1,3 @@
-1. The process where new seafloor is created at mid ocean r
+1. The process where new seafloor is created at mid ocean ridges, moves away from the ridges and then subducts back into the mantle is called...
+	- Sea floor spreading
+2. 
