@@ -7,4 +7,7 @@ Speciation
 	- Morphological Species Concept
 		- All individuals share measurable traits that can distinguish them from others.
 		- Works for fossils or living species
-		- Disadvantages include species
+		- Disadvantages include
+			- The same species look different in size and colour
+			- Does not help distinguish closely related species
+			- Tellus us lit
