@@ -2,4 +2,8 @@
 	- Sea floor spreading
 2. Glaciers have higher O18/O16 ratios than seawater
 	- False
-3.  Does a negative magnetic anomaly fom
+3.  Does a negative magnetic anomaly form when the seafloor rock polarity is the same as the present magnetic field?
+	- No
+4. Who was the first scientist to propose the continental drift hypothesis?
+	- Alfred Wegener
+5.  
