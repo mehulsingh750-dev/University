@@ -10,4 +10,6 @@ Speciation
 		- Disadvantages include
 			- The same species look different in size and colour
 			- Does not help distinguish closely related species
-			- Tellus us little about evolutionary process that produces new species
+			- Tell us us little about evolutionary process that produces new species
+	- Biological Species Concept
+		- 
