@@ -30,4 +30,5 @@ Speciation
 		- Cline = pattern of smooth variation in a trait along a geographic gradient
 - Mechanisms of Genetic Isolation
 	1) Isolate the population
-	2) Divergence in traits
+	2) Divergence in traits such as mating system or habitat use
+	3) Produce reproductive isolation
