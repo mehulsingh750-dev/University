@@ -24,4 +24,5 @@
 	- False
 13. Glaciers can be classified as ..... rocks.
 	- Metamorphic
-14. Normal magnetic anomalies 
+14. Normal magnetic anomalies (striped) in oceanic crust are characterized high-intensity magnetism.
+	- 
