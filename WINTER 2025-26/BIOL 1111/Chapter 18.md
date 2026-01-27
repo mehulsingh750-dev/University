@@ -5,4 +5,4 @@ Speciation
 - Reproductive Isolation: Form a boundary for the spread of alleles
 - Species
 	- Morphological Species Concept
-		- 
+		- All individuls
