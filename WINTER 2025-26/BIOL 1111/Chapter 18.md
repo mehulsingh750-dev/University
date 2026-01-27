@@ -25,3 +25,5 @@ Speciation
 	- Ring Species
 		- ring shaped geographic distribution that surrounds uninhabitable areas
 		- They go around the ring and come back to the original place (second contact)
+	- Clinal Variation
+		- 
