@@ -24,3 +24,4 @@ Speciation
 	- Populations can differ genetically and phenotypically due to geographical separation 
 	- Ring Species
 		- ring shaped geographic distribution that surrounds uninhabitable areas
+		- They go around the ring and come back to the original place (second contact)
