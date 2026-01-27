@@ -18,4 +18,6 @@
 	- False
 10. Magnetic inclination angle measurements indicate that they are highest at the equator.
 	- False
-11. In Seawat
+11. In seawater Studies of the worldwide distribution of plants and animals ratios increase during ice ages.
+	- True
+12. Seawater has lower
