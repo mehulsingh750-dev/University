@@ -18,6 +18,10 @@
 	- False
 10. Magnetic inclination angle measurements indicate that they are highest at the equator.
 	- False
-11. In seawater Studies of the worldwide distribution of plants and animals ratios increase during ice ages.
+11. In seawater O18/016 ratios increase during ice ages.
 	- True
-12. Seawater has lower
+12. Seawater has lower O18/O16 ratios than rainwater.
+	- False
+13. Glaciers can be classified as ..... rocks.
+	- Metamorphic
+14. 
