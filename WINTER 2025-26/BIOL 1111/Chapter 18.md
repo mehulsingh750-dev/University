@@ -26,4 +26,5 @@ Speciation
 		- ring shaped geographic distribution that surrounds uninhabitable areas
 		- They go around the ring and come back to the original place (second contact)
 	- Clinal Variation
-		- 
+		- When species distributed over large environmentally diverse area, some traits exhibit a cline  
+		- Cline = pattern of smooth variation in a trait along a geographic gradient
