@@ -1,4 +1,3 @@
-- Evolution
 	- Changes in alleles over time (generations)
 		- Natural selection
 		- Mutation 
