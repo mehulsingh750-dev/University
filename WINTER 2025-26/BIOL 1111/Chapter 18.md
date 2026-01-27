@@ -28,5 +28,6 @@ Speciation
 	- Clinal Variation
 		- When species distributed over large environmentally diverse area, some traits exhibit a cline  
 		- Cline = pattern of smooth variation in a trait along a geographic gradient
-- Mechanisms of Genetic Isolaiton
-	- 
+- Mechanisms of Genetic Isolation
+	1) Isolate the population
+	2) Divergence in traits
