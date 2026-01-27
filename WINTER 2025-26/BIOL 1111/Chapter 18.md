@@ -22,3 +22,5 @@ Speciation
 		- Can be applied to any group of organism and works for asexual species
 - Geographical Variation
 	- Populations can differ genetically and phenotypically due to geographical separation 
+	- Ring Species
+		- ring shaped geographic distribution that surrounds uninhabitable areas
