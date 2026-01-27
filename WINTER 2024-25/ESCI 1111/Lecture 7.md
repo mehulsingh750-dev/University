@@ -12,4 +12,5 @@
 	- Pangea
 7. Which one of the following lists does represent the youngest to oldest magnetic epochs?
 	- Brunhes, Matuyama, Gauss, Gilbert
-8. Earths magnetic poles
+8. Earths magnetic poles regularly reverses every 1.5 million years as documented along mid ocean ridges.
+	- False
