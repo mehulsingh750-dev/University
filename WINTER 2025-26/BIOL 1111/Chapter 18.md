@@ -12,4 +12,6 @@ Speciation
 			- Does not help distinguish closely related species
 			- Tell us us little about evolutionary process that produces new species
 	- Biological Species Concept
-		- 
+		- Groups of interbreeding natural populations that are reproductively isolated from (do not produce fertile offspring with) other such groups
+		- Disadvantages include
+			- 
