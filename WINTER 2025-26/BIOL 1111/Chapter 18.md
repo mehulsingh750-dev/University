@@ -5,4 +5,6 @@ Speciation
 - Reproductive Isolation: Form a boundary for the spread of alleles
 - Species
 	- Morphological Species Concept
-		- All individuls
+		- All individuals share measurable traits that can distinguish them from others.
+		- Works for fossils or living species
+		- Disadvantages include species
