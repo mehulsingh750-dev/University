@@ -7,4 +7,7 @@
 4. Who was the first scientist to propose the continental drift hypothesis?
 	- Alfred Wegener
 5.  The plate boundary between the Andes and the Pacific Ocean is an example of....
-	- Convergent Boundary6
+	- Convergent Boundary
+6. What is the name of the all landmasses, proposed by Alfred Wegener, that were united into a supercontinent about 300 million years ago?
+	- Pangea
+7. 
