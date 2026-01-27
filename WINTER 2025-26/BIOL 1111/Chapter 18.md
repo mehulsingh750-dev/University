@@ -10,4 +10,4 @@ Speciation
 		- Disadvantages include
 			- The same species look different in size and colour
 			- Does not help distinguish closely related species
-			- Tellus us lit
+			- Tellus us little about evolutionary process that produces new species
