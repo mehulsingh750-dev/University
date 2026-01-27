@@ -17,4 +17,5 @@ Speciation
 		- Disadvantages include
 			- Cannot be used for asexual and extinct organisms
 	- Phylogenetic Species Concept
-		- 
+		- Using both morphological and genetic sequence data,you first reconstruct the evolutionary tree for the organisms of interest  
+		- Then define a phylogenetic species as a cluster of populations that emerge from the same branch
