@@ -14,4 +14,7 @@
 	- False (Divergent)
 8. Oceanic Crust is consumed at divergent plate boundaries.
 	- False
-9. Oceanic ridges are t
+9. Oceanic ridges are typically characterized by normal faults.
+	- True
+10. Convergent margins are typically characterized by reverse faults.
+- 
