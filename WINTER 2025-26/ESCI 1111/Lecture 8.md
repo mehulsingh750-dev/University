@@ -24,4 +24,6 @@
 	- False
 13. Oceanic crust consists mainly of....
 	- Basalt and Gabbro
-14. 
+14. Mid-Ocean ridges are produced by compressional tectonic stress
+	- False
+15. A fault on which the hanging wall block 
