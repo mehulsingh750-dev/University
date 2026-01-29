@@ -17,4 +17,6 @@
 9. Oceanic ridges are typically characterized by normal faults.
 	- True
 10. Convergent margins are typically characterized by reverse faults.
-- 
+	- True
+11. A fault on which the hanging wall block has moved down relative to the footwall block is....
+	- 
