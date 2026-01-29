@@ -8,4 +8,6 @@
 	- Northeast
 5. What kind of transform fault is shown in the following diagram?
 	- Left Lateral
-6. 
+6. The youngest oceanic crust is found...
+	- Near the mid-ocean ridges
+7. Iceland is located at a 
