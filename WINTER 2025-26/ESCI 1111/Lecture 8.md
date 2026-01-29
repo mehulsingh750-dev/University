@@ -28,4 +28,5 @@
 	- False
 15. A fault on which the hanging wall block has moved up relative tor the footwall block is...
 	- Thrust Fault
-16. If a sedimentary layer has a northeast dip direction, 
+16. If a sedimentary layer has a northeast dip direction, its strike direction would be...
+	- Northwest
