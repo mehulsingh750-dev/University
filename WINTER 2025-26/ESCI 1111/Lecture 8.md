@@ -10,4 +10,8 @@
 	- Left Lateral
 6. The youngest oceanic crust is found...
 	- Near the mid-ocean ridges
-7. Iceland is located at a 
+7. Iceland is located at a convergent plate margin.
+	- False (Divergent)
+8. Oceanic Crust is consumed at divergent plate boundaries.
+	- False
+9. Oceanic ridges are t
