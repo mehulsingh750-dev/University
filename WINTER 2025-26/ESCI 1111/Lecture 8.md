@@ -26,4 +26,6 @@
 	- Basalt and Gabbro
 14. Mid-Ocean ridges are produced by compressional tectonic stress
 	- False
-15. A fault on which the hanging wall block 
+15. A fault on which the hanging wall block has moved up relative tor the footwall block is...
+	- Thrust Fault
+16. If a sedimentary layer has a northeast dip direction, 
