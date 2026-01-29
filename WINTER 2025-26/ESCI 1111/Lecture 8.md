@@ -2,4 +2,6 @@
 	- North East
 2. What kind of fault is shown in the following photograph?
 	- Normal Fault
-3. 
+3. If a sedimentary layer has a northeast strike direction, its dip direction would be...
+	- Southeast
+4. 
