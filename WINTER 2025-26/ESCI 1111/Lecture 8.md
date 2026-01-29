@@ -1,1 +1,3 @@
-1. If a sedimentary layer has a northwest strike direction, its dip direction would be 
+1. If a sedimentary layer has a northwest strike direction, its dip direction would be.....
+	- North East
+2. 
