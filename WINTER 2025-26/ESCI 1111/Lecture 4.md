@@ -20,7 +20,7 @@
 	- Olivine
 11. Which pair of the following chemical formulas does represent albite and anorthite plagioclase?
 	- NaAlSi3O8 and CaAl2Si2O8
-12. Chondrites are the oldest known ricks in the solar system.
+12. Chondrites are the oldest known rocks in the solar system.
 	- True
 13. Calcite is a ferromagnesian silicate mineral.
 	- False
