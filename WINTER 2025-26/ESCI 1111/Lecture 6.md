@@ -1,4 +1,4 @@
-1. C14 isotope turns into N14 isotope by bet decay, how does this decay affect the proton number?
+1. C14 isotope turns into N14 isotope by beta decay, how does this decay affect the proton number?
 	- Increases by 1
 2.  According to the following digram, the granite pluton is older than the fault.
 	- True
