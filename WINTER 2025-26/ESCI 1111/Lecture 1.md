@@ -18,5 +18,5 @@
 	- Lithosphere
 - 5. The moon formed due to a protoplanet colliding wit earth about 4.5 million years ago
 	- False (4.5 billion years)
-- 6. Lithospheric plates colliude along divergent plate boundaries.
+- 6. Lithospheric plates collide along divergent plate boundaries.
 	- False (convergent plate)
