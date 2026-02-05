@@ -23,7 +23,7 @@
 12. If the nucleus of an isotope captures four electrons, how would its mass number change?
 	- No change
 13. If the nucleus of an isotope captures five electrons, how would its proton number change?
-	- Decrease 5
+	- Dese 5crea
 14. According to the following digram, the fault is older than the basalt dyke
 	- True
 15. If an isotope with a mass number of 92 undergoes 3 alpha decay processes, its new mass number would be....
