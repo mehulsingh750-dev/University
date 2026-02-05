@@ -24,7 +24,7 @@
 	- No change
 13. If the nucleus of an isotope captures five electrons, how would its proton number change?
 	- Decrease by 5
-14. According to the following digram, the fault is older than the basalt dyke
+14. According to the following diagram, the fault is older than the basalt dyke
 	- True
 15. If an isotope with a mass number of 92 undergoes 3 alpha decay processes, its new mass number would be....
 	- 80
