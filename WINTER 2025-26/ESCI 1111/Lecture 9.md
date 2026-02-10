@@ -14,4 +14,5 @@
 	- False
 8. Chemical weathering of plagioclase results in the formations of iron oxides and hydroxide.
 	- False
-9
+9. Chemical weathering of olivine and pyroxene results on formations of limonite and clay.
+	- 
