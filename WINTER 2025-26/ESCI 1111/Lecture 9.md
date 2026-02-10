@@ -18,4 +18,8 @@
 	- True
 10. What kind of sediment is being deposited in the white area below?
 	- Chemical
-11. Extensive weathering of quartz (SiO2) 
+11. Extensive weathering of quartz (SiO2) under hydrous conditions results in the formations of silica rich clays.
+	- False
+12. Horst structures are the depression on which clastic and chemical sedimentary rocks are deposited.
+	- False
+13. 
