@@ -22,4 +22,6 @@
 	- False
 12. Horst structures are the depression on which clastic and chemical sedimentary rocks are deposited.
 	- False
-13. 
+13. What kind of weathering is shown below?
+	- Freeze and thaw
+14. 
