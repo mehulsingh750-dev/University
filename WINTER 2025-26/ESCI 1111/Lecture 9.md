@@ -26,4 +26,8 @@
 	- Freeze and thaw
 14. What kind of sediment is shown below.
 	- Clastic
-15. Olivine is more stable than quartz during weathering
+15. Olivine is more stable than quartz during weathering.
+	- False
+16. Grabens are thrust fault-bounded extensional structures as seen in the basin and range province.
+	- False
+17. 
