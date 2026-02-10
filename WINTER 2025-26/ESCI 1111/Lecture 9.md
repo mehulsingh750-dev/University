@@ -2,4 +2,6 @@
 	- Chemical and hydrolysis
 2. What kind of sediment is shown below?
 	- Terrigenous
-3. 
+3. What kind of sediment is shown below?
+	- Clastic
+4. 
