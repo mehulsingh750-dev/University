@@ -24,4 +24,6 @@
 	- False
 13. What kind of weathering is shown below?
 	- Freeze and thaw
-14. 
+14. What kind of sediment is shown below.
+	- Clastic
+15. Olivine is more stable than quartz during weathering
