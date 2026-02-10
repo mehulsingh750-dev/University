@@ -6,4 +6,4 @@
 	- Clastic
 4. Peridotite would be more stable than granodiorite during chemical weathering
 	- False
-5. 
+5. The basin and range is formed by extensional t
