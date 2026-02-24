@@ -1,5 +1,7 @@
 - midterm 2: 
 	- ch. 19,26,27
 	- Starfish video
-	- Reading
-- Salmon fertizlize the plants alon
+	- Reading - Hocking and Reynolds
+- Salmon fertilize the plants along rivers
+	- Creates diversity
+- 
