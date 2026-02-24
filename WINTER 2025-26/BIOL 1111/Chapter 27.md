@@ -8,5 +8,8 @@
 - Primary consumers eat primary producers and secondary consumers eat primary consumers
 	- Secondary consumers>Primary consumers > Primary producers
 - Symbiosis
-	- Occurs two species are ecologically asociated with eachother
-- Paras
+	- Occurs two species are ecologically associated with each other
+- Parasitism
+	- One organism thrives at the cost of another +/-
+	- Endoparasties live within host
+	- 
