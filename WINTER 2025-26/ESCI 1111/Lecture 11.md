@@ -20,4 +20,6 @@
 	- Angular unconformity
 11. Petroleum is found typically in ..... rocks.
 	- Sedimentary rocks
-12. 
+12. What is the typical source rock type for oil and natural gas?
+	- Shale
+13. A sequence of sedimentary rocks consistinf of , from bottom to top
