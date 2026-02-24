@@ -8,4 +8,6 @@
 	- Disconformity
 5. Chalk is made of accumulated shells of diatoms.
 	- False
-6. Chert consists of microscopic skeletons with a C
+6. Chert consists of microscopic skeletons with a CaCO3 composition.
+	- False
+7. 
