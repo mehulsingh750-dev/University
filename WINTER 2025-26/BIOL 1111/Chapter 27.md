@@ -11,5 +11,8 @@
 	- Occurs two species are ecologically associated with each other
 - Parasitism
 	- One organism thrives at the cost of another +/-
-	- Endoparasties live within host
+	- Endoparasites live within host
+	- Ectoparasites live on exterior of host
+	- Parasitoids between true parasitism and predation
+- Commensalism
 	- 
