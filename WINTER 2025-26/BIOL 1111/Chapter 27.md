@@ -1,1 +1,4 @@
-- midterm 2: ch. 19,26,27
+- midterm 2: 
+	- ch. 19,26,27
+	- Starfish video
+	- Reading
