@@ -10,4 +10,7 @@
 	- True
 6. Conglomerates product of high energy.
 	- True
-7. What type o
+7. What type of rocks: little rocks wiht lines between. 
+- Conglomerates
+1. When Windsor salt desposited
+- 
