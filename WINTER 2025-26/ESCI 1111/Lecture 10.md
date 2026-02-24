@@ -12,6 +12,9 @@
 	- True
 7. What type of rocks: little rocks wiht lines between. 
 - Conglomerates
-1. When Windsor salt desposited
+8. When Windsor salt desposited
 - 430 mil. yeasr ago
-1. What tyoe of sedimentra
+9. What tyoe of sedimentary rocks: rigged fragments
+- Clastic
+1. Types of sedimentary rocks?: tubes
+- 
