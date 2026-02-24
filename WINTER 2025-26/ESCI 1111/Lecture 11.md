@@ -14,4 +14,6 @@
 	- Disconformity
 8. An unconformity between a granite intrusion and a sandstone layer is called
 	- Nonconformity
-9. 
+9. What type of unconformity is shown in the photograph below.
+	- Nonconformity
+10. 
