@@ -13,4 +13,5 @@
 7. What type of rocks: little rocks wiht lines between. 
 - Conglomerates
 1. When Windsor salt desposited
-- 
+- 430 mil. yeasr ago
+1. What tyoe of sedimentra
