@@ -2,3 +2,4 @@
 	- ch. 19,26,27
 	- Starfish video
 	- Reading
+- Salmon fertizlize the plants alon
