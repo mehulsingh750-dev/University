@@ -18,4 +18,6 @@
 	- Nonconformity
 10. What type of unconformity is shown in the photograph below.
 	- Angular unconformity
-11. 
+11. Petroleum is found typically in ..... rocks.
+	- Sedimentary rocks
+12. 
