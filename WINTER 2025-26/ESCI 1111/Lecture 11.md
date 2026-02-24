@@ -26,4 +26,6 @@
 	- True
 14. Deposition of sedimentary rocks in the Blake plateau began in the...
 	- Late jurassic 
-15. The opening of the central atlant
+15. The opening of the central Atlantic ocean started in the....
+	- Late jurassic
+16. What type of unconformity is shown in the photograph below 
