@@ -16,16 +16,17 @@
 - 430 mil. yeasr ago
 9. What tyoe of sedimentary rocks: rigged fragments
 - Clastic
-1. Types of sedimentary rocks?: tubes
+10. Types of sedimentary rocks?: tubes
 - Biogenic
-1. What type of seimentary rocks: with gypsum 
+1. What type of sedimentary rocks: with gypsum 
 - Chemical
-1. What type of sedimentary rocks shown: big fans
+12. What type of sedimentary rocks shown: big fans
 - Alluvial fans
-1. What env. are sandstones desposited
+13. What env. are sandstones desposited
 - Subarieal 
-1. Glaical Sediments are less rounded than rivers
+14. Glaical Sediments are less rounded than rivers
 - True
-1. Sand dunes are more mature than glaciers
+15. Sand dunes are more mature than glaciers
 - True
-1. High Energy Sediment: wit
+16. High Energy Sediment: with very rounded rocks
+- True
