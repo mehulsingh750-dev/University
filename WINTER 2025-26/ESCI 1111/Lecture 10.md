@@ -4,4 +4,6 @@
 	- False
 3. Sorting defines selection of same type.
 	- False
-4. 
+4. Mature sandstone has well rounded ground edges.
+	- True
+5. Rounded sediment grains are a 
