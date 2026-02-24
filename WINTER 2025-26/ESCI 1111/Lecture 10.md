@@ -17,4 +17,6 @@
 9. What tyoe of sedimentary rocks: rigged fragments
 - Clastic
 1. Types of sedimentary rocks?: tubes
-- 
+- Biogenic
+1. What type of seimentary rocks: with gypsum 
+- Ch
