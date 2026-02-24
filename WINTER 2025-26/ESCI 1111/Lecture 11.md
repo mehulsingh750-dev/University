@@ -22,4 +22,5 @@
 	- Sedimentary rocks
 12. What is the typical source rock type for oil and natural gas?
 	- Shale
-13. A sequence of sedimentary rocks consistinf of , from bottom to top
+13. A sequence of sedimentary rocks consistinf of , from bottom to top, conglomerate, sandstone, shale and limestone, indicate a deepening depositional environment.
+	- True
