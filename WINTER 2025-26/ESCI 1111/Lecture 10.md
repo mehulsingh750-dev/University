@@ -10,11 +10,11 @@
 	- True
 6. Conglomerates product of high energy.
 	- True
-7. What type of rocks: little rocks wiht lines between. 
+7. What type of rocks: little rocks with lines between. 
 - Conglomerates
-8. When Windsor salt desposited
-- 430 mil. yeasr ago
-9. What tyoe of sedimentary rocks: rigged fragments
+1. When Windsor salt deposited
+- 430 mil. years ago
+1. What type of sedimentary rocks: rigged fragments
 - Clastic
 10. Types of sedimentary rocks?: tubes
 - Biogenic
@@ -22,9 +22,9 @@
 - Chemical
 12. What type of sedimentary rocks shown: big fans
 - Alluvial fans
-13. What env. are sandstones desposited
+1. What env. are sandstones deposited
 - Subarieal 
-14. Glaical Sediments are less rounded than rivers
+1. Glacial Sediments are less rounded than rivers
 - True
 15. Sand dunes are more mature than glaciers
 - True
