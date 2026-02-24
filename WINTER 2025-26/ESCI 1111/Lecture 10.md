@@ -19,4 +19,7 @@
 1. Types of sedimentary rocks?: tubes
 - Biogenic
 1. What type of seimentary rocks: with gypsum 
-- Ch
+- Chemical
+1. What type of sedimentary rocks shown: big fans
+- Alluvial fans
+1. What env. are 
