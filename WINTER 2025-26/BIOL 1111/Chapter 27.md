@@ -7,3 +7,4 @@
 - In most communities, photosynthetic autotrophs are the primary producers of energy/oxygen
 - Primary consumers eat primary producers and secondary consumers eat primary consumers
 	- Secondary consumers>Primary consumers > Primary producers
+- 
