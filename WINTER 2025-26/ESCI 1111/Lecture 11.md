@@ -10,4 +10,6 @@
 	- False
 6. Chert consists of microscopic skeletons with a CaCO3 composition.
 	- False
-7. 
+7. An unconformity between parallel sandstone and limestone is called.
+	- Disconformity
+8. 
