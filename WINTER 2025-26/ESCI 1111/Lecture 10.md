@@ -6,4 +6,6 @@
 	- False
 4. Mature sandstone has well rounded ground edges.
 	- True
-5. Rounded sediment grains are a product of high ene
+5. Rounded sediment grains are a product of high energy.
+	- True
+6. 
