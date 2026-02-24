@@ -22,4 +22,8 @@
 - Chemical
 1. What type of sedimentary rocks shown: big fans
 - Alluvial fans
-1. What env. are 
+1. What env. are sandstones desposited
+- Subarieal 
+1. Glaical Sediments are less rounded than rivers
+- True
+-
