@@ -24,3 +24,6 @@
 	- Shale
 13. A sequence of sedimentary rocks consistinf of , from bottom to top, conglomerate, sandstone, shale and limestone, indicate a deepening depositional environment.
 	- True
+14. Deposition of sedimentary rocks in the Blake plateau began in the...
+	- Late jurassic 
+15. The opening of the central atlant
