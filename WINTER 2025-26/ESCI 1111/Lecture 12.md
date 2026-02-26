@@ -22,5 +22,7 @@
 	- False
 12. Greenschist facies rocks form under lower metamorphic grade conditions than amphibolite facies rocks.
 	- True
-13. Which of the following series of rocks do represent the expected oath during lowe to high grade progressive metamorphism of shale in a reegional metamorhpic setting.
-	- 
+13. Which of the following series of rocks do represent the expected path during low to high grade progressive metamorphism of shale in a regional metamorhpic setting.
+	- Slate
+14. In a foliated roc platy minerals are aligned perpendicular to ... stess
+1- 
