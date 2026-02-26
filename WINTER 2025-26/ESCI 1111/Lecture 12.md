@@ -16,4 +16,7 @@
 	- False
 9. Limestone turns into schist during regional metamorphism.
 	- False
-10. 
+10. Blueschist is a characteristic of high P/T subduction zone metamorphism.
+	- True
+11. Eclogite facies rocks form under lower metamorphic grade conditions than amphibolite facies rocks.
+12
