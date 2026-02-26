@@ -12,4 +12,8 @@
 	- Northwest and Southeast
 7. (Same as 5) North arrow is up through diagonal lines going left
 	- Northeast and Southwest
-8. Mudstone turns into marble during cont
+8. Mudstone turns into marble during contact metamorphism
+	- False
+9. Limestone turns into schist during regional metamorphism.
+	- False
+10. 
