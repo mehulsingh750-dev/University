@@ -19,4 +19,6 @@
 10. Blueschist is a characteristic of high P/T subduction zone metamorphism.
 	- True
 11. Eclogite facies rocks form under lower metamorphic grade conditions than amphibolite facies rocks.
-12
+	- False
+12. Greenschist facies rocks form under lower metamorphic grade conditions than amphibolite facies rocks.
+	- 
