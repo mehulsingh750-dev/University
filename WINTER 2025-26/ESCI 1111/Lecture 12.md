@@ -4,4 +4,6 @@
 	- Marble
 3. What type of rock is shown below. (black and grey)
 	- Migmatite
-4. 
+4. When did the Taconic orogeny happen.
+	- In the ordovician
+5. the lines in the following graph represent the traces of vertical foliation in a horizontal plane,. 
