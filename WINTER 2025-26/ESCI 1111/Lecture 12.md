@@ -21,4 +21,6 @@
 11. Eclogite facies rocks form under lower metamorphic grade conditions than amphibolite facies rocks.
 	- False
 12. Greenschist facies rocks form under lower metamorphic grade conditions than amphibolite facies rocks.
+	- True
+13. Which of the following series of rocks do represent the expected oath during lowe to high grade progressive metamorphism of shale in a reegional metamorhpic setting.
 	- 
