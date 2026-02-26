@@ -25,6 +25,6 @@
 13. Which of the following series of rocks do represent the expected path during low to high grade progressive metamorphism of shale in a regional metamorhpic setting.
 	- Slate
 14. In a foliated roc platy minerals are aligned perpendicular to ... stess
-	- Omega 1 maximum principle
+	- Sigma 1 maximum principle
 15. Foliation develops in a plane that is...
-	- P
+	- Parallel to sigma 1 and Sigma 2
