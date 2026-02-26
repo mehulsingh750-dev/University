@@ -8,6 +8,8 @@
 	- In the ordovician
 5. the lines in the following graph represent the traces of vertical foliation in a horizontal plane. What would be the direct of omega 1 based on the north arrow below. (Up)
 	- East-west
-6. (Same as 5) North arrow is up thorugh diagonal lines
+6. (Same as 5) North arrow is up through diagonal lines going right
 	- Northwest and Southeast
-7. 
+7. (Same as 5) North arrow is up through diagonal lines going left
+	- Northeast and Southwest
+8. Mudstone turns into marble during cont
