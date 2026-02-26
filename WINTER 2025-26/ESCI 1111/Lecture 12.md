@@ -6,4 +6,6 @@
 	- Migmatite
 4. When did the Taconic orogeny happen.
 	- In the ordovician
-5. the lines in the following graph represent the traces of vertical foliation in a horizontal plane,. 
+5. the lines in the following graph represent the traces of vertical foliation in a horizontal plane. What would be the direct of omega 1 based on the north arrow below. (Up)
+	- East-west
+6. Same
