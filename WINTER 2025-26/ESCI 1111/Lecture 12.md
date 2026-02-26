@@ -8,4 +8,6 @@
 	- In the ordovician
 5. the lines in the following graph represent the traces of vertical foliation in a horizontal plane. What would be the direct of omega 1 based on the north arrow below. (Up)
 	- East-west
-6. Same
+6. (Same as 5) North arrow is up thorugh diagonal lines
+	- Northwest and Southeast
+7. 
