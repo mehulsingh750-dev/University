@@ -16,4 +16,6 @@
 	- Desert
 9. What would the wind direction be when the direction of the crests of asymmetrical sand dunes point diagonally upright?
 	- Northwest
-10. 
+10. (Same as 9 but with diagonally left ridges)
+	- Southwest
+11. 
