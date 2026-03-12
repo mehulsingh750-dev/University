@@ -6,4 +6,6 @@
 	- Left to right
 4. The largest known mass extinction in the Earths history took lace at the end of the ... period.
 	- Permian
-5.  The second known mass extinction in the 
+5.  The second known mass extinction in the Earths history took place at the end of the .... period.
+	- Devonian
+6. What term best describes the sun total of all physical, chemcial and biological chnages that occur to a sedimen
