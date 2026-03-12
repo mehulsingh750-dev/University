@@ -14,4 +14,6 @@
 	- Glaciers
 8. Sand dunes are characteristics of ... deposits.
 	- Desert
-9. What would the wind direction be 
+9. What would the wind direction be when the direction of the crests of asymmetrical sand dunes point diagonally upright?
+	- Northwest
+10. 
