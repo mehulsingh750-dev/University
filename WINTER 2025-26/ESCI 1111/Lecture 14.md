@@ -4,4 +4,6 @@
 	- Right to left
 3. What direction are the sand dunes migrating (Shade on right side)
 	- Left to right
-4. 
+4. The largest known mass extinction in the Earths history took lace at the end of the ... period.
+	- Permian
+5.  The second known mass extinction in the 
