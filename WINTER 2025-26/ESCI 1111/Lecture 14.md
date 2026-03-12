@@ -12,4 +12,6 @@
 	- Diagenesis
 7. Varves are characteristic of .... deposits.
 	- Glaciers
-8. 
+8. Sand dunes are characteristics of ... deposits.
+	- Desert
+9. What would the wind direction be 
