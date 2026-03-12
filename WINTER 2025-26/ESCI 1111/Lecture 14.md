@@ -8,4 +8,8 @@
 	- Permian
 5.  The second known mass extinction in the Earths history took place at the end of the .... period.
 	- Devonian
-6. What term best describes the sun total of all physical, chemcial and biological chnages that occur to a sedimen
+6. What term best describes the sun total of all physical, chemical and biological changes that occur to a sediment after it is deposited.
+	- Diagenesis
+7. Varves are characteristic of .... deposits.
+	- Glaciers
+8. 
