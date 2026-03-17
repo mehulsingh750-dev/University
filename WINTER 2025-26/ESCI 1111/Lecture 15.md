@@ -20,4 +20,5 @@
 	- Pyroclastic
 11. Volcanic structures are typically produced by andesitic lavas. (True or False)
 	- False
-12. HIgher eruption temps in basalts lead to 
+12. Higher eruption temps in basalts lead to higher viscosity than that in andesites with lower eruption temps. (True or False)
+	- False
