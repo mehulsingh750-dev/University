@@ -4,4 +4,7 @@
 	- Plagioclase and amphibole
 3. What are the two most abundant minerals in dacite?
 	- Quartz and K-feldspar
-4. Which one of the following 
+4. Which one of the following has the highest Ca and Fe contents?
+	- Basalt
+5. Which one of the following rocks has the highest Si content?
+	- 
