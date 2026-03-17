@@ -11,4 +11,7 @@
 6. Which one of the following rocks has the highest K content?
 	- Rhyolite
 7. Eruption temps decrease from.... through..... to......lavas.
-	- 
+	- Basaltic, andesitic, rhyolite
+8. Viscosity increases from the lowest to the highest in the order of...
+	- Basalt, andesite, rhyolite
+9. Vis
