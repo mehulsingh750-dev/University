@@ -16,4 +16,6 @@
 	- Basalt, andesite, rhyolite
 9. Viscosity decreases from the highest to the lowest in the order of....
 	- Dacite, andesite, basalt
-10.  Igneous r
+10.  Igneous rocks formed by explosive volcanic activity have a texture that is termed...
+	- Pyroclastic
+11. Volcanic structures are ttp
