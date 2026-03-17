@@ -18,4 +18,6 @@
 	- Dacite, andesite, basalt
 10.  Igneous rocks formed by explosive volcanic activity have a texture that is termed...
 	- Pyroclastic
-11. Volcanic structures are ttp
+11. Volcanic structures are typically produced by andesitic lavas. (True or False)
+	- False
+12. HIgher eruption temps in basalts lead to 
