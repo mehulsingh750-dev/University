@@ -10,4 +10,5 @@
 	- Rhyolite
 6. Which one of the following rocks has the highest K content?
 	- Rhyolite
-7. 
+7. Eruption temps decrease from.... through..... to......lavas.
+	- 
