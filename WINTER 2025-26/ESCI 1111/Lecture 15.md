@@ -7,4 +7,7 @@
 4. Which one of the following has the highest Ca and Fe contents?
 	- Basalt
 5. Which one of the following rocks has the highest Si content?
-	- 
+	- Rhyolite
+6. Which one of the following rocks has the highest K content?
+	- Rhyolite
+7. 
