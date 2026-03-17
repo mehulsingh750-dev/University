@@ -14,4 +14,6 @@
 	- Basaltic, andesitic, rhyolite
 8. Viscosity increases from the lowest to the highest in the order of...
 	- Basalt, andesite, rhyolite
-9. Vis
+9. Viscosity decreases from the highest to the lowest in the order of....
+	- Dacite, andesite, basalt
+10.  Igneous r
