@@ -12,4 +12,8 @@
 	- Oxygen
 7. The Earth was formed by the accretion of iron and stony iron meteorites.
 	- False
-8. The fourth most abundant element in the universe
+8. The fourth most abundant element in the universe is....
+	- C
+9. The two most abundant element in the universe are..
+	- Hydrogen and Helium
+10. Chondrites represent tmost primiti
