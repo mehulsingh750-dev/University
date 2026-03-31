@@ -16,4 +16,8 @@
 	- C
 9. The two most abundant element in the universe are..
 	- Hydrogen and Helium
-10. Chondrites represent tmost primiti
+10. Chondrites represent most primitive differentiated objects in the Solar System.
+	- False
+11. The Sudbury impact structure was formed in the....
+	- Proterozoic
+12. 
