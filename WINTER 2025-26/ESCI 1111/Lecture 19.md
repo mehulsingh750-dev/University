@@ -20,4 +20,5 @@
 	- False
 11. The Sudbury impact structure was formed in the....
 	- Proterozoic
-12. 
+12. The Chicxulub crater in the Yucutan peninsula, Mexico, was formed in the...
+	- Late Cretaceous.
