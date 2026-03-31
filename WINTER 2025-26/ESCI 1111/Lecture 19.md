@@ -10,4 +10,6 @@
 	- False
 6. The third most abundant element in the universe is..
 	- Oxygen
-7. The Earth was formed buy t
+7. The Earth was formed by the accretion of iron and stony iron meteorites.
+	- False
+8. The fourth most abundant element in the universe
