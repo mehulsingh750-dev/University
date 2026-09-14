@@ -5,6 +5,7 @@
 		- inherited from Great Britain
 	- Written
 		- Entrenched Constitutional law
+			- Constitution act of 1867 and 1982
 		- Un-entrenched Constitutional law
 		- Judicial Decisions
 	- Unwritten
