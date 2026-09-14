@@ -1,7 +1,7 @@
 - Types of Constitutional Rules
-	- Great Britains constitution is unwritten, USA is written
+	- Great Britains constitution is unwritten, USA is written because they wanted to establish federalism (states have different rights)
 	- Canada has both, we have parliamentary democracy
-		- inherited from great britain
+		- inherited from Great Britain
 	- Written
 		- Entrenched Constitutional law
 		- Un-entrenched Constitutional law
