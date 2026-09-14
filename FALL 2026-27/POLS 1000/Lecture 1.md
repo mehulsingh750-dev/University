@@ -58,4 +58,6 @@
 		- Parliamentary Democracy
 			- 3 components
 				- Crown
-				- House 
+				- House of Commons
+				- Senate
+			-  'Fusion of power'
