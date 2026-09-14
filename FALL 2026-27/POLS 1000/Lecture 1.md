@@ -33,3 +33,6 @@
 		- Domestic Amending Formulae (ss. 38-48)  
 		- Natural Resource Amendment (s.92(A))
 			- Can fully control natural resources
+- Constitutional Conventions
+	- Equally important, but not legally forceable
+	- Provides flexability 
