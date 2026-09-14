@@ -62,4 +62,4 @@
 				- Senate
 			-  'Fusion of power'
 			- When voting, you elect a local candidate from a party of your choosing, not the actual Prime Minister
-			- Prime Minister represents the 
+			- Prime Minister represents the executive branch but also has a seat in the legislative branch
