@@ -24,4 +24,5 @@
 		- Adopted the Westminster system partially from Great Britain
 	- The Constitution Act, 1982
 		- Pre 1982, the Canadians had to ask Great Britain to amend parts of their constitution
-		- had to bring the BNA act to Canada so canada could amend  domestically
+		- Had to bring the BNA act to Canada so Canada could amend domestically
+		- 
