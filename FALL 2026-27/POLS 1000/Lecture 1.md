@@ -25,4 +25,8 @@
 	- The Constitution Act, 1982
 		- Pre 1982, the Canadians had to ask Great Britain to amend parts of their constitution
 		- Had to bring the BNA act to Canada so Canada could amend domestically
-		- 
+		- Charter of Rights and Freedoms (ss.1-34)  
+		- Aboriginal Rights (s. 35)  
+		- Equalization Payments (s.36)  
+		- Domestic Amending Formulae (ss. 38-48)  
+		- Natural Resource Amendment (s.92(A))
