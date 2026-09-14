@@ -6,8 +6,10 @@
 	- Written
 		- Entrenched Constitutional law
 			- Constitution act of 1867 and 1982
-			- Entrenched - cannot be easily changed, need super majority (50%)
+			- Entrenched - cannot be easily changed, need super majority (greater than 50%)
 		- Un-entrenched Constitutional law
+			- Have constitutional status 
+			- 
 		- Judicial Decisions
 	- Unwritten
 		- Conventions that develop over time
