@@ -61,3 +61,5 @@
 				- House of Commons
 				- Senate
 			-  'Fusion of power'
+			- When voting, you elect a local candidate from a party of your choosing, not the actual Prime Minister
+			- 
