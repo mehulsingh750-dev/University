@@ -67,4 +67,4 @@
 			- A government retains office so long as it has the confidence of the House of Commons (i.e. supported by a majority in Parliament).
 			- When we have a minority government, the other parties make up more seats than them but they still have 1 or 2 other parties supporting them.
 		- Representative Institutions
-			- 
+			-   S.3 of the Canadian Charter of Rights and Freedoms provides for the right to vote and run in elections, and s.4 provides for regular elections.
