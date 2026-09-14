@@ -29,6 +29,7 @@
 		- Aboriginal Rights (s. 35)  
 		- Equalization Payments (s.36) 
 			- No matter what province you come from you deserve rights to the same services
-			- 
+			- All the wealth spread out between provinces
 		- Domestic Amending Formulae (ss. 38-48)  
 		- Natural Resource Amendment (s.92(A))
+			- Can fully control natural resources
