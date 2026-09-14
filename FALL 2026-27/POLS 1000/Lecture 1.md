@@ -41,4 +41,5 @@
 	- Important conventions:
 		- Office and appointment of the Prime Minister
 		- Defeat of a Government
-			- When they lose the c
+			- When they lose the confidence of the house
+	- 
