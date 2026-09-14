@@ -35,4 +35,6 @@
 			- Can fully control natural resources
 - Constitutional Conventions
 	- Equally important, but not legally forceable
-	- Provides flexability 
+	- Provides flexibility 
+	- Important conventions:
+		- 
