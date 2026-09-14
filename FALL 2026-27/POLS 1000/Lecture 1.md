@@ -9,7 +9,7 @@
 			- Entrenched - cannot be easily changed, need super majority (greater than 50%)
 		- Un-entrenched Constitutional law
 			- Have constitutional status 
-			- 
+			- Right to vote is entrenched, Elections act is un-entrenched law upholding it
 		- Judicial Decisions
 	- Unwritten
 		- Conventions that develop over time
