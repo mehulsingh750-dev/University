@@ -54,4 +54,5 @@
 	- Democracy
 		- Constitutional Monarchy
 			- The supreme power is held by a foreign crown (Great Britain)
+			- Only the crown can grant assent 
 			- 
