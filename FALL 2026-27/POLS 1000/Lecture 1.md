@@ -53,3 +53,5 @@
 		- Power of Disallowance gives the federal government power to deny provinces
 	- Democracy
 		- Constitutional Monarchy
+			- The supreme power is held by a foreign crown (Great Britain)
+			- 
