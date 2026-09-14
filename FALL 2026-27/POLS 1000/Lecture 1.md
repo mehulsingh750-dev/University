@@ -2,7 +2,7 @@
 	- Great Britains constitution is unwritten, USA is written because they wanted to establish federalism 
 		- states have different rights, but there is an overarching federal government
 	- Canada has both, we have parliamentary democracy
-		- inherited from Great Britain
+		- Inherited from Great Britain
 	- Written
 		- Entrenched Constitutional law
 			- Constitution act of 1867 and 1982
@@ -10,6 +10,7 @@
 		- Un-entrenched Constitutional law
 			- Have constitutional status 
 			- Right to vote is entrenched, Elections act is un-entrenched law upholding it
+			- Suprme court act and Indian A
 		- Judicial Decisions
 	- Unwritten
 		- Conventions that develop over time
