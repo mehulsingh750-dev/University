@@ -12,8 +12,8 @@
 			- Right to vote is entrenched, Elections act is un-entrenched law upholding it
 			- Supreme Court Act and Indian Act are other examples
 		- Judicial Decisions
-			- 
 	- Unwritten
 		- Conventions that develop over time
+		- 
 - Constitutional Acts
 	- 
