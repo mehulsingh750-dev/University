@@ -18,4 +18,6 @@
 		- Position of Prime Minister is an example, defined as the leader of the political party with the most seats but it is unwritten
 - Constitutional Acts
 	- The British North America Act, 1867
-		- 
+		- United the 4 provinces of Ontario, Nova Scotia, New Brunswick and Quebec
+		- Federal powers in section 91
+		- Provincial powers in section 92
