@@ -49,4 +49,5 @@
 		- REASONS:
 			- Protects cultural identies
 			- Maintenance of local autonomy
-		- Civil war from 1861-1865 was caused by states having too much power, c
+		- Civil war from 1861-1865 was caused by states having too much power, Canada decided to give the most power to the federal government
+		- Power of Disallowance gives the federal govern
