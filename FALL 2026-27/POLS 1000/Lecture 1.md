@@ -39,4 +39,5 @@
 	- Conventions reflect existing political norms, changes with time
 	- If a convention is broken but everyone agrees, new convention
 	- Important conventions:
-		- 
+		- Office and appointment of the Prime Minister
+		- Defeat of a Government
