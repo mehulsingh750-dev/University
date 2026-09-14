@@ -56,4 +56,6 @@
 			- The supreme power is held by a foreign crown (Great Britain)
 			- Only the crown can grant assent 
 		- Parliamentary Democracy
-			- 
+			- 3 components
+				- Crown
+				- House 
