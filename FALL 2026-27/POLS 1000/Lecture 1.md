@@ -45,7 +45,7 @@
 - The Organizing principles of the Constitution
 	- Federalism
 		- Two orders of government that are independent from each other
-		- Sec. 91 and 92 of the BNA Act establish our federal strcuture
+		- Sec. 91 and 92 of the BNA Act establish our federal structure
 		- REASONS:
 			- Protects cultural identies
 			- Maintenance of local autonomy
@@ -55,4 +55,5 @@
 		- Constitutional Monarchy
 			- The supreme power is held by a foreign crown (Great Britain)
 			- Only the crown can grant assent 
+		- Parliamentary Democracy
 			- 
