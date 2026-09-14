@@ -1,3 +1,8 @@
 - Types of Constitutional Rules
 	- Written
+		- Entrenched Constitutional law
+		- Un-entrenched Constitutional law
+		- Judicial Decisions
 	- Unwritten
+		- Conventions that develop over time
+		- 
