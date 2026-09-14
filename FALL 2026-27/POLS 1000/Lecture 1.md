@@ -3,7 +3,6 @@
 		- states have different rights, but there is an overarching federal government
 	- Canada has both, we have parliamentary democracy
 		- inherited from Great Britain
-		- 
 	- Written
 		- Entrenched Constitutional law
 		- Un-entrenched Constitutional law
