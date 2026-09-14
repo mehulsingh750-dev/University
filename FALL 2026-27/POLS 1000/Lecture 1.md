@@ -63,3 +63,6 @@
 			-  'Fusion of power'
 			- When voting, you elect a local candidate from a party of your choosing, not the actual Prime Minister
 			- Prime Minister represents the executive branch but also has a seat in the legislative branch
+		- Responsible Government
+			- A government retains office so long as it has the confidence of the House of Commons (i.e. supported by a majority in Parliament).
+			- When
