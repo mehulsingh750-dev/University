@@ -43,4 +43,6 @@
 		- Defeat of a Government
 			- When they lose the confidence of the house
 - The Organizing principles of the Constitution
-	- 
+	- Federalism
+		- Two orders of government that are independent from each other
+		- Sec. 91 and 92 o
