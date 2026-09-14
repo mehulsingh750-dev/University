@@ -49,4 +49,4 @@
 		- REASONS:
 			- Protects cultural identies
 			- Maintenance of local autonomy
-		- 
+		- Civil war from 1861-1865 was caused by states having too much power, c
