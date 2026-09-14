@@ -45,4 +45,8 @@
 - The Organizing principles of the Constitution
 	- Federalism
 		- Two orders of government that are independent from each other
-		- Sec. 91 and 92 o
+		- Sec. 91 and 92 of the BNA Act establish our federal strcuture
+		- REASONS:
+			- Protects cultural identies
+			- Maintenance of local autonomy
+		- 
