@@ -10,8 +10,9 @@
 		- Un-entrenched Constitutional law
 			- Have constitutional status 
 			- Right to vote is entrenched, Elections act is un-entrenched law upholding it
-			- Suprme court act and Indian A
+			- Supreme Court Act and Indian Act are other examples
 		- Judicial Decisions
+			- 
 	- Unwritten
 		- Conventions that develop over time
 - Constitutional Acts
