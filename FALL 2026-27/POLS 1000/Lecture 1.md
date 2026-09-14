@@ -36,5 +36,6 @@
 - Constitutional Conventions
 	- Equally important, but not legally forceable
 	- Provides flexibility 
+	- Conventions reflect existing politci
 	- Important conventions:
 		- 
