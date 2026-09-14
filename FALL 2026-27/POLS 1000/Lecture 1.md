@@ -6,6 +6,7 @@
 	- Written
 		- Entrenched Constitutional law
 			- Constitution act of 1867 and 1982
+			- Entrenched - cannot be easily changed, need super majority (50%)
 		- Un-entrenched Constitutional law
 		- Judicial Decisions
 	- Unwritten
