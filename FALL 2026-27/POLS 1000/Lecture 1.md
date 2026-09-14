@@ -22,5 +22,6 @@
 		- Federal powers in section 91
 		- Provincial powers in section 92
 		- Adopted the Westminster system partially from Great Britain
-	- The Constituion Act, 1982
-		- Pre 1982, the Canadians had to ask Great 
+	- The Constitution Act, 1982
+		- Pre 1982, the Canadians had to ask Great Britain to amend parts of their constitution
+		- had to bring the BNA act to Canada so canada could amend  domestically
