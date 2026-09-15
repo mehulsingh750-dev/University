@@ -1,4 +1,4 @@
 - Mid 19th Century
 	- Beginnings of the International system
 	- Political domination of the globe by European powers by a handful of European states
-	- 
+	- Growing G
