@@ -11,4 +11,5 @@
 	- Industrial total war
 	- Liberal Internationalism
 		- States wanted to be independent, led to world war 1
-	- 
+	- Internation institutions
+		- 
