@@ -5,3 +5,4 @@
 	- Technological and cultural change - idea pf culturally homogenous nation state, mass migration
 - Tensions in the emerging system
 	- Intense competition between imperial powers
+	- Internationalization of capital (wealth)
