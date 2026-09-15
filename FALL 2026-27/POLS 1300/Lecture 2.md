@@ -2,4 +2,6 @@
 - 5 W's
 	- Who, what, where, when, why
 - Comparative politics
+	- Finding out why an event happened
+	- Turning basic facts into evidence suggesting the cause and effect of it
 	- 
