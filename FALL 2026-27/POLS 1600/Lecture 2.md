@@ -7,6 +7,7 @@
 	- Intense competition between imperial powers
 	- Internationalization of capital (wealth)
 	- Brutalization of colonized people
-- National self-determination
+	- National self-determination
 	- Industrial total war
-	- 
+	- Liberal Internationalism
+		- 
