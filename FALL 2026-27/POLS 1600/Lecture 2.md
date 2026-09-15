@@ -6,3 +6,4 @@
 - Tensions in the emerging system
 	- Intense competition between imperial powers
 	- Internationalization of capital (wealth)
+	- 
