@@ -7,4 +7,5 @@
 	- *monocasual* refers to there being just one cause for an event, very rare
 - Empirical vs Normative Arguments
 	- Empirical explains why the world operates the way it does
-	- 
+	- Normative questions how the world should operate
+- 
