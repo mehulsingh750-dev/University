@@ -8,4 +8,5 @@
 	- Internationalization of capital (wealth)
 	- Brutalization of colonized people
 - National self-determination
+	- Industrial total war
 	- 
