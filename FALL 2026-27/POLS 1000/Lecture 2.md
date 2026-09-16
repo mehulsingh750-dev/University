@@ -1,3 +1,4 @@
 - Rule of law
 	- The law precedes both the government and private persons
-	- Requires the creation and maintenance 
+	- Requires the creation and maintenance of an actual order of positive laws which embodies normative order
+	- Legals rules must be the main source when exer
