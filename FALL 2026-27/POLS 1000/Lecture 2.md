@@ -1,2 +1,3 @@
 - Constitution Act
-	- Section 9 and Section 11 suggests that executive power is solely exercise by the
+	- Section 9 and Section 11 suggests that executive power is solely exercised by the crown
+	- Prior to 1848, 
