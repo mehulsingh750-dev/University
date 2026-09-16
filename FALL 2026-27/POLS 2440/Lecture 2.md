@@ -26,4 +26,5 @@ UNIT 2
 		- It has a flag, anthem, parliament and a currency
 		- The UK left the EU in 2020
 	- Why study Europe?
-		- Birthplace of the modern stat
+		- Birthplace of the modern state (Treaty of Westphalia 1648)
+		- Birthplace of democracy
