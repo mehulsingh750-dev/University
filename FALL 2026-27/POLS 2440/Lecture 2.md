@@ -20,3 +20,4 @@ UNIT 2
 	- There are 50 states in europe with their own laws and traditions, but they are affected by a wider system on how they operate
 	- There have been attempts to create a united europe with a single political identity
 		- The most recent attempt is the creation of the european union
+		- What makes it different is that the process is peaceful rather than forceful
