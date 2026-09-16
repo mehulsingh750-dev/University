@@ -68,3 +68,30 @@
 			- When we have a minority government, the other parties make up more seats than them but they still have 1 or 2 other parties supporting them.
 		- Representative Institutions
 			- S.3 of the Canadian Charter of Rights and Freedoms provides for the right to vote and run in elections, and s.4 provides for regular elections.
+- Rule of law
+	- The law precedes both the government and private persons
+	- Requires the creation and maintenance of an actual order of positive laws which embodies normative order
+	- Legals rules must be the main source when exercising public power
+- Constitutionalism
+	- The constitution is supreme
+	- If the law is not in conformity with the constitution, it is invalid
+	- Prior to 1982, the parliament was supreme
+- Protection of minorities
+	- BNA act, 1867
+		- Languages of the legislatures and the courts (s.133)  
+		- Denominational rights (s.93) 
+			- Rights for schools to be religious
+		- Federal structure (ss. 91-92)  
+	- Constitution Act, 1982  
+		- Official language community rights (ss. 16-24)  
+		- Aboriginal rights (ss. 25 and 35)  
+		- Multicultural heritage (s. 27)
+			- Canada was the first country to become officially multicultural in 1971
+- Key terms
+	- Written constitutional rules  
+	- Conventions  
+	- Federalism  
+	- Division of powers  
+	- Political and formal executives  
+	- Fusion of power  
+	- Responsible government
