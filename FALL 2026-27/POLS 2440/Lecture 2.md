@@ -21,3 +21,5 @@ UNIT 2
 	- There have been attempts to create a united europe with a single political identity
 		- The most recent attempt is the creation of the european union
 		- What makes it different is that the process is peaceful rather than forceful
+		- This concept was created on the basis of stopping future internal conflicts
+	- 
