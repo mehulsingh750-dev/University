@@ -7,4 +7,12 @@
 	- If the law is not in conformity with the constitution, it is invalid
 	- Prior to 1982, the parliament was supreme
 - Protection of minorities
-	- BNA act
+	- BNA act, 1867
+		- Languages of the legislatures and the courts (s.133)  
+		- Denominational rights (s.93)  
+		- Federal structure (ss. 91-92)  
+	- Constitution Act, 1982  
+		- Official language community rights (ss. 16-24)  
+		- Aboriginal rights (ss. 25 and 35)  
+		- Multicultural heritage (s. 27)
+	- 
