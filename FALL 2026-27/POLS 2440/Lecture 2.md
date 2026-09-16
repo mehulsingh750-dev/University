@@ -28,3 +28,5 @@ UNIT 2
 	- Why study Europe?
 		- Birthplace of the modern state (Treaty of Westphalia 1648)
 		- Birthplace of democracy
+		- European Empires
+		- Economic and political importance
