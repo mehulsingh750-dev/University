@@ -14,5 +14,6 @@
 	- Does NOT need to be a canadian citizen, but needs to be a 'commonwealth subject'
 	- 5 year term
 	- GG most of the time follows the advice of the Prime Minister
-	- Majority government:
+	- Powers that are always dignified
+		- Making order in council appointments
 		- 
