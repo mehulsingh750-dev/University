@@ -5,4 +5,4 @@
 - Constitutionalism
 	- The constitution is supreme
 	- If the law is not in conformity with the constitution, it is invalid
-	- 
+	- Prior to 1982, the parliament was supreme
