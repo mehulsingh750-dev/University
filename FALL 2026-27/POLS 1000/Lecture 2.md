@@ -5,4 +5,7 @@
 	- Prior to 1848, we did not responsible government 
 - Walter Bagehot
 	- Taught Queen Elizabeth the distinction between formal and political executive
-	- Formal executive is the 
+	- Formal executive 
+		- The crown, or the 'dignified' part of the constitution
+	- Political executive 
+		- The elements that exercised political powe
