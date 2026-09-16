@@ -1,3 +1,6 @@
 - Constitution Act
 	- Section 9 and Section 11 suggests that executive power is solely exercised by the crown
+		- Section 9: The Executive Government and  Authority of and over Canada is hereby   declared to continue and be vested in the  Queen.  
+		- Section 11: There shall be a Council to aid and advise in the Government of Canada, to be styled the Queen's Privy Council for Canada.
 	- Prior to 1848, we did not responsible government 
+	- 
