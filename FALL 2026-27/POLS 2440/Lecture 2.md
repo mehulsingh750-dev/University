@@ -5,4 +5,4 @@ UNIT 2
 	- Identity has always been in part linked to opposition to the 'other'
 	- It can be said being european simply mean NOT being asian or african
 	- These ideologies are linked to the polices regarding to immigration in right wing parties
-	- Europeans think of themselves of bei
+	- Europeans think of their identity being linked to their nation/country
