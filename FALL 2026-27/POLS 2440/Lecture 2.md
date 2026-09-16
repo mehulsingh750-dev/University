@@ -22,4 +22,5 @@ UNIT 2
 		- The most recent attempt is the creation of the european union
 		- What makes it different is that the process is peaceful rather than forceful
 		- This concept was created on the basis of stopping future internal conflicts
-	- The European 
+	- The European union is an international organization, but has elements that make it "state-like"
+	- 
