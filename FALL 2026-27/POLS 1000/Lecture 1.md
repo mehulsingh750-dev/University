@@ -1,3 +1,4 @@
+- ****Heard reading****
 - Types of Constitutional Rules
 	- Great Britains constitution is unwritten, USA is written because they wanted to establish federalism 
 		- states have different rights, but there is an overarching federal government
@@ -95,3 +96,4 @@
 	- Political and formal executives  
 	- Fusion of power  
 	- Responsible government
+\
