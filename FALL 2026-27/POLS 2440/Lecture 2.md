@@ -30,3 +30,4 @@ UNIT 2
 		- Birthplace of democracy
 		- European Empires
 		- Economic and political importance
+		- Studying europe is a good opportunity to use the comparative method
