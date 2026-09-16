@@ -25,3 +25,5 @@ UNIT 2
 		- The European union is an international organization, but has elements that make it "state-like"
 		- It has a flag, anthem, parliament and a currency
 		- The UK left the EU in 2020
+	- Why study Europe?
+		- Birthplace of the modern stat
