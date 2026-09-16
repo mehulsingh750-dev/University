@@ -10,4 +10,4 @@ UNIT 2
 		- Democracy
 		- Tradition
 		- Religon
-	- 
+	- Since there are 40+ countries in europe, who really decides said valu
