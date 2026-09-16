@@ -11,4 +11,5 @@ UNIT 2
 		- Tradition
 		- Religon
 	- Since there are 40+ countries in europe, who really decides said values?
-	- 
+	- The EU has a list of values present in europe like democracy, human rights, etc but those are also present in other countries.
+	- Aditionally, these values hab
