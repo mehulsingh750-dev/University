@@ -16,4 +16,5 @@
 		- Official language community rights (ss. 16-24)  
 		- Aboriginal rights (ss. 25 and 35)  
 		- Multicultural heritage (s. 27)
+			- Canada was the first country to become officially multicultural in 1971
 	- 
