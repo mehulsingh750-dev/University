@@ -1,1 +1,3 @@
-- 
+- Rule of law
+	- The law precedes both the government and private persons
+	- Requires the creation and maintenance 
