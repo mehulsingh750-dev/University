@@ -10,5 +10,7 @@
 	- Political executive 
 		- The elements that exercised political power, or the 'efficient' part of the constitution
 - The Governor General
-	- The crowns represntative in Canada that is appointed by King on the advice of the Prime Minister
-	- Does NOT need to be a canadian citizen
+	- The crowns representative in Canada that is appointed by King on the advice of the Prime Minister
+	- Does NOT need to be a canadian citizen, but needs to be a 'commonwealth subject'
+	- 5 year term
+- 
