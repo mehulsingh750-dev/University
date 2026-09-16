@@ -17,4 +17,11 @@
 		- Aboriginal rights (ss. 25 and 35)  
 		- Multicultural heritage (s. 27)
 			- Canada was the first country to become officially multicultural in 1971
-	- 
+- Key terms
+	- Written constitutional rules  
+	- Conventions  
+	- Federalism  
+	- Division of powers  
+	- Political and formal executives  
+	- Fusion of power  
+	- Responsible government
