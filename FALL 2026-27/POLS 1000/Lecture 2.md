@@ -3,4 +3,6 @@
 		- Section 9: The Executive Government and  Authority of and over Canada is hereby   declared to continue and be vested in the  Queen.  
 		- Section 11: There shall be a Council to aid and advise in the Government of Canada, to be styled the Queen's Privy Council for Canada.
 	- Prior to 1848, we did not responsible government 
-	- 
+- Walter Bagehot
+	- Taught Queen Elizabeth the distinction between formal and political executive
+	- Formal executive is the 
