@@ -16,4 +16,5 @@
 	- GG most of the time follows the advice of the Prime Minister
 	- Powers that are always dignified
 		- Making order in council appointments
-		- 
+		- Royal assent
+		- Reserving Bills
