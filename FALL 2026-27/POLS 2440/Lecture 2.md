@@ -14,3 +14,7 @@ UNIT 2
 	- The EU has a list of values present in europe like democracy, human rights, etc but those are also present in other countries.
 	- Additionally, these values have not always been present in europe
 	- In a political sense, europe is a collection of sovereign states
+		- Recognition by other countries
+		- Ability to enforce laws
+		- Borders
+	- 
