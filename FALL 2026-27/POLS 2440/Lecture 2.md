@@ -24,4 +24,4 @@ UNIT 2
 		- This concept was created on the basis of stopping future internal conflicts
 		- The European union is an international organization, but has elements that make it "state-like"
 		- It has a flag, anthem, parliament and a currency
-	- 
+		- The UK left the EU in 2020
