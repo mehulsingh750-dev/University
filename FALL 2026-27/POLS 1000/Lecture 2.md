@@ -25,3 +25,4 @@
 	- Political and formal executives  
 	- Fusion of power  
 	- Responsible government
+- 
