@@ -9,7 +9,8 @@
 - Protection of minorities
 	- BNA act, 1867
 		- Languages of the legislatures and the courts (s.133)  
-		- Denominational rights (s.93)  
+		- Denominational rights (s.93) 
+			- Rights for schools to be religious
 		- Federal structure (ss. 91-92)  
 	- Constitution Act, 1982  
 		- Official language community rights (ss. 16-24)  
