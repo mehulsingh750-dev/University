@@ -12,4 +12,5 @@ UNIT 2
 		- Religon
 	- Since there are 40+ countries in europe, who really decides said values?
 	- The EU has a list of values present in europe like democracy, human rights, etc but those are also present in other countries.
-	- Aditionally, these values hab
+	- Additionally, these values have not always been present in europe
+	- In a political sense, europe is a collection of sovereign states
