@@ -17,4 +17,4 @@ UNIT 2
 		- Recognition by other countries
 		- Ability to enforce laws
 		- Borders
-	- 
+	- There are 50 states in europe with their own laws and traditions, but they are affected by a wider system on how they operate
