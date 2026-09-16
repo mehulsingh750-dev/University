@@ -9,4 +9,6 @@
 		- The crown, or the 'dignified' part of the constitution
 	- Political executive 
 		- The elements that exercised political power, or the 'efficient' part of the constitution
-- The 
+- The Governor General
+	- The crowns represntative in Canada that is appointed by King on the advice of the Prime Minister
+	- Does NOT need to be a canadian citizen
