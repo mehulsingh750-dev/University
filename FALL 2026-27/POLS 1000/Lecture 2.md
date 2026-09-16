@@ -17,4 +17,6 @@
 	- Powers that are always dignified
 		- Making order in council appointments
 		- Royal assent
-		- Reserving Bills
+		- Reserving Bills for the consideration of the crown
+		- Delivering the speech from the throne
+	- 
