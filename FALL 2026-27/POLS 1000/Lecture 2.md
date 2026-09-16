@@ -4,4 +4,5 @@
 	- Legals rules must be the main source when exercising public power
 - Constitutionalism
 	- The constitution is supreme
+	- If the law is not in conformity with the constitution, it is invalid
 	- 
