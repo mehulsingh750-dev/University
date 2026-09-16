@@ -8,5 +8,5 @@
 	- Formal executive 
 		- The crown, or the 'dignified' part of the constitution
 	- Political executive 
-		- The elements that exercised political power
-	- 
+		- The elements that exercised political power, or the 'efficient' part of the constitution
+- The 
