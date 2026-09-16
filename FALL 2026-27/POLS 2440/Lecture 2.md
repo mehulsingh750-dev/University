@@ -9,4 +9,5 @@ UNIT 2
 	- Europe could potentially be thought of in terms of common values
 		- Democracy
 		- Tradition
-		- 
+		- Religon
+	- 
