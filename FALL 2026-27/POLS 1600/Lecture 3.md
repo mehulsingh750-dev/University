@@ -6,4 +6,5 @@
 - End of WW2
 	- Defeat of the axis powers 
 	- The nuclear era begins, leading into the cold war
+	- The threat of nuclear war between the US and the Soviet Union causes both nations to get involved in multiple civil wars to spread capitalism/communism
 	- 
