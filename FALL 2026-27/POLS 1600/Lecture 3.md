@@ -1,4 +1,5 @@
 - Post WW1
 	- Liberal internationalism is becoming more prevalent
 	- Democracy and moral institutions transformed from just the state level to a national level
-		- Brought rise to The League of N
+		- Brought rise to groups like The League of Nations and NATO
+	- 
