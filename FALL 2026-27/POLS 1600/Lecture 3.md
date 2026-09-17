@@ -1,1 +1,3 @@
--  
+- Post WW1
+	- Liberal internationalism is becoming more prevalent
+	- 
