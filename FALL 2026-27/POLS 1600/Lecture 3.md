@@ -2,4 +2,5 @@
 	- Liberal internationalism is becoming more prevalent
 	- Democracy and moral institutions transformed from just the state level to a national level
 		- Brought rise to groups like The League of Nations and NATO
+	- In 1930's when the institutions started to crumble due to the League of nations not being able to enforce anything, states who were affected politically and economically became more authoritarian.
 	- 
