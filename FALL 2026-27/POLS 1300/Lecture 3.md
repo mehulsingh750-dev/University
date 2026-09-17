@@ -2,5 +2,5 @@
 - Operationalization: The process of making basic concepts measurable
 	- Measurables become “variables”
 - Canadian parliament uses SMD (single member district) to elect members to its lower chambers, House of Commons
-- Most-Similar-Systems (MSS)
-Design
+- Most-Similar-Systems (MSS) Design
+	- Research where similar concepts are compared but have distinct outcomes
