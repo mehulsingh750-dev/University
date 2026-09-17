@@ -24,4 +24,5 @@
 - 1991 - Today
 	- The US becomes a dominant super power, no one opposes them
 	- Liberal Internationalism essentially dies out completely 
+	- Ethnic conflict increases as more immigrants move to North America
 	- 
