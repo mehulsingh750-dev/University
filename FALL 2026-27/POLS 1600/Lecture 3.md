@@ -1,7 +1,7 @@
 - Post WW1
 	- Liberal internationalism is becoming more prevalent
 	- Democracy and moral institutions transformed from just the state level to a national level
-		- Brought rise to groups like The League of Nations and NATO
+		- Brought rise to groups like The League of Nations 
 	- In 1930's when the institutions started to crumble due to the League of nations not being able to enforce anything, states who were affected politically and economically became more authoritarian.
 - End of WW2
 	- Defeat of the axis powers 
@@ -16,4 +16,5 @@
 			- Regulated the international trading system
 		- Marshall Fund
 			- US gave millions of dollars to Europe to rebuild
-		- 
+		- NATO
+	- Gorbache
