@@ -8,4 +8,6 @@
 	- The nuclear era begins, leading into the cold war
 	- The threat of nuclear war between the US and the Soviet Union causes both nations to get involved in multiple civil wars to spread capitalism/communism
 	- End of colonialism caused a wave of independence, 'third world'
-	- Liberal internationalism evolves into 
+	- Liberal internationalism evolves into something more powerful
+		- UN is an example of an institution that had a much wider influence than previous ones
+	- 
