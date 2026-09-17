@@ -18,4 +18,7 @@
 			- US gave millions of dollars to Europe to rebuild
 		- NATO
 	- Gorbachev came into power in the mid 1980's for the Soviet Union and loosened up trade restrictions and political restraint
+	- Soviet Union crumbles from 1989-1991
+		- Split into Russia, Ukraine, Estonia
+	- Cold war subsequently ends
 	- 
