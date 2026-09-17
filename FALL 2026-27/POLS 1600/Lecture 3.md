@@ -13,4 +13,4 @@
 			- Binding resolutions
 			- Vetoing states
 		- Bretton Woods, town in New Hampshire
-		- 
+			- 
