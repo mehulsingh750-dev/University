@@ -21,4 +21,6 @@
 	- Soviet Union crumbles from 1989-1991
 		- Split into Russia, Ukraine, Estonia
 	- Cold war subsequently ends
-	- 
+- 1991 - Today
+	- The US becomes a dominant super power, no one opposes them
+	- Liberal Inte
