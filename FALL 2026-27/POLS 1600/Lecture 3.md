@@ -17,4 +17,5 @@
 		- Marshall Fund
 			- US gave millions of dollars to Europe to rebuild
 		- NATO
-	- Gorbache
+	- Gorbachev came into power in the mid 1980's for the Soviet Union and loosened up trade restrictions and political restraint
+	- 
