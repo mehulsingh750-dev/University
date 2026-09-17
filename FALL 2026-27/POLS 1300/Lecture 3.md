@@ -4,4 +4,8 @@
 - Canadian parliament uses SMD (single member district) to elect members to its lower chambers, House of Commons
 - Most-Similar-Systems (MSS) Design
 	- Research where similar concepts are compared but have distinct outcomes
+- Comparative checking
+	- We can “check” findings by expanding the number of cases compared
+- Within-case comparison
+	- Comparative analysis of variation over time or in distinct parts of a single case
 - 
