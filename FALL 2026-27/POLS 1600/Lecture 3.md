@@ -15,4 +15,5 @@
 		- Bretton Woods, town in New Hampshire
 			- Regulated the international trading system
 		- Marshall Fund
-			- US gave millions of dollars to eU
+			- US gave millions of dollars to Europe to rebuild
+		- 
