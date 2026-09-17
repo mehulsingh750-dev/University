@@ -10,4 +10,7 @@
 	- End of colonialism caused a wave of independence, 'third world'
 	- Liberal internationalism evolves into something more powerful
 		- UN is an example of an institution that had a much wider influence than previous ones
-	- 
+			- Binding resolutions
+			- Vetoing states
+		- Bretton Woods, town in New Hampshire
+		- 
