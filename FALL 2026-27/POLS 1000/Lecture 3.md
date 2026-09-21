@@ -17,4 +17,5 @@ Senate
 - Canadian Parliament is Bicameral
 	- House of commons and Senate
 	- For a bill to become law it must pass through both chambers
-- 
+- Why is Senate subordinate to house of commons?
+	- Senators are appointed by GG on adv
