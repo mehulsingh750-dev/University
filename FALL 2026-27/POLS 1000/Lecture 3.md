@@ -1,3 +1,4 @@
+-
 - When Canadas parliament was created, they took Britain's bicameral structure made up of 2 legislative branches
 	- House of commons (Lower)
 	- Appointed senate (Upper)
@@ -8,4 +9,5 @@
 	- Another example is through the legislative process
 	- For a bill to become law, it must pass through the House of Commons and the Senate
 	- The process is the same for both houses, but it was considered general rule of them that the senate should pass anything coming from the House of Commons
-	- After the 1984 election of the Progressive Conservative government, the liberal dominated senate whi
+	- After the 1984 election of the Progressive Conservative government, the liberal dominated senate which had been elected years prior began to reject many laws.
+- 
