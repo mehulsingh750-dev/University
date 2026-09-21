@@ -38,4 +38,5 @@ UNIT 2
 	- That is why we use the Comparative method to build and test theories
 		- Case studies are used to further our understanding
 	- Most-Similar-System (MSS)
+		- By comparing cases, we can identify patterns leading to explanations
 		- 
