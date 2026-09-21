@@ -7,4 +7,5 @@ UNIT 2
 	- *Normative* arguments discuss how things SHOULD be
 	- Empirical arguments discuss how things already are
 - Comparative method
-	- Involves examining political systems and think about they way they function
+	- Involves examining political systems and think about they way they function to look for similarities and differences
+	- 
