@@ -7,4 +7,4 @@
 	- If the Prime minister wasn't an elected official, they couldn't be answerable in the question period and removable by voters in the next election which would affect democratic accountability
 	- Another example is through the legislative process
 	- For a bill to become law, it must pass through the House of Commons and the Senate
-	- 
+	- The process is the same for both houses, but it was considered general rule of them that the senate should pass anything coming from the House of Commons
