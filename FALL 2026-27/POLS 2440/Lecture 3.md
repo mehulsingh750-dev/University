@@ -28,4 +28,5 @@ UNIT 2
 		- The real reason for this is because people are outside more due to better weather
 		- Independent variable CAUSES the dependent to change
 		- Interconnected variables are when both variables cause each other
-			- For example
+			- For example, in Detroit the rising population causes an increase in crime
+		- 
