@@ -30,4 +30,6 @@ UNIT 2
 		- Interconnected variables are when both variables cause each other
 			- For example, in Detroit the rising population causes an increase in crime
 		- Does the type of electoral system cause changes in the structure of government, specifically the likelihood of a coalition government?
-			- Coalition government is when 
+			- Coalition government is when 2 or more powers join to share power in the executive branch
+			- In this case, the independent variable is the electoral system and the dependent variable is the coalition government
+			- 
