@@ -4,5 +4,6 @@ UNIT 2
 	- For example, in Canada the provinces have a guaranteed right to exist
 	- In Paris, the central governemnt can reorganize the local governments 
 - Empirical vs Normative
-	- Normative arguments discuss how things SHOULD be
-	- Empr
+	- *Normative* arguments discuss how things SHOULD be
+	- Empirical arguments discuss how things already are
+	- 
