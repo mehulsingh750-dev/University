@@ -33,4 +33,6 @@ UNIT 2
 			- Coalition government is when 2 or more powers join to share power in the executive branch
 			- In this case, the independent variable is the electoral system and the dependent variable is the coalition government
 	- Theory development and testing are ways researches seek to come up with explanations for why things happen
-- In politi
+	- In politics, there are multiple variables that can be relavent
+	- It is impossible to re-run experiments in politics the way scientists do in a lab
+	- 
