@@ -19,3 +19,16 @@
 		- Royal assent
 		- Reserving Bills for the consideration of the crown
 		- Delivering the speech from the throne
+	Powers that can become efficient
+	- Formation of a government
+		- Dignified - Majority parliament
+		- Efficient - Minority parliament when the outcome of an election is unclear
+	- Prorogation of parliament
+		- On the advice of PM, the GG can suspend the proceedings of the house of commons
+			- Dignified - Majority Parliament
+			- Efficient - When PM doesn't have a good reason to suspend House of Commons
+	- Dissolution of Parliament
+		- To call an election, the PM requests that the GG grant dissolution, essentially ending the current parliment
+			- Dignified - Majority Parliament and absence of 'government in-waiting'
+				- Largest opposition party waiting to take power
+			- Efficient - Minority Parliament and GG thinks another PM can be appointed
