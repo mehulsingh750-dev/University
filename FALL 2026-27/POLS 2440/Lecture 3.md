@@ -41,4 +41,6 @@ UNIT 2
 		- By comparing cases, we can identify patterns leading to explanations
 	-  Deductive approach
 		- Staring with pre-existing theories and looking for examples to test it
+	- Inductive Approach
+		- Starts with observation bottom up and then forms theories
 	- 
