@@ -26,3 +26,5 @@ UNIT 2
 		- Spurious relationships are variables that are unrelated but have a correlation on paper
 		- For example, there is a positive correlation between ice cream sales and shark attacks
 		- The real reason for this is because people are outside more due to better weather
+		- Independent variable CAUSES the dependent to change
+		- 
