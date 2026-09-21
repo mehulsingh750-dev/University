@@ -10,5 +10,6 @@ Ch.6
 	- For a bill to become law, it must pass through the House of Commons and the Senate
 	- The process is the same for both houses, but it was considered general rule of them that the senate should pass anything coming from the House of Commons
 	- After the 1984 election of the Progressive Conservative government, the liberal dominated senate which had been elected years prior began to reject many laws.
-- Powers that can become effecient
+- Powers that can become efficient
 	- Formation of a government
+		- 
