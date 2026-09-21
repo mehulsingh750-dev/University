@@ -18,4 +18,6 @@ Senate
 	- House of commons and Senate
 	- For a bill to become law it must pass through both chambers
 - Why is Senate subordinate to house of commons?
-	- Senators are appointed by GG on adv
+	- Senators are appointed by GG on advice of PM
+		- Creates a loyalty towards the appointing party
+	- Not a confidence ch
