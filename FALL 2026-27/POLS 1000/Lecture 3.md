@@ -19,4 +19,6 @@ Ch.6
 			- Dignified - Majority Parliament
 			- Efficient - When PM doesn't have a good reason to suspend House of Commons
 	- Dissolution of Parliament
-		- To call an election, the PM requests that the GG grant dissolution, essentially ending tge cu
+		- To call an election, the PM requests that the GG grant dissolution, essentially ending the current parliment
+			- Dignified - Majority Parliment and absence of 'government in-waiting'
+			- Efficient - Minority Parliment
