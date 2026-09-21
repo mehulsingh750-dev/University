@@ -35,4 +35,6 @@ UNIT 2
 	- Theory development and testing are ways researches seek to come up with explanations for why things happen
 	- In politics, there are multiple variables that can be relavent
 	- It is impossible to re-run experiments in politics the way scientists do in a lab
+	- That is why we use the Comparative method to build and test theories
+		- Case studies are used to further our understanding
 	- 
