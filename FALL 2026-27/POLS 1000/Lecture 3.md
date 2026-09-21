@@ -17,5 +17,6 @@ Ch.6
 	- Prorogation of parliament
 		- On the advice of PM, the GG can suspend the proceedings of the house of commons
 			- Dignified - Majority Parliament
-			- Efficient - When PM doesnt have a good reason to suspend House of Commons
-	- 
+			- Efficient - When PM doesn't have a good reason to suspend House of Commons
+	- Dissolution of Parliament
+		- To call an election, the PM requests that the GG grant dissolution, essentially ending tge cu
