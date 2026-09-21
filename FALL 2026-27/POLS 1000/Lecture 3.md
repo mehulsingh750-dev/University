@@ -2,4 +2,5 @@
 	- House of commons (Lower)
 	- Appointed senate (Upper)
 - The House of commons has historically had more influence
-	- 
+	- This is heavily reinforced by the constitution, as constitutional law does not require an elected prime minister to be from the house of commons, but majority of the time they are an elected MP
+	- th
