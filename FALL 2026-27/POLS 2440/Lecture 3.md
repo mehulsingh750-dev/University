@@ -19,3 +19,6 @@ UNIT 2
 	- The comparative method also looks for patterns in the way variables interact, in other words how they correlate
 		- For example, the correlation between economic wealth and democracy
 		- The correlation between variables can be positive and negative
+		- If its positive, x and y both go up or down together
+		- If its negative, x and y go opposite directions
+	- 
