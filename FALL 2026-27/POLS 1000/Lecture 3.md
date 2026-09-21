@@ -3,4 +3,5 @@
 	- Appointed senate (Upper)
 - The House of commons has historically had more influence
 	- This is heavily reinforced by the constitution, as constitutional law does not require an elected prime minister to be from the house of commons, but majority of the time they are an elected MP
-	- th
+	- There are have 1 to 2 cases where they have been a senate, but it is rare
+	- If the Prime minister wasnt an elected official, they couldn't be answerable in the question period 
