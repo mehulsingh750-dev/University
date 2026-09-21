@@ -44,4 +44,5 @@ UNIT 2
 	- Inductive Approach
 		- Starts with observation bottom up and then forms theories
 	- Researchers can develop large-N studies
-		- For example, studies of elections 
+		- For example, studies of elections
+	- 
