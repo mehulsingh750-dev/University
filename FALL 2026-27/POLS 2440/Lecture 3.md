@@ -24,4 +24,5 @@ UNIT 2
 		- Correlation does NOT always mean causation
 		- Analysis needs to be conducted to determine causation
 		- Spurious relationships are variables that are unrelated but have a correlation on paper
-		- 
+		- For example, there is a positive correlation between ice cream sales and shark attacks
+		- The real reason for this is because people are outside more due to better weather
