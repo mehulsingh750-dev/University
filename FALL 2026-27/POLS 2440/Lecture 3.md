@@ -39,4 +39,6 @@ UNIT 2
 		- Case studies are used to further our understanding
 	- Most-Similar-System (MSS)
 		- By comparing cases, we can identify patterns leading to explanations
-		- 
+	-  Deductive approach
+		- Staring with pre-existing theories and looking for examples to test it
+	- 
