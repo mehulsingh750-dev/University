@@ -4,4 +4,5 @@
 - The House of commons has historically had more influence
 	- This is heavily reinforced by the constitution, as constitutional law does not require an elected prime minister to be from the house of commons, but majority of the time they are an elected MP
 	- There are have 1 to 2 cases where they have been a senate, but it is rare
-	- If the Prime minister wasnt an elected official, they couldn't be answerable in the question period 
+	- If the Prime minister wasn't an elected official, they couldn't be answerable in the question period and removable by voters in the next election which would affect democratic accountability
+	- 
