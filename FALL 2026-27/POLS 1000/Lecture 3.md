@@ -1,3 +1,5 @@
 - When Canadas parliament was created, they took Britain's bicameral structure made up of 2 legislative branches
 	- House of commons (Lower)
 	- Appointed senate (Upper)
+- The House of commons has historically had more influence
+	- 
