@@ -45,4 +45,4 @@ UNIT 2
 		- Starts with observation bottom up and then forms theories
 	- Researchers can develop large-N studies
 		- For example, studies of elections
-	- 
+	- Small-N studies (Qualatative)
