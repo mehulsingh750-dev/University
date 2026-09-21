@@ -2,10 +2,12 @@ UNIT 2
 - What makes a system a federal system?
 	- In a federation, the 2 main levels of government have a constitutional right to exist
 	- For example, in Canada the provinces have a guaranteed right to exist
-	- In Paris, the central governemnt can reorganize the local governments 
+	- In Paris, the central governement can reorganize the local governments 
 - Empirical vs Normative
 	- *Normative* arguments discuss how things SHOULD be
 	- Empirical arguments discuss how things already are
 - Comparative method
 	- Involves examining political systems and think about they way they function to look for similarities and differences
-	- We can make descriptions of systems a
+	- Typologies
+		- Classifying things based on common traits or chracteristics
+		- 
