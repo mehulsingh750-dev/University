@@ -12,5 +12,6 @@ Ch.6
 	- After the 1984 election of the Progressive Conservative government, the liberal dominated senate which had been elected years prior began to reject many laws.
 - Powers that can become efficient
 	- Formation of a government
-		- Dignified - Majority government
-		- Efficient - 
+		- Dignified - Majority parliament
+		- Efficient - Minority parliament when the outcome of an election is unclear
+	- 
