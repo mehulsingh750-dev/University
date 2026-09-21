@@ -24,4 +24,5 @@ Senate
 	- Money bills cannot originate in the Senate
 	- The Senate can only delay constitutional amendments for 180 days under section 47 of the Constitution Act, 1982.
 - The senate blocked the Free Trade Agreement of 1988 with the US
-- An election was called in 1989 sol
+- An election was called in 1989 solely for this, called 1 issue election
+- 
