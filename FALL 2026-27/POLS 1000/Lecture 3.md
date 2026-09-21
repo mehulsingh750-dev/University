@@ -26,4 +26,6 @@ Senate
 - The senate blocked the Free Trade Agreement of 1988 with the US
 - An election was called in 1989 solely for this, called 1 issue election
 - Purposes of the Senate
-	- John McDonald, the first P
+	- John McDonald, the first PM had 2 rules
+		- Protection of minority interests
+		- To control democrat
