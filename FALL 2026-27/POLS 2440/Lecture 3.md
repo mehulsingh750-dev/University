@@ -17,5 +17,5 @@ UNIT 2
 	- Democracy
 		- When a leader is elected through an election from different parties, the power essentially belongs to the people
 	- The comparative method also looks for patterns in the way variables interact, in other words how they correlate
-		- For example, the correlation between 
-	- 
+		- For example, the correlation between economic wealth and democracy
+		- The correlation between variables can be positive and negative
