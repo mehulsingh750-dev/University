@@ -3,4 +3,6 @@ UNIT 2
 	- In a federation, the 2 main levels of government have a constitutional right to exist
 	- For example, in Canada the provinces have a guaranteed right to exist
 	- In Paris, the central governemnt can reorganize the local governments 
-	- 
+- Empirical vs Normative
+	- Normative arguments discuss how things SHOULD be
+	- Empr
