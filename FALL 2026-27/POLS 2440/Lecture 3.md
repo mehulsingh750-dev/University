@@ -9,6 +9,7 @@ UNIT 2
 - Comparative method
 	- Involves examining political systems and think about they way they function to look for similarities and differences
 	- Typologies
-		- Classifying things based on common traits or chracteristics
+		- Classifying things based on common traits or characteristics
 	- Autocracy
-		- When 1 person h
+		- When 1 person holds absolute power over a country
+	- 
