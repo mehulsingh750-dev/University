@@ -10,4 +10,5 @@ UNIT 2
 	- Involves examining political systems and think about they way they function to look for similarities and differences
 	- Typologies
 		- Classifying things based on common traits or chracteristics
-		- 
+	- Autocracy
+		- When 1 person h
