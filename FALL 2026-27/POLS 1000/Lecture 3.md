@@ -20,4 +20,6 @@ Senate
 - Why is Senate subordinate to house of commons?
 	- Senators are appointed by GG on advice of PM
 		- Creates a loyalty towards the appointing party
-	- Not a confidence ch
+	- Not a confidence chamber
+	- Money bills cannot originate in the Senate
+	- 
