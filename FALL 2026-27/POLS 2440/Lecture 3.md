@@ -8,4 +8,4 @@ UNIT 2
 	- Empirical arguments discuss how things already are
 - Comparative method
 	- Involves examining political systems and think about they way they function to look for similarities and differences
-	- 
+	- We can make descriptions of systems a
