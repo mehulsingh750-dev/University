@@ -29,4 +29,4 @@ UNIT 2
 		- Independent variable CAUSES the dependent to change
 		- Interconnected variables are when both variables cause each other
 			- For example, in Detroit the rising population causes an increase in crime
-		- 
+		- Does the type of electroral system cause changes in the structure of government, specifically the likel
