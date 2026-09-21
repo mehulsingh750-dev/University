@@ -14,4 +14,7 @@ Senate
 - Essay questions:
 	- To appreciate the role of the Senate in Canada’s bicameral parliament 
 	- To analyze the prospects of Senate reform in Canada
-- Canadian Parliment is 
+- Canadian Parliament is Bicameral
+	- House of commons and Senate
+	- For a bill to become law it must pass through both chambers
+- 
