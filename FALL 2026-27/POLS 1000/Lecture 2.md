@@ -19,4 +19,3 @@
 		- Royal assent
 		- Reserving Bills for the consideration of the crown
 		- Delivering the speech from the throne
-	- 
