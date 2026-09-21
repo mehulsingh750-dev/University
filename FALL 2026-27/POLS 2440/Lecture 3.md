@@ -12,4 +12,7 @@ UNIT 2
 		- Classifying things based on common traits or characteristics
 	- Autocracy
 		- When 1 person holds absolute power over a country
-	- 
+	- Oligarchy
+		- When a rich group of individuals hold power over a country
+	- Democracy
+		- When a leader is elected 
