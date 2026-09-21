@@ -1,1 +1,3 @@
-- When Canadas parlim was craeted
+- When Canadas parliament was created, they took Britain's bicameral structure made up of 2 legislative branches
+	- House of commons (Lower)
+	- Appointed senate (Upper)
