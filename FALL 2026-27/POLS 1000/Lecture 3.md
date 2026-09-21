@@ -14,4 +14,5 @@ Ch.6
 	- Formation of a government
 		- Dignified - Majority parliament
 		- Efficient - Minority parliament when the outcome of an election is unclear
-	- 
+	- Prorogation of parliament
+		- On the 
