@@ -6,4 +6,5 @@
 	- There are have 1 to 2 cases where they have been a senate, but it is rare
 	- If the Prime minister wasn't an elected official, they couldn't be answerable in the question period and removable by voters in the next election which would affect democratic accountability
 	- Another example is through the legislative process
+	- For a bill to become law, it must pass through the House of Commons and the Senate
 	- 
