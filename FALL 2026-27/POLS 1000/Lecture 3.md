@@ -11,6 +11,7 @@ Ch.6
 	- The process is the same for both houses, but it was considered general rule of them that the senate should pass anything coming from the House of Commons
 	- After the 1984 election of the Progressive Conservative government, the liberal dominated senate which had been elected years prior began to reject many laws.
 Senate
-- To appreciate the role of the Senate in Canada’s bicameral parliament 
-- To analyze the prospects of Senate reform in Canada
-- 
+- Essay questions:
+	- To appreciate the role of the Senate in Canada’s bicameral parliament 
+	- To analyze the prospects of Senate reform in Canada
+- Canadian Parliment is 

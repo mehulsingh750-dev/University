@@ -22,6 +22,7 @@
 		- United the 4 provinces of Ontario, Nova Scotia, New Brunswick and Quebec
 		- Federal powers in section 91
 		- Provincial powers in section 92
+		- Remember 91 and 92
 		- Adopted the Westminster system partially from Great Britain
 	- The Constitution Act, 1982
 		- Pre 1982, the Canadians had to ask Great Britain to amend parts of their constitution
