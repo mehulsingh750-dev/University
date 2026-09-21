@@ -6,4 +6,5 @@ UNIT 2
 - Empirical vs Normative
 	- *Normative* arguments discuss how things SHOULD be
 	- Empirical arguments discuss how things already are
-	- 
+- Comparative method
+	- Involves examining political systems and think about they way they function
