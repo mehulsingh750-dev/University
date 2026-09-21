@@ -22,4 +22,6 @@ UNIT 2
 		- If its positive, x and y both go up or down together
 		- If its negative, x and y go opposite directions
 		- Correlation does NOT always mean causation
-		- Analysis needs to be conducted to dtermine 
+		- Analysis needs to be conducted to determine causation
+		- Spurious relationships are variables that are unrelated but have a correlation on paper
+		- 
