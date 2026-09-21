@@ -15,4 +15,6 @@ Ch.6
 		- Dignified - Majority parliament
 		- Efficient - Minority parliament when the outcome of an election is unclear
 	- Prorogation of parliament
-		- On the 
+		- On the advice of PM, the GG can suspend the proceedings of the house of commons
+			- Dignified - Majority Parliment
+			- Efficient - When p
