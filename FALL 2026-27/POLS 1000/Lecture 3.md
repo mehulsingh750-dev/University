@@ -28,4 +28,4 @@ Senate
 - Purposes of the Senate
 	- John McDonald, the first PM had 2 rules
 		- Protection of minority interests
-		- To control democrat
+		- To control democratic impulses of the House of Commons
