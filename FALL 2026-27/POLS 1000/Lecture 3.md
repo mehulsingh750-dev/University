@@ -18,3 +18,4 @@ Ch.6
 		- On the advice of PM, the GG can suspend the proceedings of the house of commons
 			- Dignified - Majority Parliament
 			- Efficient - When PM doesnt have a good reason to suspend House of Commons
+	- 
