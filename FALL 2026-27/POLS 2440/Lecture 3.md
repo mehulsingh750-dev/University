@@ -15,4 +15,5 @@ UNIT 2
 	- Oligarchy
 		- When a rich group of individuals hold power over a country
 	- Democracy
-		- When a leader is elected 
+		- When a leader is elected through an election from different parties, the power essentially belongs to the people
+	- The comparat
