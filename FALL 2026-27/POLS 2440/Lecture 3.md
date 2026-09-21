@@ -43,4 +43,4 @@ UNIT 2
 		- Staring with pre-existing theories and looking for examples to test it
 	- Inductive Approach
 		- Starts with observation bottom up and then forms theories
-	- 
+	- Researchers cn deve
