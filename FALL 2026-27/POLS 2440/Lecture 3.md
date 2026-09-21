@@ -32,4 +32,4 @@ UNIT 2
 		- Does the type of electoral system cause changes in the structure of government, specifically the likelihood of a coalition government?
 			- Coalition government is when 2 or more powers join to share power in the executive branch
 			- In this case, the independent variable is the electoral system and the dependent variable is the coalition government
-	- Theory development and tes
+	- Theory development and testing are ways researches seek to come up with explanations for why things happen
