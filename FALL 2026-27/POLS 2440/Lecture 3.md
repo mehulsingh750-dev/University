@@ -27,4 +27,5 @@ UNIT 2
 		- For example, there is a positive correlation between ice cream sales and shark attacks
 		- The real reason for this is because people are outside more due to better weather
 		- Independent variable CAUSES the dependent to change
-		- 
+		- Interconnected variables are when both variables cause each other
+			- For example
