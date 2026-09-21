@@ -21,4 +21,5 @@ UNIT 2
 		- The correlation between variables can be positive and negative
 		- If its positive, x and y both go up or down together
 		- If its negative, x and y go opposite directions
-	- 
+		- Correlation does NOT always mean causation
+		- Analysis needs to be conducted to dtermine 
