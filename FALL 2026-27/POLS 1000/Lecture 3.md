@@ -21,5 +21,6 @@ Ch.6
 	- Dissolution of Parliament
 		- To call an election, the PM requests that the GG grant dissolution, essentially ending the current parliment
 			- Dignified - Majority Parliament and absence of 'government in-waiting'
+				- Largest opposition party waiting to take power
 			- Efficient - Minority Parliament and GG thinks another PM can be appointed
 		- 
