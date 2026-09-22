@@ -14,4 +14,5 @@
 	- French and Haitian revolution expanded this idea by expanding human rights 
 	- 4 key principles
 		- Juridical equality
+		- Democratic legitimacy
 		- 
