@@ -15,4 +15,5 @@
 	- 4 key principles
 		- Juridical equality
 		- Democratic legitimacy
+		- Right to own property
 		- 
