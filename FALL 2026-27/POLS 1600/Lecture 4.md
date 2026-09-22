@@ -11,4 +11,5 @@
 		- Growing capitalist trade network
 		- Organizing 1000's of people in a workforce became the new norm
 		- Expansion of colonialism/imperialism
-		- 
+	- French and Haitian revolution expanded this idea by expanding human rights 
+	- 
