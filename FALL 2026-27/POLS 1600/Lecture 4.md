@@ -4,4 +4,5 @@
 		- Anti Monarchy
 		- Beginnings of industrial capitalism
 		- Growing focus on human reason, science, empiricism
-	- Individuals have rights
+	- Individuals have rights, politically, economically and morally
+	- 
