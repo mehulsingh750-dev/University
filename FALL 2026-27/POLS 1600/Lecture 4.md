@@ -8,4 +8,4 @@
 	- Trends
 		- Centralized territorial nation state
 		- Modern scientific methods, leading to greater innovation
-		- 
+		- Growing capatilist trade 
