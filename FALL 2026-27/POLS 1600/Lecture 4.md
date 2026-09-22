@@ -1,2 +1,2 @@
-- Liberal Party
+- Liberalism
 	- 
