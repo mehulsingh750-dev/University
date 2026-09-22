@@ -10,4 +10,5 @@
 		- Modern scientific methods, leading to greater innovation
 		- Growing capitalist trade network
 		- Organizing 1000's of people in a workforce became the new norm
+		- Expansion of colonialism/imperialism
 		- 
