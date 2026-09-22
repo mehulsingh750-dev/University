@@ -8,4 +8,6 @@
 	- Trends
 		- Centralized territorial nation state
 		- Modern scientific methods, leading to greater innovation
-		- Growing capatilist trade 
+		- Growing capitalist trade network
+		- Organizing 1000's of people in a workforce became the new norm
+		- 
