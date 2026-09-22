@@ -1,3 +1,5 @@
 - Liberalism
 	- 17th Century in England
-	- 
+		- Political Upheaval
+		- Anti Monarchy
+		- Beginnings of industr
