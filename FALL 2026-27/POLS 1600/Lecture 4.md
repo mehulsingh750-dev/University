@@ -2,4 +2,6 @@
 	- 17th Century in England
 		- Political Upheaval
 		- Anti Monarchy
-		- Beginnings of industr
+		- Beginnings of industrial capitalism
+		- Growing focus on human reason, science, empiricism
+		- 
