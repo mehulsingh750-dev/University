@@ -5,4 +5,7 @@
 		- Beginnings of industrial capitalism
 		- Growing focus on human reason, science, empiricism
 	- Individuals have rights, politically, economically and morally
-	- 
+	- Trends
+		- Centralized territorial nation state
+		- Modern scientific methods, leading to greater innovation
+		- 
