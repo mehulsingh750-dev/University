@@ -53,4 +53,4 @@ The House of Commons
 	- No province shall have less seats than it had in 1974
 	- Each territory is entitled to one seat in the HOC
 		- If strict rep. by pop. was enforced, they would have none
-- 
+- Variations in size of ridings/constituencies led to 
