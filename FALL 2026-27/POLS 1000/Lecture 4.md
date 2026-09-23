@@ -32,4 +32,5 @@
 	- Trudeaus Senate Reforms
 		- As the leader of the liberal party in 2014, he expels the liberal senators from the caucus and made them independent in the senate
 		- This was done in hopes for true 'sober second-thoughts' in the senate
+		- He also made an 'independent advisory board' which sought to award merit in order to become a senator
 		- 
