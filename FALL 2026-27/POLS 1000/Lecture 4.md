@@ -55,4 +55,5 @@ The House of Commons
 		- If strict rep. by pop. was enforced, they would have none
 - Variations in size of ridings/constituencies led to a constitutional challenge under section 3 (democratic rights) of the Charter of Rights and Freedoms: Reference Re Electoral Boundaries (Saskatchewan) 1991.
 - Supreme Court dismissed and kept their support for distortion of rep. by pop.
-- 
+	- The right to vote is not about equal voting power but right for representation
+	- 
