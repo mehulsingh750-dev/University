@@ -1,1 +1,3 @@
-- 
+- Qualifications for becoming a senate:
+	- Section 23 of the Constitution act of 1867
+	- 
