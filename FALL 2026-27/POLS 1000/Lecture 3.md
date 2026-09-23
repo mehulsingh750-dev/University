@@ -33,4 +33,4 @@ Senate
 	- Offered to violate fundamental rights of citizens
 	- Senate said there needed to be a balance between preventing terrorism and protection of human rights
 	- The sunset law was proposed by the senate meaning after 5 years it would expire
-	- Parliment would have to legisls
+	- Parliament would have to legislate again if they wanted to reintroduce it
