@@ -23,4 +23,5 @@
 			- Senators would have an 8 year term and could be reelected
 		- An Act to Provide for Consultation with Electors on their Preference for Appointment to the Senate
 			- He wanted all provinces to have a senator in waiting
-		- Since the upper house
+		- Since the senate was mostly liberal, this didn't pass
+		- He didn't believe in refilling seats in the parliament until december 2008 where the liberal and NDP party threatened to form a coalition
