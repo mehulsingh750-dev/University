@@ -28,4 +28,5 @@
 		- After achieving conservative majority senate, he asked the Supreme court of Canada 2 questions
 			- The Constitutionality of his senate reforms
 			- Possibility of the abolishment of the senate
+		- The Supreme court responded by saying they needed a constitutional amendment
 		- 
