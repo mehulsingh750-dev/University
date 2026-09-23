@@ -30,4 +30,7 @@ Senate
 		- Protection of minority interests
 		- To control democratic impulses of the House of Commons
 - Anti-terrorist act was proposed in parliament in 2001
-	- Offered to violate fundamnetal rights of citizens
+	- Offered to violate fundamental rights of citizens
+	- Senate said there needed to be a balance between preventing terrorism and protection of human rights
+	- The sunset law was proposed by the senate meaning after 5 years it would expire
+	- Parliment would have to legisls
