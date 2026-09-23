@@ -53,4 +53,6 @@ The House of Commons
 	- No province shall have less seats than it had in 1974
 	- Each territory is entitled to one seat in the HOC
 		- If strict rep. by pop. was enforced, they would have none
-- Variations in size of ridings/constituencies led to 
+- Variations in size of ridings/constituencies led to a constitutional challenge under section 3 (democratic rights) of the Charter of Rights and Freedoms: Reference Re Electoral Boundaries (Saskatchewan) 1991.
+- Supreme Court dismissed and kept their support for distortion of rep. by pop.
+- 
