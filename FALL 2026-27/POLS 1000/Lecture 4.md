@@ -13,4 +13,5 @@
 	- Alberta wants a triple E senate
 		- Senators would be elected as opposed to appointed
 		- The senate would become effective, act as a real counterweight towards the house of commons - make more amendments and block legislature
+		- Each province should have an equal number of senators 
 		- 
