@@ -31,4 +31,5 @@
 		- The Supreme court responded by saying they needed a constitutional amendment
 	- Trudeaus Senate Reforms
 		- As the leader of the liberal party in 2014, he expels the liberal senators from the caucus and made them independent in the senate
-		- This was 
+		- This was done in hopes for true 'sober second-thoughts' in the senate
+		- 
