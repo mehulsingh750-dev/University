@@ -29,4 +29,5 @@
 			- The Constitutionality of his senate reforms
 			- Possibility of the abolishment of the senate
 		- The Supreme court responded by saying they needed a constitutional amendment
-		- 
+	- Trudeaus Senate Reforms
+		- As the leader of the liberal party in 2014, he expels the liberal senators
