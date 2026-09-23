@@ -29,4 +29,5 @@ Senate
 	- John McDonald, the first PM had 2 rules
 		- Protection of minority interests
 		- To control democratic impulses of the House of Commons
-	- 
+- Anti-terrorist act was proposed in parliament in 2001
+	- Offered to violate fundamnetal rights of citizens
