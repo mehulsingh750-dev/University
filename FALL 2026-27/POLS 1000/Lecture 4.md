@@ -6,4 +6,6 @@
 	- Supreme court dismissed this act
 	- JCPC reversed this and made the argument that if women had the right to vote they should be able to become senators
 - Senate Reform
-	- The senate is the leeast refo
+	- The senate is the least reformed parliamentary institution - meaning it is the most similar to when it was in 1867
+	- Reformed in 1965 by adding a mandatory retirement at 75
+	- Since 19
