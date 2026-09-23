@@ -41,4 +41,8 @@
 	- Provincial representation  
 	- Triple E Senate
 The House of Commons
+- Essay Questions
+	- To define representation by population in the House of Commons (HOC).  
+	- To identify and describe the organizing principle and structure of the HOC.  
+	- To determined whether the HOC, and Parliament as a whole, are efficient or dignified elements of the constitution.
 - 
