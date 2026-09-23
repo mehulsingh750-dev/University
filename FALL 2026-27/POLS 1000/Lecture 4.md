@@ -1,4 +1,6 @@
 - Qualifications for becoming a senate:
 	- Section 23 of the Constitution act of 1867
 - Judicial Committee of the Privy Council (JCPC)
-	- a
+	- Appointed the first female senator in 1930 - Persons reference of 1929
+	- Challenged in 1927 by the famous 5
+	- 
