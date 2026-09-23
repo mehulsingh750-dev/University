@@ -5,4 +5,5 @@
 	- Challenged in 1927 by the famous 5
 	- Supreme court dismissed this act
 	- JCPC reversed this and made the argument that if women had the right to vote they should be able to become senators
-	- 
+- Senate Reform
+	- The senate is the leeast refo
