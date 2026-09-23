@@ -25,4 +25,7 @@
 			- He wanted all provinces to have a senator in waiting
 		- Since the senate was mostly liberal, this didn't pass
 		- He didn't believe in refilling seats in the parliament until December 2008 where the liberal and NDP party threatened to form a coalition
-		- After achieving conservative majority senate, he asked the 
+		- After achieving conservative majority senate, he asked the Supreme court of Canada 2 questions
+			- The Constitutionality of his senate reforms
+			- Possibility of the abolishment of the senate
+		- 
