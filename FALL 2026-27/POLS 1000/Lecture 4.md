@@ -10,4 +10,7 @@
 	- Reformed in 1965 by adding a mandatory retirement at 75
 	- Since 1970, 37 attempts were made to constitutionally reform the senate and all have failed
 	- Provinces don't agree on what changes should occur
-	- Alberta wants a 
+	- Alberta wants a triple E senate
+		- Senators would be elected as opposed to appointed
+		- The senate would become effective, act as a real counterweight towards the house of commons - make more amendments and block legislature
+		- 
