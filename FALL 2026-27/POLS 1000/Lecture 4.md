@@ -14,4 +14,5 @@
 		- Senators would be elected as opposed to appointed
 		- The senate would become effective, act as a real counterweight towards the house of commons - make more amendments and block legislature
 		- Each province should have an equal number of senators 
+		- Alberta has already elected their own senators called 'senators in waiting' 
 		- 
