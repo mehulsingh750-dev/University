@@ -1,3 +1,4 @@
 - Qualifications for becoming a senate:
 	- Section 23 of the Constitution act of 1867
-	- 
+- Judicial Committee of the Privy Council (JCPC)
+	- a
