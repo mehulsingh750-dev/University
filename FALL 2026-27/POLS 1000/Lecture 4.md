@@ -17,4 +17,5 @@
 		- Alberta has already elected their own senators called 'senators in waiting' 
 	- NDP has been in favour of abolition of the senate
 	- Conservative party wants the triple E
+	- Liberal party wants an independent senate
 	- 
