@@ -34,4 +34,5 @@
 		- This was done in hopes for true 'sober second-thoughts' in the senate
 		- He also made an 'independent advisory board' which sought to award merit in order to become a senator
 		- When Carney came in, he made the selection criteria to allow partisanship and made a more specific criteria based on expertise
-		- 
+- Key terms:
+	- 
