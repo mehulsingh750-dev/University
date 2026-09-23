@@ -19,4 +19,6 @@
 	- Conservative party wants the triple E
 	- Liberal party wants an independent senate
 	- Harper created 2 bills to reform the constitution in 2006
-		- 
+		- An Act to Amend the Constitution Act, 1867 (Senate Tenure)  
+		- An Act to Provide for Consultation with Electors on their Preference for Appointment to the Senate
+	- 
