@@ -15,4 +15,6 @@
 		- The senate would become effective, act as a real counterweight towards the house of commons - make more amendments and block legislature
 		- Each province should have an equal number of senators 
 		- Alberta has already elected their own senators called 'senators in waiting' 
+	- NDP has been in favour of abolition of the senate
+	- Conservative party wants the triple E
 	- 
