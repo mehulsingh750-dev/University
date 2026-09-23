@@ -48,4 +48,8 @@ The House of Commons
 - HOC is based on principle of representation by population
 	- 338 ridings, each represented by 1 member of parliament
 	- UOW is in the federal riding of Windsor west rep. by MP Harb Gill since 2025
-- According to the 1867 constitution 
+- According to the 1867 constitution:
+	- You cannot have less member of parliament than members of the senate for a province
+	- No province shall have less seats than it had in 1974
+	- Each territory is entitled to one seat in the HOC
+- 
