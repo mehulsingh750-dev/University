@@ -47,5 +47,5 @@ The House of Commons
 	- To determined whether the HOC, and Parliament as a whole, are efficient or dignified elements of the constitution.
 - HOC is based on principle of representation by population
 	- 338 ridings, each represented by 1 member of parliament
-	- UOW is in the federal riding of windsor west rep. by MP Harb Gill since 2025
-- 
+	- UOW is in the federal riding of Windsor west rep. by MP Harb Gill since 2025
+- According to the 1867 constitution 
