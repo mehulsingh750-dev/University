@@ -9,4 +9,5 @@
 	- The senate is the least reformed parliamentary institution - meaning it is the most similar to when it was in 1867
 	- Reformed in 1965 by adding a mandatory retirement at 75
 	- Since 1970, 37 attempts were made to constitutionally reform the senate and all have failed
-	- 
+	- Provinces don't agree on what changes should occur
+	- Alberta wants a 
