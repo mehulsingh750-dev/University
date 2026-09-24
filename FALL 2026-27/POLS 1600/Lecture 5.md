@@ -7,3 +7,5 @@
 	- Collective security
 	- Shared values and culture
 - Read on deglobalization and re-globalization
+Realism
+- 
