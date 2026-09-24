@@ -10,4 +10,7 @@
 Realism
 - People seek power, want to control their environment through violence
 - The reality of how states interact with each other
-	- On the domestic level is easy to prevent 
+	- On the domestic level is easy to prevent violence
+	- On the international level states go to war
+- Anarchic system
+	- 
