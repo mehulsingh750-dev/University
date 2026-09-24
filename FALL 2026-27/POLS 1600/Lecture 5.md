@@ -6,4 +6,4 @@
 	- Trade and economic growth
 	- Collective security
 	- Shared values and culture
-- 
+- Read on deglobalization and re-globalization
