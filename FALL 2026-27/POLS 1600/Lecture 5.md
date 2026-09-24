@@ -6,6 +6,6 @@
 	- Trade and economic growth
 	- Collective security
 	- Shared values and culture
-- Read on deglobalization and re-globalization
+- Read on de-globalization and re-globalization
 Realism
 - 
