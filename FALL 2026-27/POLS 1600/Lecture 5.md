@@ -18,4 +18,6 @@ Realism
 	- Self Help
 	- Survival
 - States can only rely on themselves
-	- States c
+	- States cannot rely on others for any type of resource/commodity
+	- Realism solely relies on domination and power
+	- 
