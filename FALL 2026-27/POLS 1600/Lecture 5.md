@@ -13,4 +13,4 @@ Realism
 	- On the domestic level is easy to prevent violence
 	- On the international level states go to war
 - Anarchic system
-	- 
+- 
