@@ -17,3 +17,4 @@
 		- Democratic legitimacy
 		- Right to own property
 		- Free markets + limited government
+	
