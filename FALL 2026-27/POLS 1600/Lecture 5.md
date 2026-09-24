@@ -1,3 +1,3 @@
 - Domestic Analogy
-	- Individual citizen
+	- Individual citizen <--> democratic state <--> international society of states
 	- 
