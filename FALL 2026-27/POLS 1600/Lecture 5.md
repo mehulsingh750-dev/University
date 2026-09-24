@@ -1,3 +1,4 @@
 - Domestic Analogy
 	- Individual citizen <--> democratic state <--> international society of states
+- Democratic peace theory
 	- 
