@@ -17,3 +17,4 @@ Realism
 	- Statism
 	- Self Help
 	- Survival
+- 
