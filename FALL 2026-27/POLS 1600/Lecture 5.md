@@ -9,4 +9,5 @@
 - Read on de-globalization and re-globalization
 Realism
 - People seek power, want to control their environment through violence
-- 
+- The reality of how states interact with each other
+	- On the domestic level is easy to prevent 
