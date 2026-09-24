@@ -2,4 +2,5 @@
 	- Individual citizen <--> democratic state <--> international society of states
 - Democratic peace thesis
 	- Democracies are more peaceful 
-- 
+- interdependence
+	- 
