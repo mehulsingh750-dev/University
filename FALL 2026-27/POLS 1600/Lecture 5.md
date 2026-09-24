@@ -8,4 +8,5 @@
 	- Shared values and culture
 - Read on de-globalization and re-globalization
 Realism
+- People seek power, want to control their environment through violence
 - 
