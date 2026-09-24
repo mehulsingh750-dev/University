@@ -17,4 +17,8 @@
 		- Democratic legitimacy
 		- Right to own property
 		- Free markets + limited government
-	
+	- Individual liberty
+		- English Rev. (17th C.)
+		- American Rev (1776-83)
+		- French Rev (1789-99)
+		- Haitian Rev ()
