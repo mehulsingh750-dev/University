@@ -1,1 +1,5 @@
+- Citizenship
+	-  the process of progressive inclusion of all individuals making up the people into a formally equal relationship to the state itself
+- Nationhood
+	-  the political community typical of modern states understands itself as a nation
 - 
