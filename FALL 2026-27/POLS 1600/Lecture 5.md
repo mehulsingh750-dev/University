@@ -17,4 +17,5 @@ Realism
 	- Statism
 	- Self Help
 	- Survival
-- 
+- States can only rely on themselves
+	- States c
