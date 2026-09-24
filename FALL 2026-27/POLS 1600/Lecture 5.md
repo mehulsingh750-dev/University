@@ -1,4 +1,5 @@
 - Domestic Analogy
 	- Individual citizen <--> democratic state <--> international society of states
-- Democratic peace theory
-	- 
+- Democratic peace thesis
+	- Democracies are more peaceful 
+- 
