@@ -48,4 +48,5 @@
 	- Able to attack governments legislative agenda
 	- HOC is not legislative, they only approve bills not make it
 	- Dignified or efficient?
-		- Donald Savoie (The Rise of Court Government) suggested that parliment 
+		- Donald Savoie (The Rise of Court Government) suggested that Parliament has gone from efficient to dignified as MP's will rarely go against their party leader
+		- 
