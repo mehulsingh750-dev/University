@@ -19,4 +19,5 @@
 	- The third wave occurred in the 1970's (Greece; Spain)
 	- The fourth wave occurred after the Soviet Union and its control over Eastern Europe
 		- Communist single-party governments were overthrown across Eastern Europe
-		- Mikhail Gorbachev's decision not to intervene
+		- Mikhail Gorbachev's decision not to intervene contributed to this
+	- 
