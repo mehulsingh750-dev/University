@@ -12,4 +12,5 @@
 	- If successful, it called a CONSOLIDATED DEMOCRACY
 	- Why does this happen?
 		- Countries surrounding them could affect the political system
-		- Dependent variab
+		- Dependent variable is the democratization 
+		- 
