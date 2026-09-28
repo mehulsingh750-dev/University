@@ -39,4 +39,6 @@
 	- Relates to the involvement of citizens in political life
 	- There are many different ways in which this can, and does take place in Europe
 	- Participation can involve citizen consultation exercises, electric town halls and commissions
-	- 
+	- CIVIL SOCIETY
+		- How accessible is the political system
+	- These concepts are engaged witj
