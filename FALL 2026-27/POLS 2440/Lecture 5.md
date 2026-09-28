@@ -20,4 +20,5 @@
 	- The fourth wave occurred after the Soviet Union and its control over Eastern Europe
 		- Communist single-party governments were overthrown across Eastern Europe
 		- Mikhail Gorbachev's decision not to intervene contributed to this
-	- 
+		- For the first time across Eastern Europe, citizens were allowed to vote in free and fair elections
+		- 
