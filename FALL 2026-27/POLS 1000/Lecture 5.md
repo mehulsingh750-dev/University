@@ -27,6 +27,8 @@
 			- Decides who qualifies for a parliamentary party
 		- Party Whip
 			- Conscience vote
-				- 
+				- Non binding attendance and voting
+				- Abortion, death penalty, gay marriage (in previous years)
+			- One l
 	- Party Discipline 
 		- The convention that all MPs within any party vote together on every occasion, as predetermined in the party caucus meeting, ordered by the Prime Minister in the case of the government party, and enforced by the party whip.
