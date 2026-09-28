@@ -31,4 +31,6 @@
 		- Euro states are not identical in the way they function
 		- One difference is Parliamentary, Presidential and semi-presidential democracies
 		- Another is FEDERAL and UNITARY systems
-		- 
+- Representative Democracy
+	- In a representative democracy, citizens vote for reps. who take decisions in their name
+	- This form of democracy takes place at different levels - local, regional 
