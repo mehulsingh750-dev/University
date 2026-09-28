@@ -14,4 +14,6 @@
 		- Countries surrounding them could affect the political system
 		- Dependent variable is the democratization 
 		- Industrialization 
-	- The first slow wave occurred through the 19th to 20th century (UK; Netherlands; Belgiu)
+	- The first slow wave occurred through the 19th to 20th century (UK; Netherlands; Belgium; France)
+	- The second wave followed the end of the Second World War (Italy; Germany; Austria)
+	- The third wave occured in the 1970's 
