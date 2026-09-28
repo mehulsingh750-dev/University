@@ -17,7 +17,7 @@
 		- Officially recognized by the speaker of the house
 		- Need 12 members
 		- Allowed to ask questions during question periods
-		- Have a rese
+		- Have a research budget
 	- Non Parliamentary parties
 		- Only have 11 members or less
 	- 
