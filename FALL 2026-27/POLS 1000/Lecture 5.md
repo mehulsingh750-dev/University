@@ -42,4 +42,5 @@
 	- Crossing of the floor
 		- When an MP decides to switch parties
 		- Must inform the speaker in writing of their request to be recognized as a member of another parliamentary party
-		- 
+- Role of the HOC
+	- Budget motions are also 
