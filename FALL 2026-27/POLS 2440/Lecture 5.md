@@ -33,4 +33,4 @@
 		- Another is FEDERAL and UNITARY systems
 - Representative Democracy
 	- In a representative democracy, citizens vote for reps. who take decisions in their name
-	- This form of democracy takes place at different levels - local, regional 
+	- This form of democracy takes place at different levels - local, regional and national
