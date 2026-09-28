@@ -36,4 +36,6 @@
 	- This form of democracy takes place at different levels - local, regional and national
 	- Differences include the scale, the term length, and different voting systems
 - Participatory Democracy **
-	- 
+	- Relates to the involvement of citizens in political life
+	- There are many different ways in which this can, and does take place in Europe
+	- Participation 
