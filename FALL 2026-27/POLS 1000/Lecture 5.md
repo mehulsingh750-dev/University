@@ -5,4 +5,7 @@
 - Organization of the HOC
 	- The principle is adversarialism
 	- Nunavut is the outlier in Canada as it has a consensus system
-	- 
+	- Secretary of State
+		- Junior minister, part of cabinet 
+		- Their portfolio is under the umbrella of a bigger minister
+	- Parlimentary sEC
