@@ -4,4 +4,4 @@
 	- Independent media, not government focused
 	- Multiple candidates
 	- Law applies to everybody
-	- 
+- 
