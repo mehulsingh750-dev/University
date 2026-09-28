@@ -10,4 +10,7 @@
 		- Their portfolio is under the umbrella of a bigger minister
 	- Parliamentary Secretaries 
 		- Rep the ministers in HOC when they are away on business
-		- Simply there as an aid in parliament 
+		- Simply there as an aid in parliament
+	- 3rd, 4th, and 5th rows are the back bench
+		- Known as the shadow cabinet
+	- 
