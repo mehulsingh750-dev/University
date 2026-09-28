@@ -48,4 +48,6 @@
 	- A recent example is Brexit, where citizens were asked directly to vote whether or not the UK should leave the EU
 	- A small majority voted to leave
 	- Some EU states use it a lot like Switzerland while others rarely use it like Germany
-	- Referendums can b
+	- Referendums can be 'government led' (TOP DOWN)
+	- They can also be 'citizen led' (BOTTOM UP)
+	- 
