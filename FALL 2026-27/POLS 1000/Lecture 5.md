@@ -13,4 +13,4 @@
 		- Simply there as an aid in parliament
 	- 3rd, 4th, and 5th rows are the back bench
 		- Known as the shadow cabinet
-	- 
+	- l
