@@ -30,4 +30,4 @@
 		- They contain elements of DIRECT DEMOCRACIES and PARTICIPATORY DEMOCRACIES
 		- Euro states are not identical in the way they function
 		- One difference is Parliamentary, Presidential and semi-presidential democracies
-		- Another is FE
+		- Another is FEDERAL and UNITARY systems
