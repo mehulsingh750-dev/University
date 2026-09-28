@@ -1,4 +1,5 @@
 - Nova Scotia
 	- Acadian (descendants of french settlers in eastern provinces) ridings are protected in order to be represented
 - Electoral system
-	- Single member plurality (SMP)
+	- Single member plurality (SMP) 
+- 
