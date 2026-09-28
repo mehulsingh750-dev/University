@@ -41,4 +41,5 @@
 	- Participation can involve citizen consultation exercises, electric town halls and commissions
 	- CIVIL SOCIETY
 		- How accessible is the political system
-	- These concepts are engaged witj
+	- These concepts are engaged with representative democracy, not contrasting it
+- D
