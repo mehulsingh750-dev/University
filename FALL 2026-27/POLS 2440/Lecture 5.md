@@ -44,4 +44,5 @@
 	- These concepts are engaged with representative democracy, not contrasting it
 - Direct Democracy
 	- Citizens taking decisions directly rather than choosing reps
-	- In a direct democracy 
+	- A referendum is an example of this
+	- A recent example is Brexit, where citizens were asked directly to vote
