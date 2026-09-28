@@ -13,4 +13,4 @@
 	- Why does this happen?
 		- Countries surrounding them could affect the political system
 		- Dependent variable is the democratization 
-		- 
+		- Industrialization 
