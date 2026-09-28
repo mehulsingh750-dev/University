@@ -26,3 +26,5 @@
 			- Sec 44-49 of the constitution talk about the people
 			- Decides who qualifies for a parliamentary party
 		- Party Whip
+	- Party Discipline 
+		- The convention that all MPs within any party vote together on every occasion, as predetermined in the party caucus meeting, ordered by the Prime Minister in the case of the government party, and enforced by the party whip.
