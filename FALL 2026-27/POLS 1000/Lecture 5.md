@@ -40,4 +40,5 @@
 	- Party Discipline 
 		- The convention that all MPs within any party vote together on every occasion, as predetermined in the party caucus meeting, ordered by the Prime Minister in the case of the government party, and enforced by the party whip.
 	- Crossing of the floor
-		- 
+		- When an MP decides to switch parties
+		- Must inform the speaker in writing of their request to be recognozed as a member of another parlimentary party
