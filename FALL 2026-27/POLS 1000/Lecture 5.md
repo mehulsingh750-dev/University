@@ -20,4 +20,7 @@
 		- Have a research budget
 	- Non Parliamentary parties
 		- Only have 11 members or less
-	- 
+	- Actors
+		- Speaker of the House
+			- 2 deputy speakers as well, but their main jobs are to supervise question period
+			- 
