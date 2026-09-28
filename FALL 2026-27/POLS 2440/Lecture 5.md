@@ -27,4 +27,6 @@
 - The Functioning of Democracies
 	- The way Euro states function, the way they interact with their citizens, the policies they produce and the ways they interact with each other.
 	- Most Euro states are REPRESENTATIVE DEMOCRACIES
-		- They contain elements of DIRECT DEMOCRACIES
+		- They contain elements of DIRECT DEMOCRACIES and PARTICIPATORY DEMOCRACIES
+		- Euro states are not identical in the way they function
+		- 
