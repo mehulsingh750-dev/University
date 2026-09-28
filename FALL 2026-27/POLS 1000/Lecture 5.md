@@ -44,4 +44,6 @@
 		- Must inform the speaker in writing of their request to be recognized as a member of another parliamentary party
 - Role of the HOC
 	- Act as a confidence chamber
-	- To be a representative body, but 
+	- To be a representative body with diverse perspectives and opinions
+	- Able to attack governments legislative agenda
+	- HOC is not legislative, they only approve b
