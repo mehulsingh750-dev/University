@@ -6,7 +6,7 @@
 	- Law applies to everybody
 - Facade democracy
 	- A system that identifies as a democracy, but does not operate like one
-- Democratization 
+- Democratization (Sam Huntington)
 	- The process by which a state moves from authoritarianism to democracy
 	- States undergoing this change are called TRANSITIONAL DEMOCRACIES
 	- If successful, it called a CONSOLIDATED DEMOCRACY
