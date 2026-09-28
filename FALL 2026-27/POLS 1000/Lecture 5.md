@@ -47,3 +47,5 @@
 	- To be a representative body with diverse perspectives and opinions
 	- Able to attack governments legislative agenda
 	- HOC is not legislative, they only approve bills not make it
+	- Dignified or effecient?
+		- 
