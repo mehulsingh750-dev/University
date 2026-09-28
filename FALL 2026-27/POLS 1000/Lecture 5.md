@@ -14,4 +14,7 @@
 	- 3rd, 4th, and 5th rows are the back bench
 		- Known as the shadow cabinet
 	- Parliamentary Parties
-		- 
+		- Officially recognized by the speaker of the house
+		- Need 12 members
+	- Non Parliamentary parties
+		- Only have 11 members or les
