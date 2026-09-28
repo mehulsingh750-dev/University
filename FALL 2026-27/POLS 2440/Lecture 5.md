@@ -29,4 +29,4 @@
 	- Most Euro states are REPRESENTATIVE DEMOCRACIES
 		- They contain elements of DIRECT DEMOCRACIES and PARTICIPATORY DEMOCRACIES
 		- Euro states are not identical in the way they function
-		- 
+		- Parliamentary, Presidential and 
