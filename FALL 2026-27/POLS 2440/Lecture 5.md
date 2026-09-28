@@ -45,4 +45,6 @@
 - Direct Democracy
 	- Citizens taking decisions directly rather than choosing reps
 	- A referendum is an example of this
-	- A recent example is Brexit, where citizens were asked directly to vote
+	- A recent example is Brexit, where citizens were asked directly to vote whether or not the UK should leave the EU
+	- A small majority voted to leave
+	- Some EU states use it a lot l
