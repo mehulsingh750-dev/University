@@ -42,4 +42,6 @@
 	- CIVIL SOCIETY
 		- How accessible is the political system
 	- These concepts are engaged with representative democracy, not contrasting it
-- D
+- Direct Democracy
+	- Citizens taking decisions directly rather than choosing reps
+	- In a direct democracy 
