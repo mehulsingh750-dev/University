@@ -3,4 +3,5 @@
 		- Universal suffrage, meaning everyone has the right to vote
 	- Independent media, not government focused
 	- Multiple candidates
+	- Law applies to everybody
 	- 
