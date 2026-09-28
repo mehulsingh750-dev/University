@@ -4,4 +4,5 @@
 	- Independent media, not government focused
 	- Multiple candidates
 	- Law applies to everybody
-- 
+- Facade democracy
+	- A system that identifies as a democracy, but does not operate 
