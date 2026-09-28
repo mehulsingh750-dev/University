@@ -11,4 +11,5 @@
 	- States undergoing this change are called TRANSITIONAL DEMOCRACIES
 	- If successful, it called a CONSOLIDATED DEMOCRACY
 	- Why does this happen?
+		- Countries surrounding them could affect the political system
 		- 
