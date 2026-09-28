@@ -1,2 +1,2 @@
 - Nova Scotia
-	- Acadian ridings 
+	- Acadian (descendants of french settlers in eastern provinces) ridings 
