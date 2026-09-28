@@ -1,2 +1,4 @@
 - Liberal Democracy
+	- Free and fair election
+		- Universal suffrage, meaning everyone has the right to vote
 	- 
