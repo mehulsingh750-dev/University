@@ -10,4 +10,5 @@
 	- The process by which a state moves from authoritarianism to democracy
 	- States undergoing this change are called TRANSITIONAL DEMOCRACIES
 	- If successful, it called a CONSOLIDATED DEMOCRACY
-	- 
+	- Why does this happen?
+		- 
