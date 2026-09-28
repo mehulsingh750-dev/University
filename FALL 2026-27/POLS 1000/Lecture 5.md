@@ -8,4 +8,6 @@
 	- Secretary of State
 		- Junior minister, part of cabinet 
 		- Their portfolio is under the umbrella of a bigger minister
-	- Parlimentary sEC
+	- Parliamentary Secretaries 
+		- Rep the ministers in HOC when they are away on business
+		- Simply there as an aid in parliament 
