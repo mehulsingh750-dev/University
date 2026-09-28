@@ -3,4 +3,5 @@
 - Electoral system
 	- Single member plurality (SMP) 
 - Organization of the HOC
-	- The principle is adversa
+	- The principle is adversarialism
+	- 
