@@ -23,4 +23,4 @@
 	- Actors
 		- Speaker of the House
 			- 2 deputy speakers as well, but their main jobs are to supervise question period
-			- 
+			- Sec 44-49 of the constitution talk about the people
