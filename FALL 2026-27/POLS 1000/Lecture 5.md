@@ -46,4 +46,4 @@
 	- Act as a confidence chamber
 	- To be a representative body with diverse perspectives and opinions
 	- Able to attack governments legislative agenda
-	- HOC is not legislative, they only approve b
+	- HOC is not legislative, they only approve bills not make it
