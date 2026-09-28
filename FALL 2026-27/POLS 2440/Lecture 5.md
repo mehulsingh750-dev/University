@@ -26,3 +26,5 @@
 	- The Weimar Republic, established at the end of WW1, collapsed in 1933 and was replaced by Hitlers Third Reich
 - The Functioning of Democracies
 	- The way Euro states function, the way they interact with their citizens, the policies they produce and the ways they interact with each other.
+	- Most Euro states are REPRESENTATIVE DEMOCRACIES
+		- They contain elements of DIRECT DEMOCRACIES
