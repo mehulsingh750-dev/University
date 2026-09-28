@@ -21,4 +21,6 @@
 		- Communist single-party governments were overthrown across Eastern Europe
 		- Mikhail Gorbachev's decision not to intervene contributed to this
 		- For the first time across Eastern Europe, citizens were allowed to vote in free and fair elections
-		- 
+- Failure of Democracy
+	- Germany is a clear example
+	- The Weimar Republic, established at the end of WW1, collapsed in 
