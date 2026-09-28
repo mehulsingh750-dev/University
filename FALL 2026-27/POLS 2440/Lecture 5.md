@@ -5,4 +5,5 @@
 	- Multiple candidates
 	- Law applies to everybody
 - Facade democracy
-	- A system that identifies as a democracy, but does not operate 
+	- A system that identifies as a democracy, but does not operate like one
+- 
