@@ -6,4 +6,6 @@
 	- Law applies to everybody
 - Facade democracy
 	- A system that identifies as a democracy, but does not operate like one
-- 
+- Democratization 
+	- The process by which a state moves from authoritarinism to democracy
+	- States undergoing this change are called TRANSITIONAL DEMOCRACIES
