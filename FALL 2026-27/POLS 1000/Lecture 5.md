@@ -4,4 +4,5 @@
 	- Single member plurality (SMP) 
 - Organization of the HOC
 	- The principle is adversarialism
+	- Nunavut is the outlier in Canada as it has a consensus system
 	- 
