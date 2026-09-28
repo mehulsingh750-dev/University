@@ -38,4 +38,5 @@
 - Participatory Democracy **
 	- Relates to the involvement of citizens in political life
 	- There are many different ways in which this can, and does take place in Europe
-	- Participation 
+	- Participation can involve citizen consultation exercises, electric town halls and commissions
+	- 
