@@ -29,6 +29,10 @@
 			- Conscience vote
 				- Non binding attendance and voting
 				- Abortion, death penalty, gay marriage (in previous years)
-			- One l
+			- One line whip
+				- Non binding attendance and voting
+			- Two line whip
+				- Partially binding attendance and voting
+				- Party will tell MP how to vote, but no prenalty
 	- Party Discipline 
 		- The convention that all MPs within any party vote together on every occasion, as predetermined in the party caucus meeting, ordered by the Prime Minister in the case of the government party, and enforced by the party whip.
