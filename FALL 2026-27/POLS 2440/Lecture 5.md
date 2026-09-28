@@ -31,4 +31,4 @@
 		- Euro states are not identical in the way they function
 		- One difference is Parliamentary, Presidential and semi-presidential democracies
 		- Another is FEDERAL and UNITARY systems
-		- Another is 
+		- 
