@@ -26,4 +26,5 @@
 		- 2012 - Orange Revolution in Ukraine
 		- 2014 - Russian annexation of Crimea
 		- 2008 - Russian invasion of Georgia
-		- 
+		- Threat of NATO expansion
+		- Mearseimer argued that we have to take Russias securities interest seriosuly if 
