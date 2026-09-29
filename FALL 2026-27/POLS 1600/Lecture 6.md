@@ -1,4 +1,7 @@
 - Midterm 
 	- 35 mult choice - 2 marks per = 70 marks
 	- 2 short answers - 15 marks = 30 marks
+- Interdependence
+	- Liberalism motivates states to work together through trade and shared ideas
+	- Realism does not support interdependence
 - 
