@@ -4,4 +4,5 @@
 - Interdependence
 	- Liberalism motivates states to work together through trade and shared ideas
 	- Realism does not support interdependence
-- 
+	- If the state relies on someone else, it is considered weak
+	- 
