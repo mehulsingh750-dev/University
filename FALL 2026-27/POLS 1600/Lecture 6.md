@@ -8,4 +8,4 @@
 	- Realists believe that conflict is necessary to keep states in order, states behaviour is never fully predictable 
 - Structural Realism
 	- Emerged towards the end of the Cold War
-	- 
+	- Kenneth Walte and John Mear
