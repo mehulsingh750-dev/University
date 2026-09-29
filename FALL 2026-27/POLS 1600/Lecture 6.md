@@ -14,6 +14,9 @@
 		- Doing anything as a rogue state makes you open to pushback from other states
 		- States will do the same thing when operating in the same system
 	- Defensive Realism
-		-   
+		-   States seek to survive
 	- Offensive Realism
 		- States seek to maximize power
+	- Security Dilema
+		- We dont live in a world of perfect information
+		- 
