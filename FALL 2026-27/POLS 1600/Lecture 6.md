@@ -20,4 +20,5 @@
 	- Security Dilemna
 		- We don't live in a world of perfect information
 		- States military, strategy, resources are all not available
-		- 
+		- With imperfect info, states build up defenses that can look like an offensive position
+	- 
