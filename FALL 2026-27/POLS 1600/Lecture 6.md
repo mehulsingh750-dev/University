@@ -17,6 +17,7 @@
 		-   States seek to survive
 	- Offensive Realism
 		- States seek to maximize power
-	- Security Dilema
-		- We dont live in a world of perfect information
+	- Security Dilemna
+		- We don't live in a world of perfect information
+		- States military, strategy, resources are all not available
 		- 
