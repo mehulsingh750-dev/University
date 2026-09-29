@@ -6,4 +6,6 @@
 	- Realism does not support interdependence
 	- If the state relies on someone else, it is considered weak
 	- Realists believe that conflict is necessary to keep states in order, states behaviour is never fully predictable 
+- Structural Realism
+	- Emerged towards the end of the Cold War
 	- 
