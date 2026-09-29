@@ -8,4 +8,8 @@
 	- Realists believe that conflict is necessary to keep states in order, states behaviour is never fully predictable 
 - Structural Realism
 	- Emerged towards the end of the Cold War
-	- Kenneth Walte and John Mear
+	- Kenneth Walte and John Mearsheimer
+	- Walte says that the system of anarchy limits the states ability to act
+		- Imbalance of power
+		- Doing anything as a rogue state makes you open to pushback from other states
+	- 
