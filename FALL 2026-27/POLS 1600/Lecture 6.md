@@ -5,4 +5,5 @@
 	- Liberalism motivates states to work together through trade and shared ideas
 	- Realism does not support interdependence
 	- If the state relies on someone else, it is considered weak
-	- Realists believe that 
+	- Realists believe that conflict is necessary to keep states in order, states behaviour is never fully predictable 
+	- 
