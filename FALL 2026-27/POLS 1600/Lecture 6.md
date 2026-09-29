@@ -14,5 +14,6 @@
 		- Doing anything as a rogue state makes you open to pushback from other states
 		- States will do the same thing when operating in the same system
 	- Defensive Realism
-		-   E
-	- Off
+		-   
+	- Offensive Realism
+		- States seek to maximize power
