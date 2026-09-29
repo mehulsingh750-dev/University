@@ -12,4 +12,7 @@
 	- Walte says that the system of anarchy limits the states ability to act
 		- Imbalance of power
 		- Doing anything as a rogue state makes you open to pushback from other states
-	- 
+		- States will do the same thing when operating in the same system
+	- Defensive Realism
+		-   E
+	- Off
