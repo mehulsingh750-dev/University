@@ -25,4 +25,5 @@
 		- Feb 2022 full scale invasion
 		- 2012 - Orange Revolution in Ukraine
 		- 2014 - Russian annexation of Crimea
+		- 2008 - Russian invasion of Georgia
 		- 
