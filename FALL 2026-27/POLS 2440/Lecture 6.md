@@ -47,4 +47,6 @@
 	- The constitution took effect on 23 may 1949 and is known as the Basic Law
 - Basic Law
 	- Set out to establish a liberal democracy
-	- it created a political and legal system based on the protection of civil rights and designed to guard 
+	- it created a political and legal system based on the protection of civil rights and designed to guard against extremism
+	- A federal system compromised of a central government (in Bonn) and 11 state governments (LANDER)
+	- 
