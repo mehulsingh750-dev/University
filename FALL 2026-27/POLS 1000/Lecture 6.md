@@ -13,4 +13,5 @@
 	- They are not allowed to publicly disagree with government policy
 	- If an individual minister publicly disagrees with the cabinets decision, they must resign
 	- Example:
-		- Lucien Bou
+		- Lucien Bouchard resigned in 1990 over the changes to the Meech Lake Accord
+		- Led to the formation of the Bloc Quebecois 
