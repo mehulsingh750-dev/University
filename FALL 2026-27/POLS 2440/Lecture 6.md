@@ -34,4 +34,5 @@
 - The Third Reich
 	- All of the factors mentioned previously resulted in Hitlers rise to power in the 1933 election and the end of the Weimar Republic which was replaced by the Totalitarian Third Reich
 		- Totalitarian means everything is controlled by the government, such as the media, economy, education, etc
-	- The Third Reich found its ultamite expres
+	- The Third Reich found its ultimate expression in the Holocaust where hitler persecuted Jews across Europe
+	- The Third Reich 
