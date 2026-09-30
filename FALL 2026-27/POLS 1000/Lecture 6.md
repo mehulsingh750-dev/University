@@ -28,4 +28,6 @@
 	- Institutionalized Cabinet
 		- Focuses on more consultation and coordination
 		- Cabinet ministers shoudl have greater control over bureaucracy
-		- Another stimulus was the development of techniques fr
+		- Another stimulus was the development of techniques for more rational government decision making 
+		- Deputy minister is the bureaucratic head of a department 
+		- 
