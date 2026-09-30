@@ -50,4 +50,5 @@
 	- it created a political and legal system based on the protection of civil rights and designed to guard against extremism
 	- A federal system compromised of a central government (in Bonn) and 11 state governments (LANDER)
 	- A parliamentary system in which political parties were free to compete for power
-	- An electoral system based on propotional reprsentation, but not pure proportional
+	- An electoral system based on proportional representation, but not pure proportional representation 
+	- 
