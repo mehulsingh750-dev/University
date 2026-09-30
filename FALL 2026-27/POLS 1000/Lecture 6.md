@@ -9,4 +9,6 @@
 		- Answers questions during the question period
 		- Invoking closure during a debate
 - Ministerial Responsibility
-	- Cabinet is responsible for its choices and must defend themselves to parliamen 
+	- Cabinet is responsible for its choices and must defend themselves to parliament
+	- They are not allowed to publicly disagree with government policy
+	- 
