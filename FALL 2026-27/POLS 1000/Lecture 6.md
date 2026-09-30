@@ -17,4 +17,5 @@
 		- Led to the formation of the Bloc Quebecois 
 	- Individual ministers are responsible for their own departments and in theory, must resign if there are wrongdoings in their department
 	- Most of the time, the PM will do a cabinet shuffle which means ministers switch roles with each other
+- Two Models of Cabinet Government
 	- 
