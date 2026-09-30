@@ -24,4 +24,5 @@
 - Weimar Republic
 	- The German Empire ended following Germany's defeat in the first world war which resulted in the abdication of the German Emperor
 	- What emerged was Germany's first attempt at a liberal democracy - Weimar Republic (1919-33)
-	- The Weimar 
+	- The Weimar Republic had all the elements of a liberal democracy (right to vote, protection of rights and competing political parties)
+	- 
