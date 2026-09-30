@@ -38,4 +38,6 @@
 	- The Third Reich was claimed to last 1000 years by Hitler, but only lasted 12
 	- Hitler committed suicide in April of 1945 and Germany surrendered unconditionally in May of 1945.
 - Germany Divided
-	- By 1949 the wartime division
+	- By 1949 the wartime division of Germany was solidified with the creation of two separate Germany states
+		- The west part and the east part which was controlled by the Soviet Union
+	- 
