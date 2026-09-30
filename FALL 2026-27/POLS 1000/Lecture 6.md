@@ -2,4 +2,6 @@
 - Prime Minister
 	- Characterized as the 'first among equals' with relation to the cabinet
 	- Following decisions are made by PM
-		- 
+		- Which members of Parliament will be members of the cabinet
+		- Which portfolios will be assigned to which cabinet ministers
+		- Which MP's will serve as parliamentary Secrat
