@@ -42,4 +42,5 @@
 		- Privy Council Office (PCO)
 			- Permanent non political department
 			- Head of the PCO is the Clerk of the Privy Council
-		- Prime M
+		- Prime Ministers Political Office (PMO)
+			- eNSURES THAT THE GOVERNMENTS POLICY AGENDA 
