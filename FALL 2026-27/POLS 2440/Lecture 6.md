@@ -45,4 +45,5 @@
 	- The GDR was a one-party state under the Soviet Union
 	- The constitution of the West Germany was drafted by a Parliamentary Council made up of the main political parties under the oversight of the Allied Powers
 	- The constitution took effect on 23 may 1949 and is known as the Basic Law
-	- 
+- Basic Law
+	- Set out to establish
