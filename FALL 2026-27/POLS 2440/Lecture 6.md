@@ -5,4 +5,6 @@
 	- Within Case study allows us to look at the same political system at different points of time
 	- There are also different pressures and forces that might challenge the existence of a liberal democracy
 - The German Empire
-	- Created in 1871
+	- Modern Germany was created in 1871
+	- German unification was led by prussia and followed a series of three wars
+		- Denmark 1864, Austro-Hungarian Empire 1866 and the France-Prussian 
