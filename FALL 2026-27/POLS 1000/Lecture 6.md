@@ -4,4 +4,4 @@
 	- Following decisions are made by PM
 		- Which members of Parliament will be members of the cabinet
 		- Which portfolios will be assigned to which cabinet ministers
-		- Which MP's will serve as parliamentary Secrat
+		- Which MP's will serve as parliamentary Secretaries
