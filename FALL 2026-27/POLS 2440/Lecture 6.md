@@ -37,3 +37,5 @@
 	- The Third Reich found its ultimate expression in the Holocaust where hitler persecuted Jews across Europe
 	- The Third Reich was claimed to last 1000 years by Hitler, but only lasted 12
 	- Hitler committed suicide in April of 1945 and Germany surrendered unconditionally in May of 1945.
+- Germany Divided
+	- By 1949 the wartime division
