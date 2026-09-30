@@ -51,4 +51,6 @@
 	- A federal system compromised of a central government (in Bonn) and 11 state governments (LANDER)
 	- A parliamentary system in which political parties were free to compete for power
 	- An electoral system based on proportional representation, but not pure proportional representation 
-	- 
+- The Federal Republic
+	- Survived the transition to democracy and became a consolidated democracy
+	- The Basic Law built a
