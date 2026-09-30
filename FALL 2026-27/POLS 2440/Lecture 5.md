@@ -50,4 +50,3 @@
 	- Some EU states use it a lot like Switzerland while others rarely use it like Germany
 	- Referendums can be 'government led' (TOP DOWN)
 	- They can also be 'citizen led' (BOTTOM UP)
-	- 3
