@@ -53,4 +53,6 @@
 	- An electoral system based on proportional representation, but not pure proportional representation 
 - The Federal Republic
 	- Survived the transition to democracy and became a consolidated democracy
-	- The Basic Law built a
+	- The Basic Law built a stable political system, bringing economic success
+	- in 1989 people started moving from east to west
+	- Under Art
