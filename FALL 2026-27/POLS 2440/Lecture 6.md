@@ -3,4 +3,4 @@
 	- There are different ways a country can become a liberal democracy
 		- Economy, History, Surrounding countries relations
 	- Within Case study allows us to look at the same political system at different points of time
-	- 
+	- There are also different pressures and forces
