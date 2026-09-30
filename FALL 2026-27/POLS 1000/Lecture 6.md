@@ -23,4 +23,7 @@
 		- Strong ministers tended to remain in charge of a single department for longer periods of time rather than shuffling
 		- Senior appointed officials usually served their careers within a single department
 			- They would care about the interests of their department more than the state as a whole
-		- This worked well until
+		- This worked well until the 1960's as the state has expanded greatly
+		- Policies become more complex, there needs to be more communication between departments 
+	- Institutionalized Cabinet
+		- 
