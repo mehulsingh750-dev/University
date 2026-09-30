@@ -8,4 +8,5 @@
 		- Advising the Governor General on dissolution, proroguing the House of Commons (HOC), orders-in-council appointments, the Speech from the Throne.
 		- Answers questions during the question period
 		- Invoking closure during a debate
-	- 
+- Ministerial Responsibility
+	- Cabinet is responsible for its choices and must defend themselves to parliamen 
