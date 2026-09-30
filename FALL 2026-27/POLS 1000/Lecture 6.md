@@ -5,4 +5,5 @@
 		- Which members of Parliament will be members of the cabinet
 		- Which portfolios will be assigned to which cabinet ministers
 		- Which MP's will serve as parliamentary Secretaries
-		- 
+		- Advising the Governor General on dissolution, proroguing the House of Commons (HOC), orders-in-  
+council appointments, the Speech from the Throne.
