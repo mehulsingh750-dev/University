@@ -4,4 +4,5 @@
 		- Economy, History, Surrounding countries relations
 	- Within Case study allows us to look at the same political system at different points of time
 	- There are also different pressures and forces that might challenge the existence of a liberal democracy
-	- 
+- The German Empire
+	- Created in 1871
