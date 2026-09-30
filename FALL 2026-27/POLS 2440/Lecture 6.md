@@ -55,4 +55,4 @@
 	- Survived the transition to democracy and became a consolidated democracy
 	- The Basic Law built a stable political system, bringing economic success
 	- in 1989 people started moving from east to west
-	- Under Art
+	- Under Article 23 of the basic law, East Germany joined the FRG as the five new Lander. This was not a case of two states joining to create one new on, The GDR disapeared and its territory and its people joined the Federal Republic.
