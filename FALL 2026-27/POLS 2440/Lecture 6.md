@@ -17,4 +17,6 @@
 - Democracy in Germany
 	- The path to democracy was slow and interrupted 
 	- The first attempt was the Weimar Republic, ultimately collapsed and was replaced by the horrors of the Third Reich
-	- The secind attempt came only following
+	- The second attempt came only following the unconditional surrender of Germany in 1945
+	- The allied victory of WW2 resulted in the division of Germany
+	- The reult was a Germany divided into the Federal Republic of 
