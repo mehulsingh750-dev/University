@@ -26,4 +26,6 @@
 		- This worked well until the 1960's as the state has expanded greatly
 		- Policies become more complex, there needs to be more communication between departments 
 	- Institutionalized Cabinet
-		- 
+		- Focuses on more consultation and coordination
+		- Cabinet ministers shoudl have greater control over bureaucracy
+		- Another stimulus was the development of techniques fr
