@@ -12,4 +12,4 @@
 	- There were seemingly democratic elements to this political system
 	- There was for an example an elected parliament, the Reichstag - and political parties (including a growing socialist party drawing support from a growing working class)
 	- But overall, this system can be classified as a facade democracy
-	- 
+	- Introduced social security and pe
