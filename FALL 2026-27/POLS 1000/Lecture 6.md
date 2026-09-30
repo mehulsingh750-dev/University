@@ -15,4 +15,4 @@
 	- Example:
 		- Lucien Bouchard resigned in 1990 over the changes to the Meech Lake Accord
 		- Led to the formation of the Bloc Quebecois 
-	- 
+	- Individual ministers are responsible for their own departments and must
