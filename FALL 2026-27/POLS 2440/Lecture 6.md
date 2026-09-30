@@ -1,4 +1,5 @@
 - Liberal Democracy
 	- A true democracy that has freedom, fair elections, citizens rights are protected, universal suffrage and the government are subject to the rule of law
 	- There are different ways a country can become a liberal democracy
-		- 
+		- e
+	- Within C
