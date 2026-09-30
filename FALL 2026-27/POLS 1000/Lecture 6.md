@@ -11,4 +11,6 @@
 - Ministerial Responsibility
 	- Cabinet is responsible for its choices and must defend themselves to parliament
 	- They are not allowed to publicly disagree with government policy
-	- 
+	- If an individual minister publicly disagrees with the cabinets decision, they must resign
+	- Example:
+		- Lucien Bou
