@@ -27,4 +27,6 @@
 	- The Weimar Republic had all the elements of a liberal democracy (right to vote, protection of rights and competing political parties)
 	- The Weimar Republic did not survive. It was swept away by the rise to power of Hitlers National Socialist (Nazi) Party
 	- There were many factors involved
-		- 
+		- Lack of support for a democracy from Germany's upper classes
+		- Powerful extremist forces that opposed democracy - including the communist party as well as the Nazis
+		- Legacy of def
