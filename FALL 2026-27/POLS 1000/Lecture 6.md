@@ -33,4 +33,7 @@
 		- Shuffling the ministers reduces bias towards one department and puts more focus on the welfare of the state
 	- Central Agencies
 		- Permanent Executive
+			- Constituted of career public servants
+			- Does not change with a change of government
+		- Political Executive
 			- 
