@@ -11,6 +11,9 @@
 	- Prussian king, advised by Bismarck, had himself crowned emperor of Germany (Kaiser) and governed with the consent of the traditional aristocracy and anew elite whose power was based on Germany's growing industrial might
 	- There were seemingly democratic elements to this political system
 	- There was for an example an elected parliament, the Reichstag - and political parties (including a growing socialist party drawing support from a growing working class)
-	- But overall, this system can be classified as a facade democracy
 	- Introduced social security and pension systems 
-	- 
+	- But overall, this system can be classified as a facade democracy
+	- Ruled with the interest of land owners and industrialists
+- Democracy in Germany
+	- The path to democracy was slow and interrupted 
+	- The first attempt was the Weimar 
