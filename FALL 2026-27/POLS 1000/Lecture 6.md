@@ -41,4 +41,4 @@
 		- Central agencies coordinate the governments legislative agenda across the bureaucracy
 		- Privy Council Office (PCO)
 			- Permanent non political department
-			- Head of the PCO is the Clerk of the Privvy Council
+			- Head of the PCO is the Clerk of the Privy Council
