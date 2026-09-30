@@ -1,2 +1,2 @@
 - Liberal Democracy
-	- A true democracy that has freedom, fair elections,
+	- A true democracy that has freedom, fair elections, citizens rights are protected, universal suffrage
