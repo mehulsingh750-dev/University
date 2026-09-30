@@ -29,4 +29,4 @@
 	- There were many factors involved
 		- Lack of support for a democracy from Germany's upper classes
 		- Powerful extremist forces that opposed democracy - including the communist party as well as the Nazis
-		- Legacy of def
+		- Legacy of defeat in WW1 and the Treaty of Versailles
