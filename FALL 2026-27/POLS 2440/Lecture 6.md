@@ -10,4 +10,4 @@
 		- Denmark 1864, Austro-Hungarian Empire 1866 and the France-Prussian War
 	- Prussian king, advised by Bismarck, had himself crowned emperor of Germany (Kaiser) and governed with the consent of the traditional aristrocracy and anew elite whose power was based on Germany's growing industrial might
 	- There were seemingly democratic elements to this political system
-	- 
+	- There was for an example an elected parliament, the Reichstag - and political parties (including a growing socialist party drawing support from a growing working class)
