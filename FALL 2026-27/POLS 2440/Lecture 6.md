@@ -31,4 +31,5 @@
 		- Powerful extremist forces that opposed democracy - including the communist party as well as the Nazis
 		- Legacy of defeat in WW1 and the Treaty of Versailles
 		- The Great Depression
+- The Third Reich
 	- 
