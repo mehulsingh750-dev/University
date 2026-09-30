@@ -21,4 +21,6 @@
 	- Departmentalized Cabinet
 		- Ministers and their departments were mostly autonomous
 		- Strong ministers tended to remain in charge of a single department for longer periods of time rather than shuffling
-		- 
+		- Senior appointed officials usually served their careers within a single department
+			- They would care about the interests of their department more than the state as a whole
+		- This worked well until
