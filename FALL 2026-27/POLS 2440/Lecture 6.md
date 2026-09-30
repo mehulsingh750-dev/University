@@ -42,4 +42,6 @@
 		- The west part and the east part which was controlled by the Soviet Union
 	- West Germany --> Federal Republic of Germany
 	- East Germany --> German Democratic Republic
+	- The GDR was a one-party state under the Soviet Union
+	- The constitution of the West Germany was drafted by a Parliamentary Council made up of the main political parties under the oversight of the Allied Powers
 	- 
