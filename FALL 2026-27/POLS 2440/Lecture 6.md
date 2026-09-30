@@ -7,4 +7,5 @@
 - The German Empire
 	- Modern Germany was created in 1871
 	- German unification was led by prussia and followed a series of three wars
-		- Denmark 1864, Austro-Hungarian Empire 1866 and the France-Prussian 
+		- Denmark 1864, Austro-Hungarian Empire 1866 and the France-Prussian War
+	- 
