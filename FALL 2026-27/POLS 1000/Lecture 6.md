@@ -1,3 +1,3 @@
 - Essay question relates to who controls the power in government, PM, parliament or cabinet
 - Prime Minister
-	- 
+	- Characterized as the 'first among equals' with
