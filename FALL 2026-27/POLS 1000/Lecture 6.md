@@ -18,4 +18,7 @@
 	- Individual ministers are responsible for their own departments and in theory, must resign if there are wrongdoings in their department
 	- Most of the time, the PM will do a cabinet shuffle which means ministers switch roles with each other
 - Two Models of Cabinet Government
-	- 
+	- Departmentalized Cabinet
+		- Ministers and their departments were mostly autonomous
+		- Strong ministers tended to remain in charge of a single department for longer periods of time rather than shuffling
+		- 
