@@ -43,5 +43,5 @@
 			- Permanent non political department
 			- Head of the PCO is the Clerk of the Privy Council
 		- Prime Ministers Political Office (PMO)
-			- Ensure that the gov. policy agenda coordinated by the PCO alos advances the political agenda of the ruling party
+			- Ensure that the gov. policy agenda coordinated by the PCO also advances the political agenda of the ruling party
 			- 
