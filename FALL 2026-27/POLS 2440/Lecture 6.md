@@ -20,4 +20,6 @@
 	- The second attempt came only following the unconditional surrender of Germany in 1945
 	- The allied victory of WW2 resulted in the division of Germany
 	- The result was a Germany divided into the Federal Republic of Germany and the German Democratic Republic
-	- This lasted until 1989-1990 when the German Democratic Republic was dissolved and joined 
+	- This lasted until 1989-1990 when the German Democratic Republic was dissolved and joined the Federal Republic of Germany
+- Weimar Republic
+	- The German Empire ended following Germany's defeat in the first world war which resulted in the 
