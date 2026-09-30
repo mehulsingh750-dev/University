@@ -32,4 +32,5 @@
 		- Legacy of defeat in WW1 and the Treaty of Versailles
 		- The Great Depression
 - The Third Reich
-	- All of the factors mentioned previously resulted in Hitlers rise to power in the 1933 election and the end of the Weimar Republic which was replaced by the Totali
+	- All of the factors mentioned previously resulted in Hitlers rise to power in the 1933 election and the end of the Weimar Republic which was replaced by the Totalitarian Third Reich
+		- Totalitarian means everything is controlled by the government, such as the media, economy, education 
