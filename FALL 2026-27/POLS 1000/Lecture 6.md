@@ -30,5 +30,7 @@
 		- Cabinet ministers shoudl have greater control over bureaucracy
 		- Another stimulus was the development of techniques for more rational government decision making 
 		- Deputy minister is the bureaucratic head of a department 
-		- Shuffling the ministers reduces bias towards one department and puts more focus on the welfare of the state 
-		-                                                                                                                                                                                              
+		- Shuffling the ministers reduces bias towards one department and puts more focus on the welfare of the state
+	- Central Agencies
+		- Permanent Executive
+			- 
