@@ -16,4 +16,5 @@
 	- Ruled with the interest of land owners and industrialists
 - Democracy in Germany
 	- The path to democracy was slow and interrupted 
-	- The first attempt was the Weimar 
+	- The first attempt was the Weimar Republic, ultimately collapsed and was replaced by the horrors of the Third Reich
+	- The secind attempt came only following
