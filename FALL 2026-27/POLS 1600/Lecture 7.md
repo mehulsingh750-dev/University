@@ -3,4 +3,6 @@
 	- Society is organized into classes of people based on the 'mode of production'
 	- This refers to how labor in society is organized
 - Capital vs The Proletariat 
+- Hegemony
+	- Came from Gramsci
 	- 
