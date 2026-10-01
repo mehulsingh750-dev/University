@@ -5,4 +5,6 @@
 - Capital vs The Proletariat 
 - Hegemony
 	- Came from Gramsci
+	- Wrote under a fascist dictatorship
+	- Argued that there is coercion through force
 	- 
