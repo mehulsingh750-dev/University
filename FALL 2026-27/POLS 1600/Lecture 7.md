@@ -1,2 +1,3 @@
 - Marxism
-	- Historical materiliams
+	- Historical materialism 
+	- Society is organized into classes of people based o
