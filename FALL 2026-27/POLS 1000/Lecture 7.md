@@ -17,5 +17,5 @@
 	- Two of the four central agencies report directly to the Prime Minister
 	- Prime Ministers office and the Privy Council Office
 	- The PM decides on the structure of the machinery of government, as well as the structure of the Cabinet
-	- Machinery = Executive Branch
-	- 
+		- Machinery = Executive Branch
+		- Appoints all ministers of the crown, deputy ministers, and ministerial Che
