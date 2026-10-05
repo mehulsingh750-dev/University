@@ -38,4 +38,5 @@ Courts and the Charter
 - Pre 1982: The Umpire of Federalism 
 	- The Courts Distributes powers between 2 orders of governments 
 -  Post 1982: Guardian of the Constitution
-	- Instead of distributing powers between federal and provincial governments, it decides whether or not they are able to act if it violates protected rights and fre
+	- Instead of distributing powers between federal and provincial governments, it decides whether or not they are able to act if it violates protected rights and freedoms 
+	- 
