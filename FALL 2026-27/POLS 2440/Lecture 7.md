@@ -22,4 +22,6 @@
 		- Governments were weak in this system, only lasted on average for 6 months
 		- The republic also had to deal with the process of decolonization - French Indochina (1946-1954)
 		- The fourth republic only lasted for 12 years, falling in 1958
-		- The immediate cause of the collapse was the threat of a military coup
+		- The immediate cause of the collapse was the threat of a military coup, linked to the war in Algeria
+		- Algeria was a colony, people in France so it as a direct part of itself
+		- French Mi
