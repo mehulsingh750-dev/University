@@ -34,4 +34,4 @@ Key Terms
 Courts and the Charter
 - Judicial Review
 	- The power of the courts to adjudicate the validity of legislation or an action of the executive branch of government.
-	- 
+- The Constitution Act of 1982 transformed the primary role of the Supreme 
