@@ -45,4 +45,6 @@
 		- The system survived COHABITATION
 			- This is a situation where the president and the prime minister come from different political backgrounds
 - The United Kingdom
-	- Europe has experienced dif
+	- Europe has experienced different waves of democratization
+	- The United kingdom was part of the first SLOW WAVE that occurred gradually through the 19th century and early 20th century 
+	- 
