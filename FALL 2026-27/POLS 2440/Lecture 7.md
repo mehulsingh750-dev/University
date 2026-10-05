@@ -17,4 +17,6 @@
 		- The liberation of France and the end of WW2 led to a provisional government headed by de Gaulle
 		- A constitution was drafted for a new system
 		- This led to the creation of the fourth republic in 1946
+		- De Gaulle disagreed with the central features of the fourth republic and retired from politics
+		- He claimed it was too similar to the third republic and what allowed Germany to invade in the first place
 		- 
