@@ -11,5 +11,7 @@
 		- France fell in June 1940, northern and western parts of the country were controlled by Germany
 		- The government of unoccupied France was led by Marshall PETAIN, but was later controlled by germans
 		- The Vichy regime collaborated with the Nazis to capture French jews and their transportation to concentration camps
-		- Outside of France, General Charles de Gaulle claimed to be the legitimate government of France
+		- Outside of France, General Charles de Gaulle claimed to be the legitimate government of France, established Free French Forces
 		- The other large governments in the war effort did not fully recognize him as the leader 
+	- Fourth Republic
+		- The liberation of France and
