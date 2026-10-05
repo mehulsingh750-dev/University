@@ -13,4 +13,5 @@
 	- Each department has a minister and deputy minister
 - MP's pre 1878 did not have any ties with actual political parties, simply held their own beliefs 
 - 1978-1965, parties were formed 
-- Currently we are in a Prime Ministerial-Centered
+- Currently we are in a Prime Ministerial-Centred Parliamentary Democracy
+	- Two of the four central agencies report directly to the Prime Minister
