@@ -11,4 +11,5 @@
 		- Fisheries and Oceans Canada
 		- Foreign Affairs and International Trade Canada
 	- Each department has a minister and deputy minister
-- MP's
+- MP's pre 1878 did not have any ties with actual political parties, simply held their own beliefs 
+- 1978-1965,
