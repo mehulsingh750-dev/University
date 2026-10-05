@@ -22,4 +22,5 @@
 		- Also issues 'Letter of Instruction' to all incoming Cabinet members, telling them what they have to do in the coming months
 	- Parliamentary officers are public servants who are put in place to help Parliamentarians to do their job
 		- Auditor General, the Ethics Counsel, the Commissioner of Official Languages
-	- Cabinet has moved from being efficient to dignified as the PM 
+	- Cabinet has moved from being efficient to dignified as the executive gains more power
+	- 
