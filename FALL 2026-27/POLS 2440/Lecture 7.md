@@ -82,4 +82,5 @@
 			- House of lords and House of Commons
 			- 650 MP's in HOC
 	- House of Lords
-		- The Power of the House of Lords and the H
+		- The Power of the House of Lords was limited between 1911 and 1949
+		- Only has the power of delay - suspensive veto of 12 months, excluding 'money bills' and bills that were in the gobe
