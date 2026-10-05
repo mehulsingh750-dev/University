@@ -16,4 +16,6 @@
 - Currently we are in a Prime Ministerial-Centred Parliamentary Democracy
 	- Two of the four central agencies report directly to the Prime Minister
 	- Prime Ministers office and the Privy Council Office
-	- The PM decides on the structure of 
+	- The PM decides on the structure of the machinery of government, as well as the structure of the Cabinet
+	- Machinery = Executive Branch
+	- 
