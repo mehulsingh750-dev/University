@@ -60,4 +60,6 @@
 	- Constitutional Monarchy
 		- A constitutional monarchy is very different from a monarchial system
 		- In a constitutional monarchy, there is a king/queen but their role is limited
-		- 
+		- The monarch is the head of state but not the head of government
+		- Real political power lies with the PARLIAMENT
+		- In the UK, the monarcs
