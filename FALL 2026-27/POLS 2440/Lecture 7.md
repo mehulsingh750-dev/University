@@ -53,4 +53,5 @@
 		- William the Conqueror 
 	- Unlike Germany and France, a change of political systems has not been forced on the United Kingdom by external forces following a military defeat
 	- Gradualism
-		- 
+		- This history does not mean the UK has not totally avoided conflict.
+		- The UK has evolved into a liberal democracy where the main featur
