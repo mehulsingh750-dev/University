@@ -9,4 +9,5 @@
 	- A bureaucratic agency with responsibility for a policy sector
 		- Canadian Heritage
 		- Fisheries and Oceans Canada
-		- Foreign Aff
+		- Foreign Affairs and International Trade Canada
+	- Each department has a 
