@@ -41,3 +41,5 @@
 		- Separation of Church and State
 		- Ensure the equality of all citizens before the law, without distinction of origin, race or religion.
 		- The constitution outlives De Gaulle, as he resigned in 1969
+		- It also survived the transition from the right to the left. in 1981 a Socialist President, Francois Mitterrand was elected.
+		- 
