@@ -9,4 +9,6 @@
 		- In 1870 it was established following the defeat in the Franco-Prussian war
 	- WW2
 		- France fell in June 1940, northern and western parts of the country were controlled by Germany
-		- The government of unoccupied France was led by Marshall PETAIN, but was later contr
+		- The government of unoccupied France was led by Marshall PETAIN, but was later controlled by germans
+		- The Vichy regime collaborated with the Nazis to capture French jews and their transportation to concentration camps
+		- Outside of France, General C
