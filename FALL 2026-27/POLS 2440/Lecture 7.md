@@ -76,4 +76,5 @@
 		- Over time, the House of lords has become less relevant while the House of Commons had become more relevant 
 		- Universal Suffrage was eventually introduced as well
 	- Parliamentary System - The Westminster System
-		- The u
+		- The UK has evolved into a parliamentary system
+		- This is a reference to the fact that the executive is a part of the legislature. They are fused rather than separate 
