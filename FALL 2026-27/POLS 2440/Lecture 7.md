@@ -62,4 +62,6 @@
 		- In a constitutional monarchy, there is a king/queen but their role is limited
 		- The monarch is the head of state but not the head of government
 		- Real political power lies with the PARLIAMENT
-		- In the UK, the monarcs
+		- In the UK, the monarchs are largely symbolic
+		- Through the 18th century the monarch increasingly came to rely on advice of ministers mainly coming from parliament
+		- The leading adviser 
