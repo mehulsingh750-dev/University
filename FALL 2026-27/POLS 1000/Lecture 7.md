@@ -20,4 +20,5 @@
 		- Machinery = Executive Branch
 		- Appoints all ministers of the crown, deputy ministers, and ministerial Chiefs of staff
 		- Also issues 'Letter of Instruction' to all incoming Cabinet members, telling them what they have to do in the coming months
-	- 
+	- Parliamentary officers are public servants who are put in place to help Parliamentarians to do their job
+		- Auditor General for example
