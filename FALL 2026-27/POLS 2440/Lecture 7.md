@@ -72,3 +72,4 @@
 		- By 1800, Great Britain did not have a liberal democracy
 		- Although the power of the monarch was depleting, the parliament was not representative of the people
 		- The House of Lords, based on the hereditary principle, was powerful
+		- The House of Commons was based on elections but only 5% of the populaiton 
