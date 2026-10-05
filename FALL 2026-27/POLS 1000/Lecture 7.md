@@ -32,4 +32,6 @@ Key Terms
 - Central Agency
 - Line Department
 Courts and the Charter
-- 
+- Judicial Review
+	- The power of the courts to adjudicate the validity of legislation or an action of the executive branch of government.
+	- 
