@@ -36,4 +36,6 @@
 		- A central goal was to strengthen the executive and make governments more durable
 		- It put in place a Semi-Presidential System
 		- It became a model for other countries in Europe
-		- However, it still draws on the Declaration of the Rights of man a 
+		- However, it still draws on the Declaration of the Rights of man and of the Citizen of 1789
+		- France shall be an invisible, secular, democratic and social republic
+		- Separation of Church and State
