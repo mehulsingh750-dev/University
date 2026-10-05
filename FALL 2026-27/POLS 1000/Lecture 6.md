@@ -27,7 +27,7 @@
 		- Policies become more complex, there needs to be more communication between departments 
 	- Institutionalized Cabinet
 		- Focuses on more consultation and coordination
-		- Cabinet ministers shoudl have greater control over bureaucracy
+		- Cabinet ministers should have greater control over bureaucracy
 		- Another stimulus was the development of techniques for more rational government decision making 
 		- Deputy minister is the bureaucratic head of a department 
 		- Shuffling the ministers reduces bias towards one department and puts more focus on the welfare of the state
@@ -44,4 +44,3 @@
 			- Head of the PCO is the Clerk of the Privy Council
 		- Prime Ministers Political Office (PMO)
 			- Ensure that the gov. policy agenda coordinated by the PCO also advances the political agenda of the ruling party
-			- 
