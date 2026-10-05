@@ -35,4 +35,5 @@
 		- The constitution of the Fifth Republic is the current constitutional system in France
 		- A central goal was to strengthen the executive and make governments more durable
 		- It put in place a Semi-Presidential System
-		- 
+		- It became a model for other countries in Europe
+		- However, it still draws on the Declaration of the Rights of man a 
