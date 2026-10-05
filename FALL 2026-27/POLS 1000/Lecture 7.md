@@ -11,4 +11,4 @@
 		- Fisheries and Oceans Canada
 		- Foreign Affairs and International Trade Canada
 	- Each department has a minister and deputy minister
-- 
+- MP's
