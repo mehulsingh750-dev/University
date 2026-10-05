@@ -1,2 +1,7 @@
 - Democracy in France
-	- Since the french
+	- Since the french revolution, France has experienced 11 political systems
+		- 5 republics
+		- 3 monarchies
+		- 2 empires
+		- 1 fascist puppet state
+	- 
