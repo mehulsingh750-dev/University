@@ -32,4 +32,7 @@
 		- He would only return if he could rewrite the French Constitution
 		- In 1958, De Gaulle became the leader of the 5th French Republic
 	- Fifth Republic
-		- The constitution of the Fifth Republic is the current consti
+		- The constitution of the Fifth Republic is the current constitutional system in France
+		- A central goal was to strengthen the executive and make governments more durable
+		- It put in place a Semi-Presidential System
+		- 
