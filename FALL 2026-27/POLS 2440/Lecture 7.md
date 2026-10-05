@@ -26,4 +26,7 @@
 		- Algeria was a colony, people in France so it as a direct part of itself
 		- French Military was reluctant to giving up Algeria
 		- This followed the humiliations in Indochina in 1954 and Suez in 1956
-		- In 1958 the French Military seized power in Algiers 
+		- In 1958 the French Military seized power in Algiers and then in Corsica
+		- There was fear that fighting in civil war would spread to France
+		- De Gaulle was asked to return to power
+		- He would only return 
