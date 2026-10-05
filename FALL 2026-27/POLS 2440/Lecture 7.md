@@ -40,3 +40,4 @@
 		- France shall be an invisible, secular, democratic and social republic
 		- Separation of Church and State
 		- Ensure the equality of all citizens before the law, without distinction of origin, race or religion.
+		- The constitution outlives De Gaulle, from his
