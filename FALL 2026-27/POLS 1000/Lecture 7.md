@@ -37,6 +37,5 @@ Courts and the Charter
 - The Constitution Act of 1982 transformed the primary role of the Supreme Court of Canada from the "Umpire of Federalism" to the "Guardian of the Constitution"
 - Pre 1982: The Umpire of Federalism 
 	- The Courts Distributes powers between 2 orders of governments 
-	- 
 -  Post 1982: Guardian of the Constitution
-	- 
+	- Instead of 
