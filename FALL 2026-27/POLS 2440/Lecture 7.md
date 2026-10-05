@@ -57,4 +57,7 @@
 		- The UK has evolved into a liberal democracy where the main features are 
 			- A constitutional monarchy - separate from the Head of Government
 			- A Parliamentary system - "Westminster system"- with the executive made up of members of the legislature and drawing its authority from the confidence of the legislature
+	- Constitutional Monarchy
+		- A constitutional monarchy is very different from a monarchial system
+		- In a constitutional monarchy, there is a king/queen but their role is limited
 		- 
