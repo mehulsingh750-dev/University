@@ -39,3 +39,4 @@
 		- However, it still draws on the Declaration of the Rights of man and of the Citizen of 1789
 		- France shall be an invisible, secular, democratic and social republic
 		- Separation of Church and State
+		- Ensure the equality of all citizens be
