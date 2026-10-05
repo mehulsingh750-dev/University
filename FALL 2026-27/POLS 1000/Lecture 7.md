@@ -3,4 +3,4 @@
 	- Directly linked to the budget and issues of confidence
 	- Gatekeeper of the public purse, determines how much money each department will get
 - Treasury Board Secretariat (TBS)
-	- Responsible for the estimates 
+	- Responsible for the regular spending of departments, departmental budget, the estimaetes
