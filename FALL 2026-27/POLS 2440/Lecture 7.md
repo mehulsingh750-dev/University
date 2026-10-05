@@ -21,4 +21,5 @@
 		- He claimed it was too similar to the third republic and what allowed Germany to invade in the first place
 		- Governments were weak in this system, only lasted on average for 6 months
 		- The republic also had to deal with the process of decolonization - French Indochina (1946-1954)
-		- 
+		- The fourth republic only lasted for 12 years, falling in 1958
+		- The immediate cause of the collapse was the threat of a military coup
