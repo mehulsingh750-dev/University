@@ -14,4 +14,7 @@
 		- Outside of France, General Charles de Gaulle claimed to be the legitimate government of France, established Free French Forces
 		- The other large governments in the war effort did not fully recognize him as the leader 
 	- Fourth Republic
-		- The liberation of France and
+		- The liberation of France and the end of WW2 led to a provisional government headed by de Gaulle
+		- A constitution was drafted for a new system
+		- This led to the creation of the fourth republic in 1946
+		- 
