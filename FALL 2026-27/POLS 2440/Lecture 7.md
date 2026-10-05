@@ -42,5 +42,7 @@
 		- Ensure the equality of all citizens before the law, without distinction of origin, race or religion.
 		- The constitution outlives De Gaulle, as he resigned in 1969
 		- It also survived the transition from the right to the left. in 1981 a Socialist President, Francois Mitterrand was elected.
-		- The system survived COHABIATION
+		- The system survived COHABITATION
 			- This is a situation where the president and the prime minister come from different political backgrounds
+- The United Kingdom
+	- 
