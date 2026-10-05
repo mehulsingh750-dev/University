@@ -23,4 +23,13 @@
 	- Parliamentary officers are public servants who are put in place to help Parliamentarians to do their job
 		- Auditor General, the Ethics Counsel, the Commissioner of Official Languages
 	- Cabinet has moved from being efficient to dignified as the executive gains more power
-	- 
+Key Terms
+- Individual Ministerial Responsibility
+- Collective Ministerial Responsibility
+- Departmentalized Cabinet
+- Institutionalized Cabinet
+- Permanent Executive
+- Central Agency
+- Line Department
+Courts and the Charter
+- 
