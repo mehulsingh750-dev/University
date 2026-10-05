@@ -69,4 +69,5 @@
 		- The monarch still meets weekly with the Prime Minister
 		- The reality is that the monarchy plays only a small role
 	- Liberal Democracy
-		- By 1800, Great Britain 
+		- By 1800, Great Britain did not have a liberal democracy
+		- 
