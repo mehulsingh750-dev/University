@@ -81,3 +81,5 @@
 		- The UK has a BICAMERAL system
 			- House of lords and House of Commons
 			- 650 MP's in HOC
+	- House of Lords
+		- The Power of the House of Lords and the H
