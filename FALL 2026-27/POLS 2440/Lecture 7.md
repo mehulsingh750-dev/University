@@ -66,4 +66,7 @@
 		- Through the 18th century the monarch increasingly came to rely on advice of ministers mainly coming from parliament
 		- The leading adviser became known as the Prime Minister
 		- The monarch is still apart of the Parliament and Royal Assent is needed for any bill to be passed into law
-		- The monarch still meets weekl
+		- The monarch still meets weekly with the Prime Minister
+		- The reality is that the monarchy plays only a small role
+	- Liberal Democracy
+		- By 1800, Great Britain 
