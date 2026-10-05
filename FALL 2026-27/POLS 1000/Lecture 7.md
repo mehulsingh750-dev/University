@@ -36,6 +36,6 @@ Courts and the Charter
 	- The power of the courts to adjudicate the validity of legislation or an action of the executive branch of government.
 - The Constitution Act of 1982 transformed the primary role of the Supreme Court of Canada from the "Umpire of Federalism" to the "Guardian of the Constitution"
 - Pre 1982: The Umpire of Federalism 
-	- The Courts Distribut
+	- The Courts Distributes powers between 2 orders of governments 
 -  Post 1982: Guardian of the Constitution
 	- 
