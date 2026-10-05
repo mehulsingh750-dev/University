@@ -64,4 +64,6 @@
 		- Real political power lies with the PARLIAMENT
 		- In the UK, the monarchs are largely symbolic
 		- Through the 18th century the monarch increasingly came to rely on advice of ministers mainly coming from parliament
-		- The leading adviser 
+		- The leading adviser became known as the Prime Minister
+		- The monarch is still apart of the Parliament and Royal Assent is needed for any bill to be passed into law
+		- The monarch still meets weekl
