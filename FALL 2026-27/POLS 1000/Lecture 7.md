@@ -18,4 +18,6 @@
 	- Prime Ministers office and the Privy Council Office
 	- The PM decides on the structure of the machinery of government, as well as the structure of the Cabinet
 		- Machinery = Executive Branch
-		- Appoints all ministers of the crown, deputy ministers, and ministerial Che
+		- Appoints all ministers of the crown, deputy ministers, and ministerial Chiefs of staff
+		- Also issues 'Letter of Instruction' to all incoming Cabinet members, telling th
+	- 
