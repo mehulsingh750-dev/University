@@ -48,5 +48,7 @@
 	- Europe has experienced different waves of democratization
 	- The United kingdom was part of the first SLOW WAVE that occurred gradually through the 19th century and early 20th century 
 	- British History has been marked by a process of gradual evolution rather than a sharp regime change
-	- Britian has avoided major military defeats that have led to invasion and conquest
+	- Britain has avoided major military defeats that have led to invasion and conquest
+	- The last major external conquest was in 1066
+		- William the Conqueror 
 	- 
