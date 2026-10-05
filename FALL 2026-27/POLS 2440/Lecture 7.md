@@ -29,4 +29,6 @@
 		- In 1958 the French Military seized power in Algiers and then in Corsica
 		- There was fear that fighting in civil war would spread to France
 		- De Gaulle was asked to return to power
-		- He would only return 
+		- He would only return if he could rewrite the French Constitution
+		- In 1958, De Gaulle became the leader of the 5th French Republic
+		- 
