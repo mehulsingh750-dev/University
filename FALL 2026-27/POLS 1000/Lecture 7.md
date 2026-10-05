@@ -1,4 +1,5 @@
 - Department of Finance (DOF)
 	- Second most important member of the government
 	- Directly linked to the budget and issues of confidence
-	- Gatekeeper of the public purse
+	- Gatekeeper of the public purse, determines how much money each department will get
+	- 
