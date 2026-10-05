@@ -77,4 +77,7 @@
 		- Universal Suffrage was eventually introduced as well
 	- Parliamentary System - The Westminster System
 		- The UK has evolved into a parliamentary system
-		- This is a reference to the fact that the executive is a part of the legislature. They are fused rather than separate 
+		- This is a reference to the fact that the executive is a part of the legislature. They are fused rather than separate, as in a presidential system
+		- The UK has a BICAMERAL system
+			- House of lords and House of Commons
+			- 650 MP's in HOC
