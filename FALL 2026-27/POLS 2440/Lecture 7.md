@@ -12,4 +12,4 @@
 		- The government of unoccupied France was led by Marshall PETAIN, but was later controlled by germans
 		- The Vichy regime collaborated with the Nazis to capture French jews and their transportation to concentration camps
 		- Outside of France, General Charles de Gaulle claimed to be the legitimate government of France
-		- 
+		- The other large governments in the war effort did not fully recognize him as the leader 
