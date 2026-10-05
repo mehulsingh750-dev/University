@@ -47,4 +47,6 @@
 - The United Kingdom
 	- Europe has experienced different waves of democratization
 	- The United kingdom was part of the first SLOW WAVE that occurred gradually through the 19th century and early 20th century 
+	- British History has been marked by a process of gradual evolution rather than a sharp regime change
+	- Britian has avoided major military defeats that have led to invasion and conquest
 	- 
