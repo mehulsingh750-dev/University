@@ -51,4 +51,4 @@
 	- Britain has avoided major military defeats that have led to invasion and conquest
 	- The last major external conquest was in 1066
 		- William the Conqueror 
-	- 
+	- Unlike Germany and France, a change of political systems has not been forced on the United Kingdom
