@@ -24,4 +24,6 @@
 		- The fourth republic only lasted for 12 years, falling in 1958
 		- The immediate cause of the collapse was the threat of a military coup, linked to the war in Algeria
 		- Algeria was a colony, people in France so it as a direct part of itself
-		- French Mi
+		- French Military was reluctant to giving up Algeria
+		- This followed the humiliations in Indochina in 1954 and Suez in 1956
+		- In 1958 the French Military seized power in Algiers 
