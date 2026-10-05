@@ -8,4 +8,5 @@
 	- Third Republic
 		- In 1870 it was established following the defeat in the Franco-Prussian war
 	- WW2
-		- France fell in June 1940, 
+		- France fell in June 1940, northern and western parts of the country were controlled by Germany
+		- The government of unoccupied France was led by Marshall PETAIN, but was later contr
