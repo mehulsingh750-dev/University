@@ -6,4 +6,6 @@
 		- 1 fascist puppet state
 	- There is a history of internal revolution
 	- Third Republic
-		- 
+		- In 1870 it was established following the defeat in the Franco-Prussian war
+	- WW2
+		- France fell in June 1940, 
