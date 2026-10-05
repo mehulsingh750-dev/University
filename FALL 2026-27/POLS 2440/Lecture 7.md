@@ -4,4 +4,4 @@
 		- 3 monarchies
 		- 2 empires
 		- 1 fascist puppet state
-	- 
+	- There is a history of internal revolution
