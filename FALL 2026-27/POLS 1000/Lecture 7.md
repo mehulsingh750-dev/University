@@ -5,4 +5,8 @@
 - Treasury Board Secretariat (TBS)
 	- Responsible for the regular spending of departments, departmental budget, the estimates, etc.
 	- Also in charge of labour relations in public service
-- Line 
+- Line Departments
+	- A bureaucratic agency with responsibility for a policy sector
+		- Canadian Heritage
+		- Fisheries and Oceans Canada
+		- Foreign Aff
