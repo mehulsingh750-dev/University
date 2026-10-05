@@ -45,4 +45,4 @@
 		- The system survived COHABITATION
 			- This is a situation where the president and the prime minister come from different political backgrounds
 - The United Kingdom
-	- 
+	- Europe has experienced dif
