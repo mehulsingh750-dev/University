@@ -22,4 +22,5 @@ Feminism
 	- How our relations with each other, institutions, the environment, and labor ensure intergenerational reproduction of people, culture, wealth and society.
 - Diplomacy Before 1980
 	- Women were delegated to becoming a diplomat or a diplomats wife
-- Feminist in
+- Feminist internation Assistance Policy
+	- 
