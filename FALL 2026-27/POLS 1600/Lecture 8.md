@@ -4,4 +4,5 @@ Short answer 2
 - De-Globalization and Re-Globalization Ch2
 Feminism
 - Historically, women have not held positions of power despite making up around 53% of the population
-- Cynthia Enloe 
+- Cynthia Enloe
+	- Questioned w
