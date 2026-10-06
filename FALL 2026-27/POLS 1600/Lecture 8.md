@@ -23,4 +23,3 @@ Feminism
 - Diplomacy Before 1980
 	- Women were delegated to becoming a diplomat or a diplomats wife
 - Feminist International Assistance Policy
-	-
