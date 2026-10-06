@@ -9,4 +9,7 @@ Feminism
 	- Argued that women were present, just not represented
 - 4 strands of Feminist Theory
 	- Liberal Feminism
-		- 
+		- Women have the same rights of men to work, be educated and live
+	- Post Colonial Feminism
+	- Critical/Marxist Feminism 
+	- 
