@@ -20,5 +20,5 @@ Feminism
 		- Gender is fluid and constructed 
 - Social Reproduction 
 	- How our relations with each other, institutions, the environment, and labor ensure intergenerational reproduction of people, culture, wealth and society.
-	- 
+- Diplomacy Bef
 	
