@@ -5,4 +5,5 @@ Short answer 2
 Feminism
 - Historically, women have not held positions of power despite making up around 53% of the population
 - Cynthia Enloe
-	- Questioned w
+	- Questioned where women were in international relations
+	- 
