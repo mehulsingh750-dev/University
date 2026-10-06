@@ -13,6 +13,7 @@ Feminism
 	- Post Colonial Feminism
 		- Emphasis on women's agency
 		- Recognizes the differences between race and culture between women
+		- North/South divides
 	- Critical/Marxist Feminism 
-		- 
+		- Focuses on labour and social reproduction
 	
