@@ -7,4 +7,6 @@ Feminism
 - Cynthia Enloe
 	- Questioned where women were in international relations
 	- Argued that women were present, just not represented
+- 4 strands of Feminist Theory
+	- Liberal Feminisim
 	- 
