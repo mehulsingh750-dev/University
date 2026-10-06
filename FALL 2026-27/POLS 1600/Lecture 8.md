@@ -12,6 +12,7 @@ Feminism
 		- Women have the same rights of men to work, be educated and live
 	- Post Colonial Feminism
 		- Emphasis on women's agency
-		- Recognizes the differences between ara
+		- Recognizes the differences between race and culture between women
 	- Critical/Marxist Feminism 
+		- 
 	
