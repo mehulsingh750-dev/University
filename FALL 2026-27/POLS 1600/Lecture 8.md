@@ -17,5 +17,5 @@ Feminism
 	- Critical/Marxist Feminism 
 		- Focuses on labour and social reproduction
 - Social Reproduction 
-	- How our relations with eachother, institu
+	- How our relations with each other, institutions, the environment, and 
 	
