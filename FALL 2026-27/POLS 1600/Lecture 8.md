@@ -7,7 +7,7 @@ Feminism
 - Cynthia Enloe
 	- Questioned where women were in international relations
 	- Argued that women were present, just not represented
-- 4 strands of Feminist Theory
+- 3 strands of Feminist Theory
 	- Liberal Feminism
 		- Women have the same rights of men to work, be educated and live
 	- Post Colonial Feminism
@@ -16,4 +16,6 @@ Feminism
 		- North/South divides
 	- Critical/Marxist Feminism 
 		- Focuses on labour and social reproduction
+- Social Reproduction 
+	- How our relations with eachother, institu
 	
