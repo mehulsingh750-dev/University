@@ -34,4 +34,4 @@
 	- Analogous grounds means the list of terms isn't exhaustive, meaning more things can be introduced
 	- Egan v Canada
 		- Canada did not include same sex couples in the definition of spouse
-		- 
+	- 
