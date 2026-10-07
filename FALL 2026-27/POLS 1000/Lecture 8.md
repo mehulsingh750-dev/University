@@ -14,4 +14,4 @@
 	- Judicial enforcement mechanism 
 		- Via Sec 52, 24
 	- Constitutional and Judicial Supremacy
-- 
+- New Brunswick is the only province to adopt offical 
