@@ -19,5 +19,5 @@
 - Remedial Mechanism
 	- Reasonable limits clause
 		- Rights are not absolute, they are subject to parliament review and veto
-		- 
+		- Section 1 comes into play when the court rules a governemnt action violates a gright
 	-  
