@@ -14,4 +14,6 @@
 	- Judicial enforcement mechanism 
 		- Via Sec 52, 24
 	- Constitutional and Judicial Supremacy
-- New Brunswick is the only province to adopt offical 
+- New Brunswick is the only province to adopt official bilingualism
+	- Right for every public servant to work in the official language of their choice
+- 
