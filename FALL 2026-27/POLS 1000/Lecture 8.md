@@ -1,1 +1,5 @@
-- 
+- 1960 Bill of Rights
+	- Non entrenched statutory law
+	- Only at federal level
+	- No judicial enforement mechanism
+	- 
