@@ -17,7 +17,11 @@
 - New Brunswick is the only province to adopt official bilingualism
 	- Right for every public servant to work in the official language of their choice
 - Remedial Mechanism
-	- Reasonable limits clause
+	- Reasonable limits clause (Section 1)
 		- Rights are not absolute, they are subject to parliament review and veto
-		- Section 1 comes into play when the court rules a governemnt action violates a gright
+		- Section 1 comes into play when the court rules a government action violates a right
+		- They then decide if the infringement is justified
+		- Oakes Test
+			- The government must be pressing and substantial
+			- The means must be reasonable and 
 	-  
