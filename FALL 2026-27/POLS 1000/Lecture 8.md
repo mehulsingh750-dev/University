@@ -4,8 +4,11 @@
 		- Simple law of parliament that can be amended
 	- Only at federal level
 	- No judicial enforcement mechanism
+		- Not able to enforce
 - 1982 Charter
 	- Entrenched Constitutional Law
 		- Not easily amendable, requires the 7-50 rule
 	- Both at federal and provincial level
-	- Judicial 
+		- Enforced on everyone 
+	- Judicial enforcement mechanism 
+		- 
