@@ -27,5 +27,6 @@
 				- Rational Connection
 				- Minimal Impairment
 				- Proportionality
+					- Individual vs collective rights
 		- 
 	-  
