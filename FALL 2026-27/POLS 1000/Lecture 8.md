@@ -23,5 +23,9 @@
 		- They then decide if the infringement is justified
 		- Oakes Test
 			- The government must be pressing and substantial
-			- The means must be reasonable and 
+			- The means must be reasonable and demonstrably justifiable 
+				- Rational Connection
+				- Minimal Impairment
+				- Proportionality
+		- 
 	-  
