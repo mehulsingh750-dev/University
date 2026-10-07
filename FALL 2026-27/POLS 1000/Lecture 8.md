@@ -18,4 +18,6 @@
 	- Right for every public servant to work in the official language of their choice
 - Remedial Mechanism
 	- Reasonable limits clause
+		- Rights are not absolute, they are subject to parliament review and veto
 		- 
+	-  
