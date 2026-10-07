@@ -1,5 +1,8 @@
 - 1960 Bill of Rights
 	- Non entrenched statutory law
+		- Its not in the written constitution
+		- Simple law of parliament that can be amended
 	- Only at federal level
-	- No judicial enforement mechanism
+	- No judicial enforcement mechanism
+- 1982 Charter
 	- 
