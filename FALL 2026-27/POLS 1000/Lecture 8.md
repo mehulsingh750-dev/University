@@ -14,3 +14,4 @@
 	- Judicial enforcement mechanism 
 		- Via Sec 52, 24
 	- Constitutional and Judicial Supremacy
+- 
