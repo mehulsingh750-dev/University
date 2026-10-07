@@ -29,5 +29,5 @@
 				- Proportionality
 					- Individual vs collective rights
 	- The Notwithstanding Clause
-		- Applies to ever
-		-  
+		- Applies to everything but democratic rights and linguistic rights
+		- 
