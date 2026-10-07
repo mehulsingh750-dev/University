@@ -28,5 +28,6 @@
 				- Minimal Impairment
 				- Proportionality
 					- Individual vs collective rights
+	- The Notwithstanding Clause
 		- 
-	-  
+		-  
