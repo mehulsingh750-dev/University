@@ -5,4 +5,7 @@
 	- Only at federal level
 	- No judicial enforcement mechanism
 - 1982 Charter
-	- 
+	- Entrenched Constitutional Law
+		- Not easily amendable, requires the 7-50 rule
+	- Both at federal and provincial level
+	- Judicial 
