@@ -31,4 +31,5 @@
 	- The Notwithstanding Clause
 		- Applies to everything but democratic rights and linguistic rights
 - Equality Rights and same sex marriage
+	- Analogous grounds means the list of terms isnt exhaustive, meaning more things can be introduced
 	- 
