@@ -5,6 +5,7 @@
 	- Only at federal level
 	- No judicial enforcement mechanism
 		- Not able to enforce judicial remedies
+	- Parliamentary supremacy
 - 1982 Charter
 	- Entrenched Constitutional Law
 		- Not easily amendable, requires the 7-50 rule
@@ -12,3 +13,4 @@
 		- Enforced on everyone 
 	- Judicial enforcement mechanism 
 		- Via Sec 52, 24
+	- Constitutional and Judicial Supremacy
