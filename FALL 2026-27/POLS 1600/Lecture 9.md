@@ -2,4 +2,5 @@
 	- Term comes from the Cold War
 	- An underdeveloped country 
 	- Focused on exporting goods such as natural resources to stay afloat
-	- After the cold war, there was a wave of decolonization  
+	- After the cold war, there was a wave of decolonization but many scholars suggest this never fully came to fruition
+	- 
