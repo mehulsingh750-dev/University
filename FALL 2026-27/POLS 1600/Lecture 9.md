@@ -10,4 +10,4 @@
 - Power Diffusion
 	- How is power being restructured globally today?
 	- Where to, what kind of power, and to what ends?
-	- 
+	- BRICS countries 
