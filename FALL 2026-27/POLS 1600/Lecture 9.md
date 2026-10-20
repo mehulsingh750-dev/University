@@ -7,3 +7,4 @@
 	- Weak economies = Weak state institutions
 	- Limited collective identity 
 	- Global South is a term widely used to refer to third world countries 
+- 
