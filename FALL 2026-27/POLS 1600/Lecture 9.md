@@ -6,3 +6,4 @@
 	- Former colonies had weak economies due to the export of raw materials and high rates of exploitation, along with poor terms of trade
 	- Weak economies = Weak state institutions
 	- Limited collective identity 
+	- 
