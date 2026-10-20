@@ -13,4 +13,5 @@
 	- BRICS countries 
 		- Brazil, Russia, India, China, South Africa
 	- Bandung Conference (1955)
-		- 
+		- Non-Aligned movement 
+	- 
