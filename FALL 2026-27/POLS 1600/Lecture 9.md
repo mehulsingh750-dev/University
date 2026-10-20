@@ -1,1 +1,5 @@
-- 
+- Third World Countries
+	- Term comes from the Cold War
+	- An underdeveloped country 
+	- Focused on exporting goods such as natural resources to stay afloat
+	- 
