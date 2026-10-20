@@ -9,4 +9,5 @@
 	- Global South is a term widely used to refer to third world countries 
 - Power Diffusion
 	- How is power being restructured globally today?
-		- Where to, what kind
+	- Where to, what kind of power, and to what ends?
+	- 
