@@ -6,4 +6,6 @@
 	- Replacement voters
 		- Young voters who just gained the ability to participate replacing citizens who have passed
 	- Exit Voters
-		- Voters who have participated previosuly, but have chose not to 
+		- Voters who have participated previously, but have chose not to vote again for a number of reasons.
+	- Returning Voters
+		- 
