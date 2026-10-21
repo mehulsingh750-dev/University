@@ -1,4 +1,5 @@
 - Partisanship
 	- Refers to party identification
-		- Durable Partisan always votes for t
-		- 
+		- Durable Partisans always votes for the same party
+		- Flexible Partisans changes their vote between/during elections
+	- 
