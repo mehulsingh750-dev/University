@@ -3,4 +3,7 @@
 		- Durable Partisans always votes for the same party
 		- Flexible Partisans changes their vote between/during elections
 		- Flexible Partisans respond to short term issues, accounting for ***volatility*** during elections 
-	- 
+	- Replacement voters
+		- Young voters who just gained the ability to participate replacing citizens who have passed
+	- Exit Voters
+		- Voters who have participated previosuly, but have chose not to 
