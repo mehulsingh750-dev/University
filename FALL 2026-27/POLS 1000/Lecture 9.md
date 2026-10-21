@@ -2,4 +2,5 @@
 	- Refers to party identification
 		- Durable Partisans always votes for the same party
 		- Flexible Partisans changes their vote between/during elections
+		- Fle
 	- 
