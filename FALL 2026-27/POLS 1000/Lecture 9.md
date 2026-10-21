@@ -1,1 +1,4 @@
-- 
+- Partisanship
+	- Refers to party identification
+		- Durable Partisan always votes for t
+		- 
