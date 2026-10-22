@@ -1,2 +1,2 @@
 - Post Colonial Theory
-	- 
+	- Historical legacy of colonialism, imperialism 
