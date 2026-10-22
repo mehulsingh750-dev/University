@@ -1,2 +1,4 @@
 - Post Colonial Theory
-	- Historical legacy of colonialism, imperialism 
+	- Historical legacy of colonialism, imperialism and racism
+	- Challenges mainstream ir
+	- 
