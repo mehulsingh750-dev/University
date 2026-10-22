@@ -3,4 +3,4 @@
 	- Challenges mainstream IR theory in 3 ways
 		- Epistemology - How do we make truth claims
 		- Ontology - What exists, what is the structure of the material world
-		- 
+		- Normative - Values + Political
