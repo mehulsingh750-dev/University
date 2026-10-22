@@ -1,4 +1,5 @@
 - Post Colonial Theory
 	- Historical legacy of colonialism, imperialism and racism
-	- Challenges mainstream ir
-	- 
+	- Challenges mainstream IR theory in 3 ways
+		- Epistimomology
+		- 
