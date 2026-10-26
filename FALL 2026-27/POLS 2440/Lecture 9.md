@@ -15,4 +15,5 @@
 		- The Federal Constitutional Court can rule these to be unconstitutional
 	- Amending the Basic Law requires a SUPERMAJORITY
 		- Anything beyond a simple majority
-		- Requires a proposal fro
+		- Requires a proposal from the federal government, the Bundesrat or the Bundestag
+		- Approval requires a two thirds majority of the Bundestag and th
