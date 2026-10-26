@@ -21,4 +21,5 @@
 		- Current German Chancellor pushed through a constitutional amendment in 2025
 		- This reform allows for the increased defence spending as well as increased infrastructure 
 	- The Federal Constitutional Court
-		- 
+		- Germany's Supreme Court
+		- The court has been set up to be removed from politics (third party review). The 16 judges serve 12 y
