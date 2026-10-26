@@ -33,10 +33,12 @@
 	- It is often stated that the UK has an unwritten constitution 
 	- The UK constitution is constructed from five main sources
 		- Statute law - Acts of Parliament passed at different times
-		- Examples include the 1911 Parliament Act; the 1999 House of Lords Act, and the 1998 Scotland Act
-		- When writing about the UK constitution, commentators talk about PARLIAMENTARY SOVEREIGNTY
-		- Parliament has the authority to make or unmake any law, regardless of its subject matter 
+			- Examples include the 1911 Parliament Act; the 1999 House of Lords Act, and the 1998 Scotland Act
+			- When writing about the UK constitution, commentators talk about PARLIAMENTARY SOVEREIGNTY
+			- Parliament has the authority to make or unmake any law, regardless of its subject matter 
 		- Common law - Legal principles and rules established by the courts 
-		- Many negative rights such as freedom of speech have been established through court interpretation of the law
+			- Many negative rights such as freedom of speech have been established through court interpretation of the law
 		- Conventions - procedures that have been developed over time
-		- An example of a convention is that cabinet ministers should be drawn from the parliament with most coming from the House of Commons
+			- An example of a convention is that cabinet ministers should be drawn from the parliament with most coming from the House of Commons
+			- That the government should resign if it loses a vote of confidence
+		- 
