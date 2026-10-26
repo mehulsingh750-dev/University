@@ -1,3 +1,3 @@
 - The German Basic Law
 	- The Federal Republic of Germany's Constitution was drafted after the end of the Second World War and the unconditional surrender of the Nazi's
-	- 
+	- The Basic Law is the name given to the constitution of the Federal Republci of 
