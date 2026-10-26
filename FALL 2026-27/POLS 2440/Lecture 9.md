@@ -18,3 +18,5 @@
 		- Requires a proposal from the federal government, the Bundesrat or the Bundestag
 		- Approval requires a two thirds majority of the Bundestag and the Bundesrat
 		- An example is the DEBT BRAKE (balanced budget) amendment passed in 2009. The limits the government's ability to run a budget deficit
+		- Current German Chancellor pushed through a constitutional amendment in 2025
+		- This reform allows for the increased defence spending as well as increased 
