@@ -4,4 +4,6 @@
 	- This constitution only applied to West Germany. The German Democratic Republic had its own constitution
 	- With the reunification of Germany in 1990m the former territory of East Germany was integrated within the framework of the Basic Law.
 	- There was a major economic difference between East and West Germany which caused the integration of them to be difficult
-	- The East didnt have a votinf 
+	- The East didn't have a voting system while the West did, making the political integration complicated as well
+	- The Basic law was drafted under the influence of occupying powers
+	- The primary G
