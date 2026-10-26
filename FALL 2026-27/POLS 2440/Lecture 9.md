@@ -43,4 +43,5 @@
 			- That the government should resign if it loses a vote of confidence
 		- Academic/Expert Interpretations. Judges, for example. sometimes consult and rely on expert interpretations in order to shape their decisions 
 		- International Treaties 
-			- The UK joined international organizations and signed international treaties 
+			- The UK joined international organizations and signed international treaties that impact the rights of its citizens. (The European Convention of Human Rights)
+			- 
