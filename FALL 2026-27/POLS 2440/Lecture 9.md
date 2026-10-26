@@ -24,4 +24,5 @@
 		- Germany's Supreme Court
 		- The court has been set up to be removed from politics (third party review). The 16 judges serve 12 year terms that cannot be renewed 
 		- 8 are elected by the Bundestag and t8 by the Bundesrat. They need to secure the support of 2/3's of the votes cast
-		- It has the power of JUDICIAL REVIEW
+		- It has the power of JUDICIAL REVIEW; that is, it has the power to declare a federal legislative act unconstitutional
+		- The court has the power of 'concrete review and 'abstract review'
