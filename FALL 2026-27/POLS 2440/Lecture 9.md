@@ -7,4 +7,5 @@
 	- The East didn't have a voting system while the West did, making the political integration complicated as well
 	- The Basic law was drafted under the influence of occupying powers
 	- The primary goal of Basic Law was to establish a liberal democracy in West Germany that would survive and become a consolidated democracy
-	- The first articles contain the fundamentals rights of German Citizens protected from being infringed on by the state
+	- The first articles contain the fundamentals rights of German Citizens protected from being infringed on by the state - Negative rights.
+	- 
