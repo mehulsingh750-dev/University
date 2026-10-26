@@ -38,4 +38,5 @@
 		- Parliament has the authority to make or unmake any law, regardless of its subject matter 
 		- Common law - Legal principles and rules established by the courts 
 		- Many negative rights such as freedom of speech have been established through court interpretation of the law
-		- 
+		- Conventions - procedures that have been developed over time
+		- An example of a convention is that cabinet ministers should 
