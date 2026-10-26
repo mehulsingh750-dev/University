@@ -34,6 +34,7 @@
 	- The UK constitution is constructed from five main sources
 		- Statute law - Acts of Parliament passed at different times
 		- Examples include the 1911 Parliament Act; the 1999 House of Lords Act, and the 1998 Scotland Act
-		- When writing about the UK constitution, commentators talk about PARLIAMENTARY SOVEREIGNITY
+		- When writing about the UK constitution, commentators talk about PARLIAMENTARY SOVEREIGNTY
 		- Parliament has the authority to make or unmake any law, regardless of its subject matter 
-		- Common law
+		- Common law - Legal principles and rules established by the courts 
+		- 
