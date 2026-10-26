@@ -2,4 +2,5 @@
 	- The Federal Republic of Germany's Constitution was drafted after the end of the Second World War and the unconditional surrender of the Nazi's
 	- The Basic Law is the name given to the constitution of the Federal Republic of Germany - entered into effect of 1949
 	- This constitution only applied to West Germany. The German Democratic Republic had its own constitution
-	- With the reunif
+	- With the reunification of Germany in 1990m the former territory of East Germany was integrated within the framework of the Basic Law.
+	- 
