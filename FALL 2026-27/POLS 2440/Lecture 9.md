@@ -16,4 +16,5 @@
 	- Amending the Basic Law requires a SUPERMAJORITY
 		- Anything beyond a simple majority
 		- Requires a proposal from the federal government, the Bundesrat or the Bundestag
-		- Approval requires a two thirds majority of the Bundestag and th
+		- Approval requires a two thirds majority of the Bundestag and the Bundesrat
+		- An example is the DEBT BRAKE (balanced budget) amendment passed in 2009. The limits the government's ability to run a budget deficit
