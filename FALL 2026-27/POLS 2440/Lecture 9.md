@@ -9,3 +9,5 @@
 	- The primary goal of Basic Law was to establish a liberal democracy in West Germany that would survive and become a consolidated democracy
 	- The first articles contain the fundamentals rights of German Citizens protected from being infringed on by the state - Negative rights.
 	- It also contains positive rights
+	- These rights cannot be revoked by an act of parliament or constitutional amendment - The Eternity Clause ***exam
+	- 
