@@ -26,3 +26,4 @@
 		- 8 are elected by the Bundestag and t8 by the Bundesrat. They need to secure the support of 2/3's of the votes cast
 		- It has the power of JUDICIAL REVIEW; that is, it has the power to declare a federal legislative act unconstitutional
 		- The court has the power of 'concrete review' and 'abstract review'
+		- 
