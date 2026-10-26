@@ -27,4 +27,6 @@
 		- It has the power of JUDICIAL REVIEW; that is, it has the power to declare a federal legislative act unconstitutional
 		- The court has the power of 'concrete review' and 'abstract review'
 - The UK Constitution
-	- The United Kingdom is different from Ger
+	- The United Kingdom is different from Germany with respect to its constitution. these differences are evident in a number of different ways
+	- First, there is no one moment when the constitution was written
+	- Second, the constituion does not exist in onde document 
