@@ -29,4 +29,6 @@
 - The UK Constitution
 	- The United Kingdom is different from Germany with respect to its constitution. these differences are evident in a number of different ways
 	- First, there is no one moment when the constitution was written
-	- Second, the constituion does not exist in onde document 
+	- Second, the constitution does not exist in one document 
+	- It is often stated that the UK has an unwritten constitution 
+	- 
