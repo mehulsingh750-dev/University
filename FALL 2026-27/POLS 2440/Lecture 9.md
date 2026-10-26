@@ -35,4 +35,5 @@
 		- Statute law - Acts of Parliament passed at different times
 		- Examples include the 1911 Parliament Act; the 1999 House of Lords Act, and the 1998 Scotland Act
 		- When writing about the UK constitution, commentators talk about PARLIAMENTARY SOVEREIGNITY
-		- 
+		- Parliament has the authority to make or unmake any law, regardless of its subject matter 
+		- Common law
