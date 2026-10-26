@@ -15,4 +15,4 @@
 		- The Federal Constitutional Court can rule these to be unconstitutional
 	- Amending the Basic Law requires a SUPERMAJORITY
 		- Anything beyond a simple majority
-	- 
+		- Requires a proposal fro
