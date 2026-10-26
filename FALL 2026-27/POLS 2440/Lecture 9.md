@@ -11,6 +11,6 @@
 	- It also contains positive rights
 	- These rights cannot be revoked by an act of parliament or constitutional amendment - The Eternity Clause ****exam****
 	- The negative rights include the rights to form political parties 
-		- Except extreme parties, made to fundamentally overthrow the constitution 
-		- The Feder
+		- Except extreme parties, made to fundamentally overthrow the constitution and/or abolish the democratic order
+		- The Federal Constitutional Court can rule these to be unconstitutional
 	- 
