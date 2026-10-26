@@ -46,4 +46,4 @@
 			- The UK joined international organizations and signed international treaties that impact the rights of its citizens. (The European Convention of Human Rights)
 	- Constitutional Amendement 
 		- Another unusual feature of the UK constitution is the way it can be changed 
-		- 
+		- There is no formal amending formula. Consequently, the UK constitution is easier to chnage than in the case with t
