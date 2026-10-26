@@ -23,4 +23,5 @@
 	- The Federal Constitutional Court
 		- Germany's Supreme Court
 		- The court has been set up to be removed from politics (third party review). The 16 judges serve 12 year terms that cannot be renewed 
-		- 
+		- 8 are elected by the Bundestag and t8 by the Bundesrat. They need to secure the support of 2/3's of the votes cast
+		- It has the power of JUDICIAL REVIEW
