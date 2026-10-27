@@ -2,4 +2,7 @@
 	- Complexes of norms, rules and practices
 	- Shaping expectations, behaviour + outcomes
 - 3 kinds of institutions 
-	- Con
+	- Constitutional 
+		- basic, taken for granted
+		- Structuring institution
+	- 
