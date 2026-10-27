@@ -5,4 +5,5 @@
 	- Constitutional 
 		- basic, taken for granted
 		- Structuring institution
-	- 
+	- Fundamental 
+		- 
