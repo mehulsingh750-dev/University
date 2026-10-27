@@ -12,4 +12,5 @@
 		- More formal, often structured by treaty
 - 4 characteristics of International law
 	- Multilateral form of legislation
-	- Consent based
+	- Consent based form of legal obligation
+	- 
