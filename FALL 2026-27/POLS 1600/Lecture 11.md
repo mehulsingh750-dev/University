@@ -10,4 +10,5 @@
 		- Rules about normal state behaviour
 	- Issue specific/ regime
 		- More formal, often structured by treaty
+- 4 characteristics of International law
 	- 
