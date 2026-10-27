@@ -8,4 +8,5 @@
 	- Fundamental 
 		- International law, multilateral cooperation
 		- Rules about normal state behaviour
-	- 
+	- Issue specific/ regime
+		- More formal
