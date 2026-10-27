@@ -11,4 +11,5 @@
 	- Issue specific/ regime
 		- More formal, often structured by treaty
 - 4 characteristics of International law
-	- 
+	- Multilateral form of legislation
+	- Consent based
