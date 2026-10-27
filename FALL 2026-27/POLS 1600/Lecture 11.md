@@ -6,4 +6,6 @@
 		- basic, taken for granted
 		- Structuring institution
 	- Fundamental 
-		- 
+		- International law, multilateral cooperation
+		- Rules about normal state behaviour
+	- 
