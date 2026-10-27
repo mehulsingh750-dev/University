@@ -9,4 +9,5 @@
 		- International law, multilateral cooperation
 		- Rules about normal state behaviour
 	- Issue specific/ regime
-		- More formal
+		- More formal, often structured by treaty
+	- 
