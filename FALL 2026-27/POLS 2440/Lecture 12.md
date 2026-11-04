@@ -12,5 +12,5 @@
 	- Political powers are divided by the Basic Law between the federal gov and Lander\
 	- In some cases, powers are shared between the two
 	- The Federal gov has the power to make decisions that affect the entire country
-	- But, the Lander are signifigant in aprt because they constitute the upper chamber of the federal legislature 
-	- 
+	- But, the Lander are significant in apart because they constitute the upper chamber of the federal legislature 
+	- Political comp of Bundesrat does not always align with the political composition of the Bundestag
