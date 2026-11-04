@@ -65,4 +65,4 @@
 	- Good Friday Agreement devolved political power to Northern Ireland
 	- The political system established as part of the peace process is based on consociationalism 
 	- It is a process that is based on power sharing in a divided society
-	- 
+	- Elites of different groups share power
