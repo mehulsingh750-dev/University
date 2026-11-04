@@ -58,4 +58,6 @@
 	- The British army entered Northern Ireland
  - Good Friday Agreement
 	 - It was signed in 1998
-	 - 
+	 - Created a devolved assembly based on regional elections that allowed for power sharing
+	 - Removal of the border between the Republic of Ireland and northern Ireland.
+	 - IRA
