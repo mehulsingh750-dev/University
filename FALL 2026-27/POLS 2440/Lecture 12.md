@@ -21,4 +21,6 @@
 	- Centralization would promote the equality of all French
 	- In 1800 Napoleon introduced a system of 'Prefects', representatives of the central government 
 	- This is an example of Deconcentrated government rather than decentralization
+- Regional Divisions in France
+	- National Identity is traditionally strong in France
 	- 
