@@ -33,4 +33,7 @@
 - French Senate
 	- Senate is the Upper House 
 	- Plays a role in constitutional amendments
-	- Proposal adopted in identical terms b
+	- Proposal adopted in identical terms by the senate and national assembly
+	- Ratified by a joint session of the NA and the Senate (requires 3/5 majority)
+	- Has a say on legislative proposals 
+	- If the process fails to produce 
