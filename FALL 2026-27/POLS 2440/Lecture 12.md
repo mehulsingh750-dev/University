@@ -23,4 +23,5 @@
 	- This is an example of Deconcentrated government rather than decentralization
 - Regional Divisions in France
 	- National Identity is traditionally strong in France
-	- 
+	- But, there are regions which seek more power.
+	- Decentralization has occurred in France starting in the 1980's
