@@ -45,4 +45,4 @@
 		- Scotland
 	- UK refers to the link between Great Britain and Northern Ireland
 	- In 1922, the majority of Ireland seperated from the UL and formed a separate state, the Republic of Ireland
-	- An example of 
+	- An example of Secession
