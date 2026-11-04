@@ -25,4 +25,6 @@
 	- National Identity is traditionally strong in France
 	- But, there are regions which seek more power.
 	- Decentralization has occurred in France starting in the 1980's
+	- While france remains a unitary state, there are a large number of sub-national units of government
+	- There are regional governments, departments and communes 
 	- 
