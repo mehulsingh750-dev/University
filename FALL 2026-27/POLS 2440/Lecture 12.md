@@ -1,4 +1,6 @@
 - Powers of the Bureaucrat
 	- The Bundesrat has an absolute veto power over some policies
 	- Bundesrat is the upper house of the legislature
-	- Known as 'Consent bills', includes anything that impacts the compe
+	- Known as 'Consent bills', includes anything that impacts the competences and budgets of the Lander
+	- The Bundestag cannot overrule the Bundesrat on these issues
+	- 
