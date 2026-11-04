@@ -11,4 +11,6 @@
 	- The Lander vary in terms of geographic size, demographic size and wealth
 	- Political powers are divided by the Basic Law between the federal gov and Lander\
 	- In some cases, powers are shared between the two
-	- The FD
+	- The Federal gov has the power to make decisions that affect the entire country
+	- But, the Lander are signifigant in aprt because they constitute the upper chamber of the federal legislature 
+	- 
