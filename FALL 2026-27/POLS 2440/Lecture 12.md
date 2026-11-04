@@ -47,4 +47,6 @@
 	- In 1922, the majority of Ireland separated from the UL and formed a separate state, the Republic of Ireland
 	- An example of Secession
 - Northern Ireland
-	- One of the main features of Northern Ireland has been religous 
+	- One of the main features of Northern Ireland has been religous violence between protestant and catholic sections of the population
+	- Protestants were the majority and many seek continued union with Great Britain (Unionists)
+	- Catholics were the majo
