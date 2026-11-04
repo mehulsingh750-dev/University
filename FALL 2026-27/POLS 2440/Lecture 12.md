@@ -44,5 +44,7 @@
 		- Wales
 		- Scotland
 	- UK refers to the link between Great Britain and Northern Ireland
-	- In 1922, the majority of Ireland seperated from the UL and formed a separate state, the Republic of Ireland
+	- In 1922, the majority of Ireland separated from the UL and formed a separate state, the Republic of Ireland
 	- An example of Secession
+- Northern Ireland
+	- One of the main features of Northern Ireland has been religous 
