@@ -1,3 +1,4 @@
 - Powers of the Bureaucrat
-	- the Bundesrat has an absolute veto power over some policies
+	- The Bundesrat has an absolute veto power over some policies
+	- Bundesrat is the upper house of the legislature, 
 - 
