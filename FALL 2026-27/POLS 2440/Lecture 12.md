@@ -3,4 +3,5 @@
 	- Bundesrat is the upper house of the legislature
 	- Known as 'Consent bills', includes anything that impacts the competences and budgets of the Lander
 	- The Bundestag cannot overrule the Bundesrat on these issues
-	- 
+	- The Bundesrat considers all other bills as well
+	- Known as 'Objection Bills' 
