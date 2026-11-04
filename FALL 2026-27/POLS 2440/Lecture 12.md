@@ -19,4 +19,5 @@
 	- Power is traditionally centralized in Paris
 	- An arguement in favour of centralization is that is would strengthen national unity
 	- Centralization would promote the equality of all French
-	- In 1800 Napoleon
+	- In 1800 Napoleon introduced a system of 'Prefects', representatives of the central government 
+	- This is an example of De
