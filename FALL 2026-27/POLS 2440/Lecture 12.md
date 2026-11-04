@@ -28,4 +28,5 @@
 	- While France remains a unitary state, there are a large number of sub-national units of government
 	- There are regional governments, departments and communes 
 	- These governments have some degree of autonomy but are still subject to central control
-	- Local pLI
+	- Local Politicians are powerful political actors capable of influencing development at the centre
+	- Members of the Senate are selected by an electoral coll
