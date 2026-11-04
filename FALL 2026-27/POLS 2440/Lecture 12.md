@@ -55,4 +55,5 @@
 	- The 1960's are referred to as the start of 'The Troubles'
 	- The Irish Republican Army was a para-military organization
 	- They began a terror campaign aimed at using terrorism to bring about the integration of Nothern Ireland with the Republic
-	- The British army ent
+	- The British army entered Northern Ireland
+	- And Protestant para-military 
