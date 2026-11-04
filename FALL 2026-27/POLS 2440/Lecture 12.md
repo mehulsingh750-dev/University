@@ -60,4 +60,7 @@
 	 - It was signed in 1998
 	 - Created a devolved assembly based on regional elections that allowed for power sharing
 	 - Removal of the border between the Republic of Ireland and northern Ireland.
-	 - IRA
+	 - IRA committed to decommissioning it s weapons
+- Consociationalism 
+	- Good Friday Agreement devolved political power to Northern Ireland
+	- The political system established as part of the peace process is 
