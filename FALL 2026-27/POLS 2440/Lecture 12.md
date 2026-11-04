@@ -8,4 +8,7 @@
 - Conclusion
 	- Germany is a federal system
 	- The lander have a constitutionally guaranteed right to exist
-	- The Lander vary in terms of geog
+	- The Lander vary in terms of geographic size, demographic size and wealth
+	- Political powers are divided by the Basic Law between the federal gov and Lander\
+	- In some cases, powers are shared between the two
+	- The FD
