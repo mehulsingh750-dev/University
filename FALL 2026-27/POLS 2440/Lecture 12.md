@@ -1,0 +1,3 @@
+- Powers of the Bureaucrat
+	- the Bundesrat has an absolute veto power over some policies
+- 
