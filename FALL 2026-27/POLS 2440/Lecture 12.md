@@ -14,4 +14,6 @@
 	- The Federal gov has the power to make decisions that affect the entire country
 	- But, the Lander are significant in apart because they constitute the upper chamber of the federal legislature 
 	- Political comp of Bundesrat does not always align with the political composition of the Bundestag
-- France - The Fifth Republic and the gEOGRAPHIC dIVISION OF POW
+- France - The Fifth Republic and the Geographic Division of Power
+	- The Fifth Republic is a unitary state
+	- Power is traditionally centralized in Paris
