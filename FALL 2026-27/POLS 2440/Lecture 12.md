@@ -50,3 +50,7 @@
 	- One of the main features of Northern Ireland has been religous violence between protestant and catholic sections of the population
 	- Protestants were the majority and many seek continued union with Great Britain (Unionists)
 	- Catholics were the minority and many seek union with the republic of Ireland 
+	- Led to the development of a civil rights movement
+	- Catholics are now the majority
+	- The 1960's are referred to as the start of 'The Troubles'
+	- The Irish Republican army
