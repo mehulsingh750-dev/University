@@ -49,4 +49,4 @@
 - Northern Ireland
 	- One of the main features of Northern Ireland has been religous violence between protestant and catholic sections of the population
 	- Protestants were the majority and many seek continued union with Great Britain (Unionists)
-	- Catholics were the majo
+	- Catholics were the minority and many seek union with the republic of Ireland 
