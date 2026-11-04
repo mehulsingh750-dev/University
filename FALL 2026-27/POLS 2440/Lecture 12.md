@@ -29,5 +29,8 @@
 	- There are regional governments, departments and communes 
 	- These governments have some degree of autonomy but are still subject to central control
 	- Local Politicians are powerful political actors capable of influencing development at the centre
-	- Members of the Senate are selected by an electoral college that includes local and regional politicans 
-	- 
+	- Members of the Senate are selected by an electoral college that includes local and regional politicians 
+- French Senate
+	- Senate is the Upper House 
+	- Plays a role in constitutional amendments
+	- Proposal adopted in identical terms b
