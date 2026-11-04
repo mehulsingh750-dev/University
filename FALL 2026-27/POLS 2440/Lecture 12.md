@@ -17,7 +17,8 @@
 - France - The Fifth Republic and the Geographic Division of Power
 	- The Fifth Republic is a unitary state
 	- Power is traditionally centralized in Paris
-	- An arguement in favour of centralization is that is would strengthen national unity
+	- An argument in favour of centralization is that is would strengthen national unity
 	- Centralization would promote the equality of all French
 	- In 1800 Napoleon introduced a system of 'Prefects', representatives of the central government 
-	- This is an example of De
+	- This is an example of Deconcentrated government rather than decentralization
+	- 
