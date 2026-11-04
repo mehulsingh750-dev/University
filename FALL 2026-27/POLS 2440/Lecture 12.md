@@ -37,4 +37,6 @@
 	- Ratified by a joint session of the NA and the Senate (requires 3/5 majority)
 	- Has a say on legislative proposals 
 	- If the process fails to produce and agreement between the two chambers, the measure can be approved by the National Assembly alone
+- United Kingdom
+	- The United Kingdom of Great Britain and Northern Ireland is a multinational or Plurinational state
 	- 
