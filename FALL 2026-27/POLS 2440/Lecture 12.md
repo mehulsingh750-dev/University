@@ -5,4 +5,7 @@
 	- The Bundestag cannot overrule the Bundesrat on these issues
 	- The Bundesrat considers all other bills as well
 	- Known as 'Objection Bills', Bundestag can overrule the Bundesrat on these Bills
-	- 
+- Conclusion
+	- Germany is a federal system
+	- The lander have a constitutionally guaranteed right to exist
+	- The Lander vary in terms of geog
