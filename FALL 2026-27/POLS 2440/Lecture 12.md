@@ -53,4 +53,4 @@
 	- Led to the development of a civil rights movement
 	- Catholics are now the majority
 	- The 1960's are referred to as the start of 'The Troubles'
-	- The Irish Republican army
+	- The Irish Republican Army was a para-military organization
