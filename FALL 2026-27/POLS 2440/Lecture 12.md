@@ -63,4 +63,6 @@
 	 - IRA committed to decommissioning it s weapons
 - Consociationalism 
 	- Good Friday Agreement devolved political power to Northern Ireland
-	- The political system established as part of the peace process is 
+	- The political system established as part of the peace process is based on consociationalism 
+	- It is a process that is based on power sharing in a divided society
+	- 
