@@ -1,2 +1,4 @@
 - Embedded liberalism
 	- System that grew as a result of WW1 to avoid communism
+- Neoliberalism
+	- Idea that limited gov intervention in the economy is 
