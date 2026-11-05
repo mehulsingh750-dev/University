@@ -4,4 +4,6 @@
 	- Idea that limited gov intervention in the economy is ideal
 - 1970's
 	- Global economic crisis
-		- OPCE
+		- OPEC oil embargo in 1973
+		- Stopped exporting oil to countries that supported israel in the israel-arab conflict
+		- 
