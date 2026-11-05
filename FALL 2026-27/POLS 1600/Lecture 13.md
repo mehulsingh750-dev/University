@@ -1,1 +1,2 @@
-- NGO
+- Embedded liberalism
+	- System that grew as a 
