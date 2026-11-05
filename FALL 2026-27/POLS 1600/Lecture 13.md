@@ -6,4 +6,5 @@
 	- Global economic crisis
 		- OPEC oil embargo in 1973
 		- Stopped exporting oil to countries that supported israel in the israel-arab conflict
-		- Caused massi
+		- Caused massive inflation
+		- 
